@@ -26,249 +26,6 @@ library(qrcode)
 
 ```
 
-## Actividades de la sesión {.center}
-
-1.  Ronda de presentaciones.
-
-2.  Debate relámpago.
-
-3.  Presentación del programa.
-
-4.  *Analizar* el caso de Chile.
-
-## Ronda de presentación
-
-Mencionar:
-
--   Nombre
-
--   Ciudad natal
-
--   Dato curioso, interés personal o hobby
-
-## Debate relámpago
-
-Posicionarse (a favor o en contra) de la siguiente afirmación y preparar argumento:
-
-::: incremental
--   La trampa de ingreso medio se resuelve con ‘más mercado’.
--   Sin manufactura no hay convergencia.
-:::
-
-## Objetivos de aprendizaje de la asignatura (1/2) {.smaller}
-
-Al final de la asignatura, lxs estudiantes podrán:
-
-::: incremental
-1.  *Describir* las causas y las características de la Trampa del Ingreso Medio en el contexto de las economías latinoamericanas.
-
-2.  *Analizar* el impacto de la desindustrialización prematura en la productividad de largo plazo, integrando las teorías de la ventaja comparativa dinámica y el papel de la manufactura como motor de crecimiento.
-
-3.  *Contrastar* la dinámica del crecimiento bajo instituciones extractivas con la propuesta del Nuevo Desarrollismo.
-:::
-
-## Objetivos de aprendizaje de la asignatura (2/2)
-
-::: incremental
-4.  *Evaluar* la eficacia de herramientas macroprudenciales y estrategias de gestión de rentas para mitigar la Enfermedad Holandesa y la volatilidad en economías ricas en recursos.
-
-5.  *Formular* recomendaciones de política económica que sinteticen soluciones a fallas estructurales del desarrollo, adaptadas a las restricciones institucionales y políticas de un país específico.
-:::
-
-## ¿Qué es un Policy Brief? {.center}
-
-:::::: columns
-::: {.column width="60%"}
-Un **documento ejecutivo** dirigido a tomadorxs de decisiones que comunica análisis complejos de manera **clara y persuasiva**.
-
-<br>
-
-**Objetivo:** Integrar los conocimientos del curso para diagnosticar un problema estructural de desarrollo y proponer soluciones técnicas viables.
-:::
-
-:::: {.column width="40%"}
-::: callout-important
-Peso en la calificación 35% de la nota final
-:::
-::::
-::::::
-
-## Estructura del Policy Brief {.smallerer}
-
-::::: columns
-::: {.column width="50%"}
-### Contenido requerido
-
-1.  Presentación del **problema de desarrollo** en su contexto histórico
-2.  **Diagnóstico**: explicación del problema
-3.  **Evaluación** de alternativas de política
-4.  **Recomendaciones** operativas
-
-<br>
-
-Máximo **1,500 palabras**
-:::
-
-::: {.column width="50%"}
-### Ejes analíticos
-
--   Trampa del ingreso medio
--   Desindustrialización prematura
--   Sinergia institucional y gestión de rentas
--   Trilema del tipo de cambio
--   Enfermedad holandesa
--   El Estado facilitador
-
-<br>
-
-Elige **1-2**
-:::
-:::::
-
-## Citación de Textos Obligatorios {.center}
-
-::: callout-warning
-Requisito indispensable
-
-Tu policy brief **debe citar y dialogar** con las lecturas obligatorias del curso.
-:::
-
-<br>
-
-### ¿Por qué?
-
--   Fundamenta tu diagnóstico en **evidencia académica**
--   Demuestra dominio de los **marcos teóricos** del curso
--   Conecta tu caso con **debates más amplios** sobre desarrollo
-
-## Calendario de entregas
-
-| Fase                         |  Peso   | Fecha                 |
-|:-----------------------------|:-------:|:----------------------|
-| Título y Propuesta           |   10%   | Clase 4 (25 feb)      |
-| Presentación de Avances      |   10%   | Clase 9 (8 abr)       |
-| **Entrega del Policy Brief** | **35%** | **Clase 16 (27 may)** |
-| Presentación Final           |   10%   | Clase 17 (3 jun)      |
-
-<br>
-
-::: callout-tip
-En total
-
-El proyecto del policy brief representa el **65%** de tu calificación final.
-:::
-
-## Formato de las Sesiones {.smaller}
-
-::: callout-note
-Aula Invertida (*Flipped Classroom*)
-
-Aprender haciendo, no solo escuchando.
-:::
-
-<br>
-
-::::: columns
-::: {.column width="50%"}
-### Primera mitad
-
-**Clase magistral**
-
--   Exposición de conceptos clave
--   Contextualización teórica
--   Conexión con las lecturas
-:::
-
-::: {.column width="50%"}
-### Segunda mitad
-
-**Trabajo activo**
-
--   Resolución de problemas
--   Discusión en grupos
--   Aplicación a casos reales
-:::
-:::::
-
-<br>
-
-::: fragment
-*¿Por qué?* La evidencia muestra que el aprendizaje activo mejora la retención y la capacidad de aplicar conocimientos.
-:::
-
-## Módulo COIL {.center}
-
-**Collaborative Online International Learning**
-
-A partir de la **Clase 11** (22 de abril), trabajaremos en línea con estudiantes de la **Freie Universität Berlin**.
-
-<br>
-
-::: callout-warning
-Idioma de las sesiones COIL
-
-Inglés
-:::
-
-## Requisitos Técnicos para COIL {.smaller}
-
-Cada estudiante debe traer a las sesiones COIL:
-
-<br>
-
-| Requisito       | Detalle                                             |
-|-----------------|-----------------------------------------------------|
-| **Equipo**      | Laptop o tablet con Webex instalado                 |
-| **Audio**       | Audífonos con micrófono (headset) — **obligatorio** |
-| **Cámara**      | Encendida durante toda la sesión                    |
-| **Puntualidad** | Conectados a las **9:00 AM en punto**               |
-
-<br>
-
-::: callout-important
-¿Por qué el headset?
-
-Al estar todxs en el mismo salón, usar bocinas genera eco que imposibilita la comunicación con Berlín.
-:::
-
-## Evaluación del Curso
-
-::::: columns
-::: {.column width="55%"}
-### Componentes
-
-| Elemento                   | Peso |
-|----------------------------|:----:|
-| Policy Brief (total)       | 65%  |
-| Exámenes cortos (3)        | 25%  |
-| Asistencia y participación | 10%  |
-:::
-
-::: {.column width="45%"}
-### Exámenes cortos
-
-**Duración:** 30 minutos
-
-**Fechas:**
-
--   Clase 6 (11 mar)
--   Clase 10 (15 abr)
--   Clase 16 (27 may)
-
-Evalúan **aleatoriamente** contenidos de sesiones anteriores.
-:::
-:::::
-
-<br>
-
-:::: fragment
-::: callout-tip
-Consejo
-
-Mantente al día con las lecturas. Los exámenes pueden cubrir cualquier sesión previa.
-:::
-::::
-
 ## Asistencia y Participación {.center}
 
 ::: callout-warning
@@ -302,7 +59,7 @@ Minicaso
 :::
 
 ::: {style="color: #aed6f1; font-size: 1.5em; margin-top: 0.5em;"}
-Chile y la Trampa de Ingreso Medio
+México y la Trampa de Ingreso Medio
 :::
 
 ## Instrucciones {background-color="#f8f9fa"}
@@ -311,15 +68,15 @@ Chile y la Trampa de Ingreso Medio
 ::: {.column width="55%"}
 ### Escanea el código QR
 
-Lee el caso de estudio y las instrucciones de la actividad
+Lee las instrucciones de la actividad y el caso de estudio
 
 <br>
 
 **Tiempo de lectura:** 5 minutos
 
-**Trabajo en parejas:** 15 minutos
+**Trabajo en grupo:** 10 minutos
 
-**Discusión en pleno:** 20 minutos
+**Discusión en pleno:** 15 minutos
 :::
 
 ::: {.column width="45%"}
@@ -337,13 +94,14 @@ Lee el caso de estudio y las instrucciones de la actividad
 # 4. Reemplaza la URL de abajo con tu URL real
 # ============================================
 
-url_google_doc <- "https://docs.google.com/document/d/15hC8crIi6EKEUgGdGVfSfWEYGOhWfAUNvpkB5IHv6aQ/edit?usp=sharing"
+url_google_doc <- "https://docs.google.com/document/d/1qIknjlADA-NHFM54eM9lrcrnIxX12hOhxJNDMHHZXSk/edit?usp=sharing"
 
 # Generar código QR
 
 qr <- qr_code(url_google_doc)
 plot(qr)
 ```
+<http://bit.ly/4sImzKy>
 :::
 :::::
 
@@ -351,13 +109,54 @@ plot(qr)
 
 <br>
 
-::: {style="font-size: 1.1em;"}
-> ¿Qué asumiría la **teoría dominante** aquí?
+::: {.incremental .highlight-current style="font-size: 1.1em;"}
+> ¿Por qué México no crece?
 
 <br>
 
-> ¿Cuál es el **valor agregado** del enfoque alternativo?
+> Tema relevante?
+
+<br>
+
+> Nearshoring oportunidad real?
+
 :::
+
+## Programa
+
+¿Qué les llamó la atención, qué les generó curiosidad o qué no les quedó claro?
+
+## Programa: panorama
+
+México, comparación internacional, integración
+
+## Programa: Módulo COIL {.center}
+
+**Collaborative Online International Learning**
+
+A partir de la **sesión 6** (22 de abril), trabajaremos en línea con estudiantes de la **Freie Universität Berlin**.
+
+<br>
+
+::: callout-warning
+Idioma de las sesiones COIL
+
+Inglés
+:::
+
+## Programa: Requisitos Técnicos para COIL {.smaller}
+
+Cada estudiante debe contar para las sesiones COIL:
+
+<br>
+
+| Requisito       | Detalle                                             |
+|-----------------|-----------------------------------------------------|
+| **Equipo**      | Laptop o tablet con Webex instalado                 |
+| **Audio**       | Audífonos con micrófono (headset)                   |
+| **Cámara**      | Encendida durante toda la sesión                    |
+| **Puntualidad** | Conectados a las **9:00 AM en punto**               |
+
 
 ## Moodle {.center}
 
@@ -377,55 +176,19 @@ Cada aviso que publiquemos en el foro **"Avisos"** llegará directamente a su ba
 
 Registro con otro email = revisar de manera manual el foro de Avisos antes de clase.
 
-## Para la próxima sesión (11 feb) {.center}
+## Para la próxima sesión (18 mar) {.center}
 
-### Clase 2: Manufacturas como Estrategia de Industrialización
-
-## Tarea 1: Selección de Caso y Eje Analítico {.smaller}
-
-::: callout-warning
-Actividad en Moodle
-
-Entren al foro en **Sesión 2** y elijan su combinación de:
-
-**País-Periodo** + **Eje Analítico**
-:::
+Antes de llegar a clase, recomendamos que lean:
 
 <br>
 
-### Recuerden:
-
--   No se pueden repetir combinaciones exactas entre compañerxs
--   Esta elección define su **policy brief** del semestre
--   Revisen los ejes analíticos en el programa antes de elegir
-
-## Tarea 2: Lecturas obligatorias {.smaller}
-
-Antes de llegar a clase, lean:
-
-<br>
-
-| Texto | Enfoque |
-|------------------------------------|------------------------------------|
-| **Chang, Andreoni & Kuan (2013)** | Experiencias internacionales de política industrial |
-| **Haraguchi, Cheng & Smeets (2017)** | La importancia de las manufacturas en el desarrollo |
-
-<br>
+**Haraguchi, Cheng & Smeets (2017)** | La importancia de las manufacturas en el desarrollo
 
 ::: callout-tip
 ¿Dónde están?
 
-Moodle → **Lecturas obligatorias** (carpeta)
+Moodle → **Lecturas recomendadas** (carpeta)
 :::
-
-## Resumen: Lo que deben hacer esta semana {.center}
-
-| Qué                                    | Cuándo           |
-|----------------------------------------|------------------|
-| ✅ Registrarse en Moodle               | **Hoy**          |
-| 📖 Leer Chang et al. (2013)            | Antes del 11 feb |
-| 📖 Leer Haraguchi et al. (2017)        | Antes del 11 feb |
-| 🎯 Elegir País-Periodo y Eje Analítico | Antes del 11 feb |
 
 <br>
 
