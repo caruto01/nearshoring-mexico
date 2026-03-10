@@ -1,0 +1,38 @@
+/* Reloj fijo en la esquina (arriba-derecha por defecto) */
+.slide-clock {
+  position: fixed;
+  top: 8px;           /* cambia a bottom: 8px; si lo prefieres abajo */
+  right: 12px;        /* o left: 12px; para la esquina izquierda */
+  z-index: 9999;
+  padding: 4px 8px;
+  font: 600 1.8rem/1.2 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color: #fff;
+  background: rgba(0,0,0,.55);
+  border-radius: 6px;
+  pointer-events: none; /* no interfiere con clics en la slide */
+}
+@media print {
+  .slide-clock { display: none; } /* oculta al imprimir a PDF */
+}
+
+/* Compactar la lámina de evaluación sin afectar a las demás */
+section.eval ul { margin: 0 0 0.45em 1.1em; }
+section.eval li { margin: 0.2em 0; }
+
+/* Mantener relación 16:9 y que no choque con el footer */
+.video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; }
+.video-wrapper iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+/* Hacer más grande el iframe SOLO en este slide */
+section.nearshoring iframe {
+  width: 100%;
+  height: 68vh;   /* prueba 60–75vh a tu gusto */
+}
+
+.highlight-last {
+  color: grey; /* Atenúa los ítems previos para no distraer */
+  .current-fragment {
+    color: #5500ff; /* Resalta el ítem actual en morado—cámbialo si prefieres otro color */
+  }
+}
+
