@@ -26,32 +26,6 @@ library(qrcode)
 
 ```
 
-## Asistencia y Participación {.center}
-
-::: callout-warning
-Regla del 20%
-
-No faltar a más de **3 sesiones** sin justificación.
-
-Llegar **+15 min tarde** = inasistencia.
-:::
-
-<br>
-
-### ¿Qué cuenta como participación?
-
-✅ Intervenciones en discusiones de clase
-
-✅ Trabajo activo en las actividades grupales
-
-✅ Contribuciones en las sesiones COIL
-
-<br>
-
-::: fragment
-*La participación activa es parte integral del aprendizaje en este curso.*
-:::
-
 ##  {background-color="#1a5276"}
 
 ::: {.r-fit-text style="color: white; font-weight: bold;"}
