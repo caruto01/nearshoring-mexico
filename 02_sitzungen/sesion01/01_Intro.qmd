@@ -84,15 +84,15 @@ plot(qr)
 <br>
 
 ::: {.incremental .highlight-current}
-> ¿Por qué México no crece?
+1) ¿Por qué México no crece?
 
 <br>
 
-> Tema relevante?
+2) Tema relevante?
 
 <br>
 
-> Nearshoring oportunidad real?
+3) Nearshoring oportunidad real?
 
 :::
 
@@ -164,7 +164,7 @@ Antes de llegar a clase, recomendamos que lean:
 Moodle → **Lecturas recomendadas** (carpeta)
 :::
 
-<br>
+
 
 ::: fragment
 ### ¿Preguntas?
