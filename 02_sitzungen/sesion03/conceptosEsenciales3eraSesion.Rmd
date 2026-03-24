@@ -1,0 +1,157 @@
+---
+title: "Conceptos Esenciales de la Tercera Sesión"
+semester: "2026-2"  
+author: "Alejandro Márquez"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"  # Fecha automática
+output: 
+  pdf_document:
+    latex_engine: xelatex  # Soporta mejor caracteres especiales (ej: acentos)
+documentclass: extarticle # Cambio 1: Usamos 'extarticle' en lugar de la clase predeterminada 'article'. Esto permite tamaños de fuente extendidos como 17pt.
+fontsize: 17pt # Cambio 2: Establecemos el tamaño base en 17pt. Esto hace que el texto del cuerpo (el más pequeño) sea de 17pt, y los encabezados se ajusten automáticamente a tamaños mayores.
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+**Semestre:** `r rmarkdown::metadata$semester`
+
+# Conceptos esenciales de la Sesión 3: El reto de la desindustrialización prematura
+
+**Curso:** Nearshoring, Desindustrialización y la Trampa del Ingreso
+Medio: El Futuro del Desarrollo en México **Sesión:** 3 \| Miércoles 25
+de marzo de 2026 **Objetivo de aprendizaje:** OA1 — *Analizar* las
+causas de la trampa del ingreso medio y la desindustrialización
+prematura, conectándolas con la coyuntura económica actual de México.
+
+**Basado en:** Tregenna, F. (2016). Deindustrialization and premature
+deindustrialization. En J. Ghosh, R. Kattel y E. Reinert (eds.), *Elgar
+Handbook of Alternative Theories of Economic Development* (pp. 710–728).
+Edward Elgar.
+
+------------------------------------------------------------------------
+
+## Concepto 1: Desindustrialización prematura y "desindustrialización pre-industrialización"
+
+**Tipo de conocimiento (Biggs y Tang, 2011):** Declarativo.
+
+Este es el concepto central del texto. Tregenna distingue entre la
+desindustrialización "clásica" — propia de economías avanzadas que
+maduran hacia servicios de alta tecnología al recorrer la parte
+descendente de la curva de U invertida de Rowthorn — y un fenómeno
+patológico en los países en desarrollo:
+
+-   **Desindustrialización prematura:** Ocurre cuando la participación
+    de la manufactura en el empleo y el PIB disminuye a niveles de
+    ingreso per cápita mucho más bajos que los que tenían los países
+    desarrollados cuando empezaron a desindustrializarse. Tregenna
+    argumenta que debe medirse en ambas dimensiones (empleo *y* PIB),
+    porque no todos los casos en que cae la participación del empleo
+    manufacturero representan verdadera desindustrialización — la
+    productividad puede estar creciendo mientras el empleo cae.
+
+-   **Desindustrialización "pre-industrialización":** La autora acuña
+    este término para describir la situación extrema de países de bajos
+    ingresos (especialmente en África subsahariana) que comienzan a
+    perder capacidad industrial antes de haber logrado industrializarse
+    realmente. En estos países, la participación de la manufactura en el
+    empleo no supera el 5% y en el PIB apenas alcanza el 11% antes de
+    declinar (Figuras 38.1 y 38.2 del texto). Esto bloquea la ruta
+    tradicional hacia el desarrollo económico.
+
+**Conexión con el curso:** México se encuentra en un rango intermedio:
+se industrializó parcialmente (sobre todo bajo el modelo ISI y luego
+mediante la integración a cadenas globales de valor vía el TLCAN), pero
+la participación de la manufactura en el empleo y el PIB ha estado
+cayendo a niveles de ingreso per cápita más bajos que los que tenían
+EE.UU. o Alemania cuando se desindustrializaron. Esto conecta
+directamente con la pregunta de la sesión 2 ("¿puede México
+reindustrializarse?") y con la trampa del ingreso medio que recorre todo
+el curso.
+
+------------------------------------------------------------------------
+
+## Concepto 2: Causas divergentes — maduración estructural vs. choques de política (liberalización)
+
+**Tipo de conocimiento (Biggs y Tang, 2011):** Funcional.
+
+El capítulo enfatiza que las causas de la desindustrialización no son
+universales. Diagnosticar correctamente las causas es esencial para
+formular respuestas de política adecuadas:
+
+-   **En el Norte (países desarrollados):** La desindustrialización se
+    debe principalmente a factores internos: el crecimiento de la
+    productividad en manufactura (se necesita menos gente para producir
+    lo mismo), cambios en los patrones de demanda hacia servicios
+    conforme aumenta el ingreso, y en menor medida el comercio
+    Norte-Sur. Es parte de la "maduración" de estas economías al
+    transitar por la curva de U invertida.
+
+-   **En el Sur (países en desarrollo):** La desindustrialización
+    prematura suele ser *inducida por políticas* (*policy-induced*).
+    Tregenna señala específicamente las políticas de liberalización
+    económica neoliberal: liberalización comercial rápida y drástica,
+    apertura de la cuenta de capital, y austeridad monetaria. Se citan
+    casos como Chile bajo Pinochet (donde los aranceles nominales
+    promedio cayeron de 94% a 16% entre 1973 y 1977 y la manufactura
+    colapsó), Mongolia tras 1991 (donde la producción manufacturera cayó
+    a menos del 1% de su nivel de 1989 en menos de una década), y Europa
+    Central y del Este post-1989 (donde la caída de la manufactura fue
+    consecuencia directa de la liberalización rápida, no de una
+    maduración gradual).
+
+**Conexión con el curso:** La distinción funcional Norte/Sur permite a
+los estudiantes *diagnosticar* el caso mexicano: ¿la caída de la
+manufactura en México se parece más a la maduración de EE.UU. o al
+choque de política de Chile? ¿La apertura comercial post-1985 y el TLCAN
+generaron desindustrialización prematura en ciertos sectores, a pesar de
+que otros (como el automotriz) crecieron? Esta tensión es central para
+evaluar si el nearshoring (sesión 4) representa una oportunidad de
+re-industrialización o simplemente profundiza un modelo de enclave.
+
+------------------------------------------------------------------------
+
+## Concepto 3: Retrogresión tecnológica y la manufactura como motor del crecimiento
+
+**Tipo de conocimiento (Biggs y Tang, 2011):** Declarativo.
+
+El artículo argumenta que no toda desindustrialización es igual en sus
+efectos sobre el crecimiento, y que la prematura es particularmente
+dañina por dos mecanismos interconectados:
+
+-   **La manufactura como "motor de crecimiento" (perspectiva
+    kaldoriana):** La manufactura tiene propiedades especiales que otros
+    sectores no comparten en la misma medida: rendimientos crecientes a
+    escala, fuerte potencial de aprendizaje (learning-by-doing),
+    encadenamientos productivos (linkages), progresividad tecnológica, y
+    causación acumulativa. Szirmai y Verspagen (2011) encuentran
+    empíricamente un efecto positivo moderado de la manufactura sobre el
+    crecimiento para un panel de 88 países entre 1950 y 2005, sin efecto
+    equivalente para los servicios.
+
+-   **Retrogresión tecnológica:** La desindustrialización prematura
+    puede llevar a lo que Endresen (1994) llama "retrogresión
+    tecnológica" o "primitivización": los productores, al perder acceso
+    a capital, mercados o tecnología, vuelven a métodos de producción
+    más antiguos y menos productivos. Tregenna da el ejemplo de
+    trabajadores de la industria textil que, tras el cierre de fábricas,
+    continúan cosiendo ropa desde sus hogares con equipo básico —
+    produciendo a niveles de productividad mucho menores. Esto no es una
+    elección, sino un *lock-in* estructural.
+
+-   **El reemplazo asimétrico:** A diferencia de los países ricos, donde
+    la manufactura es reemplazada por servicios avanzados de alta
+    tecnología con fuertes linkages (finanzas, tecnología, consultoría),
+    en los países pobres la manufactura suele ser reemplazada por
+    servicios de baja productividad, comercio informal o agricultura de
+    subsistencia. Esto daña las perspectivas de crecimiento a largo
+    plazo porque se pierden las externalidades positivas que la
+    manufactura genera.
+
+**Conexión con el curso:** Este concepto cierra el argumento: si México
+se desindustrializa prematuramente, no solo pierde empleos
+manufactureros — pierde el motor que genera rendimientos crecientes,
+aprendizaje tecnológico y encadenamientos. El nearshoring podría ser una
+oportunidad para revertir esto, pero solo si genera encadenamientos
+reales (como se discutió en la sesión 2 con el caso automotriz de
+historiaDesEcon) y no simplemente un nuevo modelo de enclave con
+retrogresión tecnológica fuera de las plantas de exportación.
