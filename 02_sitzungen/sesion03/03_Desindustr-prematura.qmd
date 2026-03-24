@@ -40,6 +40,26 @@ qr <- qr_code(enlace2)  # Crea el QR con el contenido exacto del enlace.
 # Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
 # Usamos SVG porque es escalable y se ve bien en presentaciones.
 generate_svg(qr, filename = "../assets/qrVot1.svg") 
+
+# Define el enlace que quieres en el QR.
+enlace3 <- "https://votingo.cedis.fu-berlin.de/PBCA1L"
+
+# Genera el código QR como un objeto en R—simple, solo pasa el enlace.
+qr <- qr_code(enlace3)  # Crea el QR con el contenido exacto del enlace.
+
+# Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
+# Usamos SVG porque es escalable y se ve bien en presentaciones.
+generate_svg(qr, filename = "../assets/qrVot2.svg") 
+
+# Define el enlace que quieres en el QR.
+enlace4 <- "https://votingo.cedis.fu-berlin.de/U9GEM9"
+
+# Genera el código QR como un objeto en R—simple, solo pasa el enlace.
+qr <- qr_code(enlace4)  # Crea el QR con el contenido exacto del enlace.
+
+# Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
+# Usamos SVG porque es escalable y se ve bien en presentaciones.
+generate_svg(qr, filename = "../assets/qrVot3.svg") 
 ```
 
 ## Actividades de la Sesión {.smaller}
@@ -127,19 +147,11 @@ Tregenna (Figuras 38.1 y 38.2):
 -   **Mongolia (post-1991):** Producción manufacturera cae a \<1% de su nivel previo.
 -   **Europa del Este (post-1989):** Caída directa por liberalización, no por maduración.
 
-## Conceptest 2 {.smaller}
+## Responder el quiz 2 en Votingo
 
-**Marca TODAS las afirmaciones correctas**:
+<https://votingo.cedis.fu-berlin.de/PBCA1L>
 
-Tres escenarios: A) país latinoamericano — aranceles de 94% a 16%, manufactura colapsa. B) país OCDE con \$40,000 per cápita — manufactura cae, servicios avanzados crecen. C) país de Asia Central — liberalización total, manufactura cae a \<1%.
-
-1.  En A y C, la desindustrialización fue inducida por decisiones de política económica.
-2.  En B, la causa principal es la competencia de importaciones baratas del Sur Global.
-3.  A y C ilustran desindustrialización prematura por choque de política.
-4.  Los tres escenarios muestran esencialmente el mismo fenómeno a diferentes velocidades.
-5.  En B, el motor de la caída es el crecimiento de la productividad industrial.
-6.  En A y C, la manufactura no fue reemplazada por servicios avanzados sino por baja productividad o colapso.
-7.  A no es desindustrialización prematura porque el país recuperó algo de manufactura después.
+<img src="../assets/qrVot2.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
 
 ## Concepto 3: Retrogresión tecnológica {.smaller}
 
@@ -163,9 +175,12 @@ Al perder acceso a capital, mercados y tecnología, los productores vuelven a m�
 -   En el **Norte**: manufactura → servicios avanzados (finanzas, tech, consultoría).
 -   En el **Sur**: manufactura → servicios de baja productividad, informalidad, agricultura de subsistencia.
 
-## Conceptest 3 {.smaller}
+## Responder el quiz 3 en Votingo
 
-**Situación:** Tras liberalización comercial, cierran fábricas textiles en un país del Sur Global. Miles pierden empleo formal, pero muchos empiezan a coser ropa desde casa con máquinas básicas. La manufactura en el **empleo** apenas cayó, pero la manufactura en el **PIB** cayó mucho.
+<https://votingo.cedis.fu-berlin.de/U9GEM9>
+
+<img src="../assets/qrVot3.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
+
 
 **¿Cuál interpretación explica mejor los datos?**
 
