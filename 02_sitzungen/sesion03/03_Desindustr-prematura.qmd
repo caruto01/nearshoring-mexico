@@ -1,0 +1,232 @@
+---
+title: "El reto de la desindustrialización prematura"
+author: "Alejandro Márquez Velázquez"
+institute: "Nearshoring, Desindustrialización y la Trampa del Ingreso Medio<br>DEPFE-UNAM"
+date: "2026-03-25"
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    footer: "Semestre 2026-2"
+    transition: slide
+    embed-resources: true
+transition: slide
+background-transition: fade
+editor: visual
+---
+
+```{r setup, include=FALSE}
+library(countdown)
+library(qrcode)
+
+# Define el enlace que quieres en el QR.
+enlace <- "https://eaposgrado.economia.unam.mx/mod/forum/view.php?id=5938"
+
+# Genera el código QR como un objeto en R—simple, solo pasa el enlace.
+qr <- qr_code(enlace)  # Crea el QR con el contenido exacto del enlace.
+
+# Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
+# Usamos SVG porque es escalable y se ve bien en presentaciones.
+generate_svg(qr, filename = "../assets/qrTrabGrupSes3.svg") 
+
+# Define el enlace que quieres en el QR.
+enlace2 <- "https://votingo.cedis.fu-berlin.de/9909FW"
+
+# Genera el código QR como un objeto en R—simple, solo pasa el enlace.
+qr <- qr_code(enlace2)  # Crea el QR con el contenido exacto del enlace.
+
+# Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
+# Usamos SVG porque es escalable y se ve bien en presentaciones.
+generate_svg(qr, filename = "../assets/qrVot1.svg") 
+```
+
+## Actividades de la Sesión {.smaller}
+
+Hoy vamos a trabajar el objetivo de aprendizaje 1:
+
+*Analizar* las causas de la trampa del ingreso medio y la desindustrialización prematura, conectándolas con la coyuntura económica actual de México.
+
+::: {.incremental .highlight-last}
+Para ello, van a:
+
+1.  *Distinguir* entre desindustrialización clásica y prematura, y comprender por qué importa el nivel de ingreso al que ocurre.
+
+2.  *Diagnosticar* las causas divergentes de la desindustrialización en el Norte y el Sur Global.
+
+3.  *Explicar* cómo la retrogresión tecnológica daña las perspectivas de crecimiento a largo plazo.
+
+4.  *Evaluar* el caso de México: ¿se está desindustrializando prematuramente?
+:::
+
+## Conexión con la sesión anterior
+
+::: {.incremental .highlight-last}
+-   La sesión pasada vimos la manufactura como motor de desarrollo y si México puede reindustrializarse.
+
+-   Hoy vamos al otro lado de esa moneda: **¿qué pasa cuando un país se *des*industrializa antes de tiempo?**
+
+-   Texto base: Tregenna (2016), "Deindustrialization and premature deindustrialization".
+:::
+
+## Concepto 1: Desindustrialización prematura {.smaller}
+
+**¿Qué es la desindustrialización "clásica"?**
+
+En economías avanzadas, la manufactura cae como proporción del empleo y el PIB conforme el ingreso crece → transición hacia servicios de alto valor (finanzas, tecnología, consultoría).
+
+Es parte de la **curva de U invertida de Rowthorn**: la manufactura primero crece con el ingreso, luego cae.
+
+. . .
+
+**¿Qué la hace "prematura"?**
+
+Ocurre cuando la manufactura cae a niveles de ingreso per cápita **mucho más bajos** que los de los países avanzados cuando estos comenzaron a desindustrializarse.
+
+. . .
+
+**Caso extremo — "desindustrialización pre-industrialización":**
+
+Países de bajos ingresos (especialmente África subsahariana) pierden capacidad industrial **antes de haberse industrializado** realmente. La manufactura no supera el 5% del empleo antes de declinar.
+
+## Concepto 1: Dato clave
+
+Tregenna (Figuras 38.1 y 38.2):
+
+-   Los países del **cuartil 1 y 2** de ingreso están perdiendo manufactura *antes* de alcanzar los picos de participación del **cuartil 3 y 4**.
+
+-   **Medición dual:** Debe medirse en empleo *y* PIB, porque no toda caída del empleo manufacturero es desindustrialización — la productividad puede crecer mientras el empleo cae.
+
+## Responder el quiz 1 en Votingo
+
+<https://votingo.cedis.fu-berlin.de/9909FW>
+
+<img src="../assets/qrVot1.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
+
+## Concepto 2: Causas divergentes {.smaller}
+
+**En el Norte (economías avanzadas):**
+
+-   Crecimiento de la productividad manufacturera → se produce más con menos trabajadores.
+-   Cambio en la demanda hacia servicios conforme el ingreso crece.
+-   **Maduración** de la estructura productiva.
+
+. . .
+
+**En el Sur (economías en desarrollo):**
+
+-   Desindustrialización **inducida por políticas** (*policy-induced*).
+-   Liberalización comercial rápida, apertura de cuenta de capital, austeridad monetaria.
+
+. . .
+
+**Casos emblemáticos:**
+
+-   **Chile (1973–1977):** Aranceles promedio de 94% → 16%. Manufactura colapsa.
+-   **Mongolia (post-1991):** Producción manufacturera cae a \<1% de su nivel previo.
+-   **Europa del Este (post-1989):** Caída directa por liberalización, no por maduración.
+
+## Conceptest 2 {.smaller}
+
+**Marca TODAS las afirmaciones correctas**:
+
+Tres escenarios: A) país latinoamericano — aranceles de 94% a 16%, manufactura colapsa. B) país OCDE con \$40,000 per cápita — manufactura cae, servicios avanzados crecen. C) país de Asia Central — liberalización total, manufactura cae a \<1%.
+
+1.  En A y C, la desindustrialización fue inducida por decisiones de política económica.
+2.  En B, la causa principal es la competencia de importaciones baratas del Sur Global.
+3.  A y C ilustran desindustrialización prematura por choque de política.
+4.  Los tres escenarios muestran esencialmente el mismo fenómeno a diferentes velocidades.
+5.  En B, el motor de la caída es el crecimiento de la productividad industrial.
+6.  En A y C, la manufactura no fue reemplazada por servicios avanzados sino por baja productividad o colapso.
+7.  A no es desindustrialización prematura porque el país recuperó algo de manufactura después.
+
+## Concepto 3: Retrogresión tecnológica {.smaller}
+
+**La manufactura como "motor del crecimiento" (Kaldor):**
+
+-   Rendimientos crecientes a escala.
+-   Learning-by-doing y encadenamientos productivos (linkages).
+-   Causación acumulativa.
+-   Szirmai y Verspagen (2011): efecto positivo de la manufactura sobre el crecimiento en 88 países (1950–2005). **Sin efecto equivalente para servicios.**
+
+. . .
+
+**Retrogresión tecnológica (Endresen, 1994):**
+
+Al perder acceso a capital, mercados y tecnología, los productores vuelven a métodos más primitivos. No es una elección — es un **lock-in** estructural.
+
+. . .
+
+**Reemplazo asimétrico:**
+
+-   En el **Norte**: manufactura → servicios avanzados (finanzas, tech, consultoría).
+-   En el **Sur**: manufactura → servicios de baja productividad, informalidad, agricultura de subsistencia.
+
+## Conceptest 3 {.smaller}
+
+**Situación:** Tras liberalización comercial, cierran fábricas textiles en un país del Sur Global. Miles pierden empleo formal, pero muchos empiezan a coser ropa desde casa con máquinas básicas. La manufactura en el **empleo** apenas cayó, pero la manufactura en el **PIB** cayó mucho.
+
+**¿Cuál interpretación explica mejor los datos?**
+
+a)  No hubo desindustrialización: los trabajadores simplemente cambiaron de modalidad.
+b)  La producción informal mantiene el empleo pero a productividad mucho menor — retrogresión tecnológica que coexiste con aparente estabilidad del empleo.
+c)  Re-industrialización exitosa desde abajo: unidades informales son flexibles y podrían escalar.
+d)  La manufactura no es realmente especial: si se puede producir sin maquinaria avanzada, los rendimientos crecientes son exagerados.
+
+## Síntesis de la primera mitad
+
+::: {.incremental .highlight-last}
+1.  **Desindustrialización prematura** ≠ desindustrialización clásica. Importa el nivel de ingreso.
+
+2.  Las **causas** son distintas: maduración en el Norte, choque de política en el Sur.
+
+3.  Las **consecuencias** son distintas: en el Sur, retrogresión tecnológica y pérdida del motor de crecimiento.
+
+4.  **Pregunta para México:** ¿Cuál de estos escenarios describe mejor su situación?
+:::
+
+## Actividad grupal: ¿Cómo debe interpretarse el cambio estructural de México? {.smaller}
+
+En equipos de 3–4 personas, lean la ficha informativa y discutan las preguntas en Moodle:
+
+<https://eaposgrado.economia.unam.mx/mod/forum/view.php?id=5938>
+
+<img src="../assets/qrTrabGrupSes3.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
+
+
+```{r}
+countdown(minutes = 27, start_immediately = FALSE, font_size = "2em", right = "10px", bottom = "10px", margin = "0.5em", play_sound = TRUE)
+```
+
+## Sharing en plenaria {.smaller}
+
+Cada equipo presenta su diagnóstico en 2–3 minutos:
+
+::: {.incremental .highlight-last}
+1.  ¿Qué etiqueta eligieron y por qué?
+2.  ¿Qué indicadores proponen para evaluar el nearshoring?
+:::
+
+## Ensayo de un minuto
+
+Responde individualmente:
+
+1.  ¿Cuál fue la idea más importante que aprendiste hoy?
+2.  ¿Cuál es tu duda más relevante?
+
+```{r}
+countdown(minutes = 3, start_immediately = FALSE, font_size = "2em", right = "10px", bottom = "10px", margin = "0.5em", play_sound = TRUE)
+```
+
+## Enlace a Próxima Sesión
+
+::: {.incremental .highlight-last}
+-   Sesión 4 — **Comercio exterior, política industrial y el debate del nearshoring.**
+
+    -   Ponente invitado: Benjamín (8 de abril).
+
+-   Lectura recomendada para la siguiente sesión.
+
+-   ¿Preguntas?
+:::
