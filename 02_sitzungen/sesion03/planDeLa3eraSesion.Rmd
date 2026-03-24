@@ -18,6 +18,8 @@ editor_options:
 
 ### Miércoles, 25 de marzo de 2026, 90:00-10:30, Salón 207
 
+# Conceptests
+
 #### Conceptest 1 — Desindustrialización prematura (declarativo)
 
 **Formato:** Opción múltiple, una sola respuesta correcta.
@@ -274,6 +276,150 @@ manufactura cae → sí hay desindustrialización en valor agregado).
 Preguntar: ¿cuál de las dos medidas les parece más importante para el
 desarrollo a largo plazo? Conectar con la definición dual de Tregenna
 del concepto 1.
+
+# **Actividad en grupo: ¿Cómo debe interpretarse el cambio estructural de México?**
+
+### Ficha informativa
+
+La manufactura puede operar como motor de crecimiento por los canales de
+producto y empleo, de modo que no toda caída del empleo manufacturero
+equivale automáticamente a desindustrialización (Tregenna, 2016).
+
+Para el caso de México, la evidencia simple no produce un diagnóstico
+automático, como se muestra en la tabla de abajo.
+
+### Datos para discutir
+
+| Año | Peso de la manufactura en el PIB (%) | Peso de la industria en el empleo (%) |
+|----|----|----|
+| 1970 | 22.0 | — |
+| 1980 | 18.3 | — |
+| 1990 | 19.1 | 22.06 (1991) |
+| 2000 | 21.0 | 25.3 |
+| 2010 | 17.8 | 22.8 |
+| 2020 | 20.2 | 24.4 |
+| 2024 | 19.8 | 24.7 |
+
+**Fuente de la tabla:** Banco Mundial, **World Development Indicators**:
+indicador **NV.IND.MANF.ZS** (*Manufacturing, value added (% of GDP)*) e
+indicador **SL.IND.EMPL.ZS** (*Employment in industry (% of total
+employment) (modeled ILO estimate)*).
+
+Al mismo tiempo, el **Trade and Development Report 2016** de la UNCTAD
+subraya que, pese al fuerte crecimiento de las exportaciones
+manufactureras tras la liberalización y el TLCAN, México combinó
+**rápido crecimiento exportador con inversión débil, pocos
+encadenamientos productivos domésticos y crecimiento muy lento de la
+productividad manufacturera**.
+
+Eso abre una discusión más interesante que el simple “sí/no” sobre
+desindustrialización prematura. La tarea del grupo es discutir qué
+interpretación del caso mexicano resulta más convincente y qué evidencia
+adicional haría falta para sostenerla con mayor rigor.
+
+### Preguntas para discutir
+
+**1. Diagnóstico rival**\
+¿Cuál de estas cuatro etiquetas describe mejor el caso mexicano y por
+qué:\
+a) desindustrialización prematura,\
+b) industrialización estancada,\
+c) industrialización exportadora exitosa pero poco articulada
+internamente, o\
+d) cambio estructural “normal” de una economía de ingreso medio?\
+Su respuesta debe **defender una** y **descartar explícitamente al menos
+una alternativa rival**.
+
+**2. Problema de medición**\
+¿Qué diferencia hace, para el diagnóstico, observar **manufactura en el
+PIB** pero **industria en el empleo**? ¿Ese problema de medición sesga
+el análisis hacia sobrestimar o subestimar la hipótesis de
+desindustrialización prematura? ¿Qué serie adicional exigirías antes de
+aceptar una conclusión fuerte?
+
+**3. México después de la apertura**\
+¿Cuál fue el principal problema del sector manufacturero mexicanodespués
+de la liberalización comercial y financiera?
+
+**4. Nearshoring y cambio estructural**\
+Supongamos que el nearshoring expande la producción manufacturera en
+México en los próximos años. ¿Qué tendría que cambiar para que eso
+constituyera una verdadera **profundización industrial** y no solo una
+expansión cuantitativa de actividades de ensamblaje? Proponer **tres
+indicadores concretos** que permitirían distinguir entre ambos
+escenarios.
+
+**5. Pregunta extra**\
+Si tuvieran que añadir **una sola gráfica más** a esta actividad para
+fortalecer su argumento, ¿cuál elegirías y por qué?
+
+## Respuestas esperadas
+
+**1. Diagnóstico rival**\
+La respuesta mejor sustentada es normalmente **b) industrialización
+estancada** o, en segundo lugar, **c) industrialización exportadora
+exitosa pero poco articulada internamente**. La razón es que, con la
+definición estricta de Tregenna, “desindustrialización” exige una caída
+sostenida de la manufactura tanto en empleo como en PIB, mientras que
+para México la propia UNCTAD habla más bien de **stalled
+industrialization**, con participaciones manufactureras que “barely
+changed”, junto con bajo dinamismo de productividad, inversión y
+encadenamientos. \
+**Error frecuente:** responder “a) desindustrialización prematura” solo
+porque hubo apertura o porque el país no convergió, sin demostrar la
+caída sostenida en ambas dimensiones; o responder “d)” como si México
+fuera un caso de desindustrialización madura tipo país rico.
+
+**2. Problema de medición**\
+La diferencia importa mucho porque la tabla mezcla **manufactura en el
+PIB** con **industria en el empleo**, y esta última incluye minería,
+construcción y utilities, no solo manufactura. Eso probablemente **sesga
+hacia subestimar** la hipótesis de desindustrialización prematura,
+porque una caída del empleo manufacturero puede quedar tapada si otros
+rubros industriales sostienen la participación total de “industria” en
+el empleo; la serie adicional clave sería una serie larga de **empleo
+manufacturero como % del empleo total**. \
+**Error frecuente:** decir simplemente “no pasa nada, industria y
+manufactura son casi lo mismo” o ignorar que la serie de ILO es
+modelada/imputada y requiere cautela para conclusiones fuertes.
+
+**3. México después de la apertura**\
+La respuesta más fuerte es que el principal problema no fue solo una
+caída de la manufactura, sino una **modalidad de inserción
+manufacturera**: fuerte expansión exportadora, pero con **pocos
+encadenamientos domésticos, alto contenido importado, inversión débil y
+productividad muy lenta**, es decir, una manufactura más ensambladora
+que articuladora. Eso coincide casi literalmente con el diagnóstico de
+UNCTAD sobre México como maquila exporter con limited domestic
+production linkages y weak investment growth. \
+**Error frecuente:** reducir todo a “el TLCAN destruyó la industria” o,
+al revés, “como crecieron las exportaciones manufactureras, entonces fue
+un éxito industrial completo”.
+
+**4. Nearshoring y cambio estructural**\
+La respuesta correcta va en la línea de que no basta con producir o
+exportar más: tendría que aumentar el **valor agregado doméstico**,
+fortalecerse los **encadenamientos hacia proveedores locales** y mejorar
+la **productividad/capacidades tecnológicas**. Tres indicadores
+razonables serían, por ejemplo, **contenido nacional o valor agregado
+doméstico en las exportaciones manufactureras**, **productividad laboral
+manufacturera**, y **tasa de inversión manufacturera** o participación
+de insumos intermedios nacionales en la producción/exportación. \
+**Error frecuente:** proponer indicadores meramente cuantitativos como
+exportaciones brutas, número de plantas o monto de IED, que pueden
+crecer sin profundización industrial real.
+
+**5. Pregunta extra**\
+La respuesta más fuerte suele ser una gráfica de **productividad laboral
+manufacturera** o, si se consigue, de **valor agregado doméstico en
+exportaciones manufactureras**, porque esas series permiten arbitrar
+entre “éxito exportador” y “industrialización profunda”. Una buena
+justificación diría que la tabla actual muestra peso sectorial, pero no
+si la manufactura está actuando realmente como motor de aprendizaje,
+inversión y cambio estructural. \
+**Error frecuente:** elegir una gráfica redundante con la tabla ya dada,
+o una demasiado agregada (por ejemplo, crecimiento del PIB total) que no
+ayuda a decidir entre diagnósticos rivales.
 
 # **10:00-10:20: Control de Lectura (20 min)**
 
