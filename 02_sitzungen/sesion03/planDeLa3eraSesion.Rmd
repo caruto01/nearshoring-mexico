@@ -18,9 +18,42 @@ editor_options:
 
 ### Miércoles, 25 de marzo de 2026, 90:00-10:30, Salón 207
 
-# Conceptests
+# **9:00-9:03: Bienvenida y conexión con sesión anterior (3 min)**
+ 
+-   Mostrar slide de actividades de la sesión.
+ 
+-   Conexión: "La sesión pasada vimos la manufactura como motor de
+    desarrollo y si México puede reindustrializarse. Hoy vamos al
+    otro lado de esa moneda: ¿qué pasa cuando un país se
+    *des*industrializa antes de tiempo?"
+ 
+-   Texto base: Tregenna (2016), "Deindustrialization and premature
+    deindustrialization".
+ 
+# **9:03-9:13: Concepto 1 — Desindustrialización prematura (10 min)**
+ 
+-   **9:03-9:08 (5 min):** Mini-presentación.
+ 
+    -   Curva de U invertida de Rowthorn: la manufactura primero crece
+        con el ingreso, luego cae.
+    -   Desindustrialización "clásica" (Norte): transición madura
+        hacia servicios avanzados.
+    -   Desindustrialización "prematura": la manufactura cae a
+        niveles de ingreso mucho más bajos.
+    -   Caso extremo: "desindustrialización pre-industrialización"
+        (África subsahariana — manufactura no supera 5% del empleo
+        antes de declinar).
+    -   Medición dual: empleo *y* PIB.
 
-#### Conceptest 1 — Desindustrialización prematura (declarativo)
+-   **9:08-9:13 (5 min):** Conceptest 1.
+ 
+    -   Mostrar slide del conceptest con timer de 2 min.
+    -   Protocolo Mazur:
+        -   \>80% → avanzar.
+        -   30-80% → peer instruction (2 min discusión + re-voto).
+        -   \<30% → mini-lecture con Figuras 38.1–38.2 de Tregenna.
+
+## Conceptest 1 — Desindustrialización prematura (declarativo)
 
 **Formato:** Opción múltiple, una sola respuesta correcta.
 
@@ -73,7 +106,21 @@ Tregenna (participación de manufactura en PIB por cuartil de ingreso).
 Mostrar cómo los países del cuartil 1 y 2 están perdiendo manufactura
 *antes* de alcanzar los picos del cuartil 3 y 4.
 
-#### Conceptest 2 — Causas divergentes (funcional)
+# **9:13-9:23: Concepto 2 — Causas divergentes (10 min)**
+ 
+-   **9:13-9:18 (5 min):** Mini-presentación.
+ 
+    -   Norte: productividad + cambio en demanda → maduración
+        natural.
+    -   Sur: liberalización comercial rápida, apertura de cuenta de
+        capital, austeridad monetaria.
+    -   Casos: Chile (1973–77: aranceles de 94% a 16%), Mongolia
+        (post-1991: manufactura a \<1%), Europa del Este (post-1989).
+    -   Diagnóstico correcto de la causa → política correcta.
+ 
+-   **9:18-9:23 (5 min):** Conceptest 2.
+
+## Conceptest 2 — Causas divergentes (funcional)
 
 **Formato:** Opción múltiple, **varias respuestas correctas** (los
 estudiantes no saben cuántas). Instrucción: "Marca TODAS las
@@ -184,7 +231,23 @@ lo mismo pero más rápido") y la opción 1 (el rol del comercio).
 pizarra/slide: dos columnas (Norte vs. Sur), filas = causa principal,
 velocidad, qué reemplaza a la manufactura, efecto sobre el crecimiento.
 
-#### Conceptest 3 — Retrogresión tecnológica y sus efectos ambivalentes (declarativo)
+-   **9:23-9:28 (5 min):** Mini-presentación.
+ 
+    -   Manufactura como "motor del crecimiento" (Kaldor):
+        rendimientos crecientes, learning-by-doing, linkages,
+        causación acumulativa.
+    -   Szirmai y Verspagen (2011): efecto positivo de manufactura
+        sobre crecimiento en 88 países — sin efecto equivalente para
+        servicios.
+    -   Retrogresión tecnológica (Endresen, 1994): los productores
+        vuelven a métodos más primitivos. Es un *lock-in*, no una
+        transición.
+    -   Reemplazo asimétrico: Norte → servicios avanzados; Sur →
+        informalidad, baja productividad.
+ 
+-   **9:28-9:33 (5 min):** Conceptest 3.
+
+## Conceptest 3 — Retrogresión tecnológica y sus efectos ambivalentes (declarativo)
 
 **Formato:** Opción múltiple, una sola respuesta correcta.
 
@@ -277,7 +340,23 @@ Preguntar: ¿cuál de las dos medidas les parece más importante para el
 desarrollo a largo plazo? Conectar con la definición dual de Tregenna
 del concepto 1.
 
-# **Actividad en grupo: ¿Cómo debe interpretarse el cambio estructural de México?**
+# **9:33-9:38: Síntesis de primera mitad + transición a actividad (5 min)**
+ 
+-   Recapitular los 3 conceptos en una slide de síntesis.
+-   Transición: "Ahora vamos a aplicar estos tres conceptos al caso
+    de México."
+ 
+# **9:38-9:43: Instrucciones de la actividad grupal (5 min)**
+ 
+-   Formar equipos mixtos presenciales + virtuales.
+-   Abrir breakout rooms en Webex.
+-   **Recordar:** dar la palabra primero a participantes virtuales
+    para compensar la ventaja de presencialidad.
+
+ 
+# **9:43-10:10: Trabajo grupal (27 min)**
+
+## **Actividad en grupo: ¿Cómo debe interpretarse el cambio estructural de México?**
 
 ### Ficha informativa
 
@@ -421,7 +500,23 @@ inversión y cambio estructural. \
 o una demasiado agregada (por ejemplo, crecimiento del PIB total) que no
 ayuda a decidir entre diagnósticos rivales.
 
-# 
+# **10:10-10:25: Sharing en plenaria (15 min)**
+ 
+-   2–3 min por grupo.
+-   Preguntar: ¿Qué etiqueta eligieron? ¿Qué indicadores proponen
+    para evaluar el nearshoring?
+-   Ir anotando en la pizarra los diagnósticos y los indicadores
+    propuestos.
+    
+# **10:25-10:30: Cierre (5 min)**
+ 
+-   **10:25-10:28 (3 min):** Ensayo de un minuto. Dos preguntas:
+    (1) ¿Cuál fue la idea más importante que aprendiste hoy?
+    (2) ¿Cuál es tu duda más relevante?
+ 
+-   **10:28-10:30 (2 min):** Enlace a sesión 4: "Comercio exterior,
+    política industrial y el debate del nearshoring" — ponente
+    Benjamín (8 de abril, luego de Semana Santa). Recordar lectura recomendada, cap. 14 de Ros-Bosch (2013).
 
 # **Comentarios después de la sesión**
 
