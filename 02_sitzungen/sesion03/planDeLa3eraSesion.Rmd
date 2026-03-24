@@ -1,16 +1,18 @@
 ---
-title: "Plan de la Tercera Sesión: El reto de la desindustrialización prematura"
-semester: "2026-2"  
+title: 'Plan de la Tercera Sesión: El reto de la desindustrialización prematura'
 author: "Alejandro Márquez"
-date: "`r format(Sys.Date(), '%d/%m/%Y')`"  # Fecha automática
-output: 
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+output:
+  html_document:
+    df_print: paged
   pdf_document:
-    latex_engine: xelatex  # Soporta mejor caracteres especiales (ej: acentos)
-documentclass: extarticle # Cambio 1: Usamos 'extarticle' en lugar de la clase predeterminada 'article'. Esto permite tamaños de fuente extendidos como 17pt.
-fontsize: 17pt # Cambio 2: Establecemos el tamaño base en 17pt. Esto hace que el texto del cuerpo (el más pequeño) sea de 17pt, y los encabezados se ajusten automáticamente a tamaños mayores.
-mainfont: "Comic Sans MS"
-editor_options: 
-  markdown: 
+    latex_engine: xelatex
+semester: "2026-2"
+documentclass: extarticle
+fontsize: 17pt
+mainfont: Comic Sans MS
+editor_options:
+  markdown:
     wrap: 72
 ---
 
