@@ -1,0 +1,660 @@
+---
+title: "Plan de la Tercera Sesión: El reto de la desindustrialización prematura"
+semester: "2026-2"  
+author: "Alejandro Márquez"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"  # Fecha automática
+output: 
+  pdf_document:
+    latex_engine: xelatex  # Soporta mejor caracteres especiales (ej: acentos)
+documentclass: extarticle # Cambio 1: Usamos 'extarticle' en lugar de la clase predeterminada 'article'. Esto permite tamaños de fuente extendidos como 17pt.
+fontsize: 17pt # Cambio 2: Establecemos el tamaño base en 17pt. Esto hace que el texto del cuerpo (el más pequeño) sea de 17pt, y los encabezados se ajusten automáticamente a tamaños mayores.
+mainfont: "Comic Sans MS"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+**Semestre:** `r rmarkdown::metadata$semester`
+
+### Miércoles, 25 de marzo de 2026, 90:00-10:30, Salón 207
+
+#### Conceptest 1 — Desindustrialización prematura (declarativo)
+
+**Formato:** Opción múltiple, una sola respuesta correcta.
+
+**Situación:** Consideren dos países.
+
+-    **País X** tiene un ingreso per cápita de \$4,000. En la última
+    década, la participación de la manufactura en su empleo total cayó
+    del 12% al 7%, y su participación en el PIB cayó del 15% al 10%.
+
+-    **País Y** tiene un ingreso per cápita de \$35,000. En el mismo
+    período, la participación de la manufactura en su empleo cayó del
+    22% al 15%, y su participación en el PIB cayó del 20% al 14%.
+
+**Pregunta:** ¿Cuál de las siguientes afirmaciones describe
+correctamente la diferencia entre estos dos procesos?
+
+a) Ambos países están experimentando desindustrialización prematura,
+porque en los dos casos la participación de la manufactura cae de manera
+sostenida tanto en empleo como en PIB durante el mismo período.
+
+b) Solo el País Y experimenta desindustrialización verdadera, porque su
+caída absoluta en puntos porcentuales es mayor (7 pp vs. 5 pp en empleo)
+y parte de un nivel de manufactura más alto.
+
+c) Ninguno de los dos experimenta desindustrialización prematura. Ambos
+reflejan la reasignación eficiente de recursos: el mercado desplaza
+factores productivos hacia los sectores de mayor rentabilidad.
+
+d) **Solo el País X experimenta desindustrialización prematura, porque
+pierde manufactura a un nivel de ingreso mucho más bajo que el de los
+países avanzados cuando estos comenzaron a desindustrializarse. El País
+Y experimenta desindustrialización "clásica". (RESPUESTA CORRECTA)**
+
+**Tu explicación (no compartir con estudiantes):**
+
+La clave está en el *nivel de ingreso per cápita* al que ocurre la
+caída, no en la magnitud de la caída. El País X pierde capacidad
+manufacturera cuando aún no ha alcanzado los niveles de ingreso a los
+que los países hoy avanzados comenzaron su transición hacia servicios,
+eso es lo que define "prematura". El distractor (a) iguala ambos
+procesos sin distinguir contexto. El distractor (b) se enfoca en la
+magnitud, no en el timing relativo al desarrollo. El distractor (c) es
+la posición ortodoxa de que el mercado asigna recursos eficientemente,
+que ignora la especificidad sectorial.
+
+**Si cae en 30–80%:** Peer instruction.
+
+**Si cae en \<30%:** Mini-lecture de 2–3 min con la Figura 38.2 de
+Tregenna (participación de manufactura en PIB por cuartil de ingreso).
+Mostrar cómo los países del cuartil 1 y 2 están perdiendo manufactura
+*antes* de alcanzar los picos del cuartil 3 y 4.
+
+#### Conceptest 2 — Causas divergentes (funcional)
+
+**Formato:** Opción múltiple, **varias respuestas correctas** (los
+estudiantes no saben cuántas). Instrucción: "Marca TODAS las
+afirmaciones que consideres correctas."
+
+**Situación:** Analicen los siguientes tres escenarios reales:
+
+-    **Escenario A:** Entre 1973 y 1977, un país latinoamericano reduce
+    sus aranceles promedio de 94% a 16%, privatiza rápidamente empresas
+    estatales y abre su cuenta de capital. Su producción manufacturera
+    se contrae drásticamente.
+
+-    **Escenario B:** Entre 1970 y 2010, un país de la OCDE con ingreso
+    per cápita de \$40,000 ve caer la participación de la manufactura en
+    el empleo del 25% al 15%. Al mismo tiempo, el sector servicios
+    (incluyendo finanzas, tecnología y consultoría) crece rápidamente.
+
+-    **Escenario C:** A partir de 1991, un país de Asia Central elimina
+    todos sus aranceles (excepto el alcohol), implementa liberalización
+    financiera total y abre completamente la cuenta de capital. En menos
+    de una década, la producción manufacturera cae a menos del 1% de su
+    nivel previo.
+
+**Pregunta:** ¿Cuáles de las siguientes afirmaciones son correctas?
+
+1.   En el escenario B, la desindustrialización se debe principalmente a
+    la competencia desleal de importaciones baratas del Sur Global, que
+    desplazaron a los productores domésticos de los mercados internos y
+    de exportación.
+
+2.  **En el escenario B, el principal motor de la caída del empleo
+    manufacturero es el crecimiento de la productividad industrial: se
+    produce lo mismo o más con menos trabajadores, mientras la demanda
+    se desplaza hacia servicios conforme el ingreso crece. (CORRECTA)**
+
+3.  **A diferencia del escenario B, en los escenarios A y C la
+    manufactura no fue reemplazada por servicios avanzados de alta
+    productividad, sino por actividades de baja productividad,
+    informalidad o directamente por un colapso productivo. (CORRECTA)**
+
+4.  **Los escenarios A y C ilustran desindustrialización prematura: la
+    manufactura fue destruida por un choque de política en países que
+    aún no habían completado su proceso de industrialización ni
+    alcanzado niveles altos de ingreso. (CORRECTA)**
+
+5.  Los tres escenarios muestran esencialmente el mismo fenómeno, la
+    desindustrialización, con la única diferencia de que en algunos
+    países el proceso fue más rápido que en otros debido a condiciones
+    iniciales distintas.
+
+6.  El escenario A no puede considerarse desindustrialización prematura,
+    dado que el país eventualmente logró recuperar parte de su capacidad
+    manufacturera algunos años después de las reformas iniciales de
+    apertura.
+
+7.  **En los escenarios A y C, la desindustrialización fue inducida por
+    decisiones de política económica, liberalización comercial y
+    financiera, no por una maduración gradual de la estructura
+    productiva. (CORRECTA)**
+
+**Respuestas correctas: 2, 3, 4 y 7** (4 de 7).
+
+**Tu explicación (no compartir con estudiantes):**
+
+-    **(1) Incorrecta.** Es un distractor tentador. El texto discute el
+    debate sobre el comercio Norte-Sur, pero concluye que para el
+    escenario B (países de la OCDE), los factores internos
+    (productividad, cambio en la demanda) son más importantes que el
+    comercio. Krugman y Rowthorn y Ramaswamy no consideran el comercio
+    como causa principal de la desindustrialización del Norte.
+
+-   **(2) Correcta.** En el escenario B, el crecimiento de la
+    productividad manufacturera reduce el empleo en el sector, mientras
+    la demanda por servicios crece con el ingreso, la lógica de la curva
+    de U invertida de Rowthorn.
+
+-   **(3) Correcta.** En los escenarios A y C, la manufactura no fue
+    reemplazada por servicios avanzados sino que colapsó, a diferencia
+    del escenario B, donde servicios de alto valor (finanzas,
+    tecnología) crecieron.
+
+-   **(4) Correcta.** Chile y Mongolia perdieron su manufactura en
+    niveles de ingreso bajos y por decisiones de política, no por
+    maduración, definición exacta de prematura e incluso
+    "pre-industrialización" en el caso mongol.
+
+-   **(5) Incorrecta.** Es el distractor más importante: igualar los
+    tres escenarios como "el mismo fenómeno a diferentes velocidades"
+    ignora que las *causas* y las *consecuencias* son fundamentalmente
+    distintas. Esa es la distinción funcional central de la sesión.
+
+-   **(6) Incorrecta.** Que Chile haya recuperado *algo* de manufactura
+    después de 1984 no cambia el diagnóstico: la caída fue prematura e
+    inducida por política. Además, la manufactura chilena nunca recuperó
+    completamente el terreno perdido.
+
+-   **(7) Correcta.** En A (Chile post-Pinochet) y C (Mongolia
+    post-1991), la caída de la manufactura fue consecuencia directa de
+    reformas de liberalización. No fue un proceso gradual impulsado por
+    productividad o cambio en la demanda.
+
+**Si cae en 30–80% (muy probable con este formato):** Peer instruction.
+Pedir que discutan en parejas *cuáles* marcaron y por qué. Luego
+re-votar. Enfocar la discusión plenaria en la opción 5 (la trampa de "es
+lo mismo pero más rápido") y la opción 1 (el rol del comercio).
+
+**Si cae en \<30%:** Explicar directamente con una tabla en la
+pizarra/slide: dos columnas (Norte vs. Sur), filas = causa principal,
+velocidad, qué reemplaza a la manufactura, efecto sobre el crecimiento.
+
+#### Conceptest 3 — Retrogresión tecnológica y sus efectos ambivalentes (declarativo)
+
+**Formato:** Opción múltiple, una sola respuesta correcta.
+
+**Situación:** Después de un programa de liberalización comercial,
+cierran múltiples fábricas textiles en un país del Sur Global. Miles de
+trabajadorxs pierden su empleo formal. Sin embargo, muchos de ellxs
+comienzan a coser ropa desde sus hogares o en pequeños talleres
+informales, usando máquinas de coser básicas en vez de la maquinaria
+industrial que usaban antes. Datos posteriores muestran que la
+participación de la manufactura en el empleo total apenas cayó, pero la
+participación de la manufactura en el PIB sí cayó significativamente.
+
+**Pregunta:** ¿Cuál de las siguientes interpretaciones explica mejor
+tanto los datos como el fenómeno descrito?
+
+a) La manufactura informal demuestra que la desindustrialización no
+ocurrió realmente: lxs trabajadorxs simplemente cambiaron de modalidad
+de producción, manteniendo intactos los encadenamientos productivos y la
+capacidad tecnológica del sector a nivel nacional.
+
+b) **La producción informal mantiene el empleo manufacturero, lo que
+mitiga la desindustrialización medida en empleo, pero a niveles de
+productividad mucho menores, lo que explica la caída de la manufactura
+en el PIB. Es una forma de retrogresión tecnológica que puede coexistir
+con una aparente estabilidad del empleo. (RESPUESTA CORRECTA)**
+
+c) Se trata de una re-industrialización exitosa desde abajo: las
+unidades pequeñas e informales son más flexibles y adaptadas al mercado
+local, y con el tiempo podrían escalar hasta recuperar los niveles de
+productividad y valor agregado anteriores a la liberalización.
+
+d) El fenómeno demuestra que la manufactura no es realmente especial
+como motor de crecimiento: si lxs trabajadorxs pueden seguir produciendo
+sin maquinaria avanzada ni economías de escala, entonces los
+rendimientos crecientes y los encadenamientos atribuidos al sector son
+exagerados.
+
+**Tu explicación (no compartir con estudiantes):**
+
+La clave de este conceptest está en que los datos del escenario son
+*internamente contradictorios* si no se entiende la retrogresión
+tecnológica: ¿cómo puede el empleo manufacturero mantenerse estable
+mientras el PIB manufacturero cae? La respuesta (b) es la única que
+resuelve esa tensión: la producción informal sostiene el empleo pero a
+productividad mucho menor, lo que se refleja en la caída del valor
+agregado. Tregenna dice esto explícitamente: "The contribution of these
+activities to manufacturing employment will be higher than the
+contribution to manufacturing value added, given below-average
+productivity."
+
+-    **(a) Incorrecta.** Niega la retrogresión. El hecho de que haya
+    empleo manufacturero no significa que los encadenamientos y la
+    capacidad tecnológica estén intactos: producir con máquinas de coser
+    básicas no genera los mismos linkages que una fábrica integrada.
+
+-    **(c) Incorrecta, pero tentadora.** Tregenna reconoce que esta
+    producción informal "could constitute a form of
+    re-industrialization, or at least mitigate the extent of
+    de-industrialization", así que tiene un grano de verdad. Pero la
+    opción va demasiado lejos al llamarla "exitosa" y al afirmar que las
+    unidades podrían escalar hasta recuperar la productividad anterior.
+    El texto enfatiza que la retrogresión es un *lock-in* (Endresen,
+    1994): no es una etapa transitoria hacia la recuperación, sino una
+    trampa estructural. Además, el caso de India (Dasgupta y Singh,
+    2006) donde la manufactura informal crece sin que esto sea
+    necesariamente patológico es la excepción, no la regla: esos autores
+    contrastan explícitamente a India con los casos de África y América
+    Latina de los 80s y 90s, donde la desindustrialización informal sí
+    fue patológica.
+
+-    **(d) Incorrecta.** Invierte el argumento: usa el caso de
+    retrogresión para negar que la manufactura sea especial, cuando en
+    realidad lo que el caso demuestra es justamente *por qué* es
+    especial: porque cuando se pierde la escala y la tecnología, la
+    productividad colapsa. Si la manufactura no tuviera rendimientos
+    crecientes, no importaría pasar de fábrica a taller doméstico.
+
+**Si cae en 30–80%:** Peer instruction. Es probable que el debate se
+centre en (b) vs. (c). Preguntar: ¿cuál es la diferencia entre "mitigar
+la desindustrialización" y "re-industrialización exitosa"? ¿Puede un
+fenómeno ser al mismo tiempo una forma de mitigación del empleo y una
+forma de retrogresión en productividad? Eso puede abrir una discusión
+rica sobre el caso de India vs. los casos de África y América Latina.
+
+**Si cae en \<30%:** Mini-lecture de 2–3 min con dos columnas: "Lo que
+los datos de empleo sugieren" (la manufactura se mantiene → parece que
+no hay desindustrialización) vs. "Lo que los datos de PIB revelan" (la
+manufactura cae → sí hay desindustrialización en valor agregado).
+Preguntar: ¿cuál de las dos medidas les parece más importante para el
+desarrollo a largo plazo? Conectar con la definición dual de Tregenna
+del concepto 1.
+
+# **10:00-10:20: Control de Lectura (20 min)**
+
+-   **10:00-10:05/10:10 (5-10 min):** Estudiantes responden el quiz de 2
+    preguntas en Moodle (al inicio de clase, para motivar punctualidad.
+
+-   *Recordatorio para ti:*
+
+    -   Abre Moodle en proyector (modo profesor).
+    -   Para ver results: Ve a Quiz \> "Resultados" (Results).
+    -   Checa "Estadísticas" (Statistics) para % correcto por pregunta
+        (e.g., "Facility index" muestra %).
+
+-   **10:05/10:10-10:15 (5-10 min):** Aclarar dudas basadas en results
+    (no reveles answers a ellos—mantén misterio para discusión).
+
+    -   *Comentario/Qué hacer dependiendo de results (por pregunta,
+        thresholds de Mazur—si \~80% nada; 30-80% peer instruction;
+        \<30% explain):*
+
+        -   Si 30-80% correcto: Organiza peer instruction (Mazur-style):
+            Discuten entre ellos 2-3 min, luego revote en Votingo (crea
+            poll rápido con opciones). Discute cambios post-vote. Usa
+            para una o ambas preguntas—Votingo facilita per-question.
+
+        -   Si \<30% correcto: Explica directamente la respuesta
+            correcta (mini-lecture 2-3 min).
+
+    -   *Escenario doomsday (mayoría mal en ambas, e.g., \>50%
+        estudiantes \<30% en Q1 y Q2):* Haz mini-lecture combinada (5
+        min) en trickle-down y indicadores básicos, luego reassign 10
+        min re-lectura selectiva del Capítulo 2 (págs. 54-60) en pairs.
+        Proceed a TLAs, pero simplifica (e.g., salta TLA3 si tiempo).
+
+**Preguntas**
+
+¿Por qué Cypher sostiene que un aumento sostenido en el PIB per cápita
+(crecimiento) no es sinónimo de "desarrollo económico"?
+
+1.  Porque el PIB per cápita solo mide la producción nacional y no
+    incluye los ingresos de ciudadanos en el extranjero.
+
+2.  Porque el PIB ya incluye automáticamente el ajuste por Paridad de
+    Poder Adquisitivo (PPA).
+
+3.  Porque el crecimiento económico solo ocurre en el Norte Global,
+    mientras que el desarrollo es exclusivo del Sur Global.
+
+4.  **Porque el desarrollo requiere cambios estructurales y
+    cualitativos, como mejoras en salud, educación y una distribución
+    del ingreso que el PIB no refleja (respuesta correcta).**
+
+Selecciona las parejas correctas de cada indicador con su categoría
+principal (crecimiento económico o desarrollo económico) en el contexto
+de países del Sur Global.
+
+1.  Índice de Desarrollo Humano (IDH) → Indicador de crecimiento (mide
+    ingreso promedio, pero no equidad). • PIB per cápita → Indicador de
+    desarrollo (incluye salud, educación y ingresos ajustados). •
+    Coeficiente de Gini → Indicador de crecimiento (afecta PIB per
+    cápita, como en ejemplos africanos). • Tasa de crecimiento
+    poblacional → Indicador de desarrollo (mide desigualdad de ingresos,
+    clave en Sur Global).
+
+2.  PIB per cápita → Indicador de crecimiento (mide ingreso promedio,
+    pero no equidad). • Índice de Desarrollo Humano (IDH) → Indicador de
+    desarrollo (incluye salud, educación y ingresos ajustados). •
+    Coeficiente de Gini → Indicador de crecimiento (afecta PIB per
+    cápita, como en ejemplos africanos). • Tasa de crecimiento
+    poblacional → Indicador de desarrollo (mide desigualdad de ingresos,
+    clave en Sur Global).
+
+3.  **PIB per cápita → Indicador de crecimiento (mide ingreso promedio,
+    pero no equidad). Índice de Desarrollo Humano (IDH) → Indicador de
+    desarrollo (incluye salud, educación y ingresos ajustados).
+    Coeficiente de Gini → Indicador de desarrollo (mide desigualdad de
+    ingresos, clave en Sur Global). Tasa de crecimiento poblacional →
+    Indicador de crecimiento (afecta PIB per cápita, como en ejemplos
+    africanos). Respuesta correcta.**
+
+4.  Tasa de crecimiento poblacional → Indicador de crecimiento (mide
+    ingreso promedio, pero no equidad). • PIB per cápita → Indicador de
+    desarrollo (incluye salud, educación y ingresos ajustados). •
+    Coeficiente de Gini → Indicador de crecimiento (afecta PIB per
+    cápita, como en ejemplos africanos). • Índice de Desarrollo Humano
+    (IDH)→ Indicador de desarrollo (mide desigualdad de ingresos, clave
+    en Sur Global).
+
+# **10:20-10:21: Comentario sobre one minute paper de la sesión anterior (1 min)**
+
+Antes de pasar a nuestro tema de hoy, ya les publiqué en Moodle un
+análisis de las dudas que me dejaron la semana pasada. En Moodle tienen
+una sección aclarando el uso de Perusall. La pregunta del tiempo de
+gracia (15 min) ya está respondida en el programa (también disponible en
+Moodle). No le dedicaremos más tiempo a esas cuestiones en clase para
+que podamos exprimir al máximo el tema de hoy, así que revísenlo en su
+espacio individual.
+
+# **10:21-10:30: Introducción a la Sesión (10 min – Overview y Justificación)**
+
+-   ¡Bienvenidos a la primera sesión substantiva! Después de la intro,
+    profundizamos en ILO 1: describir diferencias entre crecimiento
+    (p.ej. un cambio positivo en el PIB) y desarrollo (p.ej. una
+    situación de bienestar generalizado), con indicadores en el Sur
+    Global.
+
+-   Justifica: Estas actividades ayudan a evaluar políticas reales,
+    p.ej. ¿Está México desarrollándose o solo creciendo?
+
+-   Liga a ILO 1: Al final de la sesión, podrán describir mejor varias
+    diferencias/indicadores.
+
+# **10:30-11:10: Enumerar ejemplos de desigualdad (40 min)**
+
+Grupos de 3-4:
+
+Contesten las siguientes preguntas analizando la Tabla 2.3:
+
+1.  ¿Cuál es el país más desigual en la tabla? Argumenten su respuesta
+    en base a todos los indicadores de la tabla.
+
+    1.  **Respuesta esperada:** Los estudiantes probablemente señalarán
+        **Brasil** o **México**.
+
+        1.  **Argumentación:** En la tabla, México (2016) muestra que el
+            20% más rico concentra el **54.2%** del ingreso, mientras
+            que el 20% más pobre solo recibe el **4.9%**. Es probable
+            que identifiquen que la brecha (ratio) entre el quintil
+            superior e inferior es la más amplia en estos casos
+            latinoamericanos.
+
+2.  ¿Cuál región del Sur Global (p.ej. Este de Asia, Sur de Asia, etc.)
+    parece ser más desigual?
+
+    1.  **Respuesta esperada:** **América Latina**.
+
+        1.  **Justificación:** Al comparar los datos de México/Brasil
+            con los de Asia (India, Indonesia, Pakistán), los
+            estudiantes notarán que los países latinoamericanos tienden
+            a tener porcentajes mucho más bajos para el quintil más
+            pobre y más altos para el más rico.
+
+3.  Hagan un comentario con respecto del caso de China.
+
+    1.  **Respuesta esperada:** Identificarán a China como uno de los
+        países más desiguales de la tabla.
+
+        1.  **Dato clave:** Cypher menciona que la participación del 20%
+            más rico en China cayó del 52% en 2004 al **45% en 2015**.
+            También era un país muy equitativo antes de las reformas de
+            mercado de finales de los 70. Los estudiantes podrían
+            comentar que, aunque China creció masivamente, también logró
+            moderar su brecha interna más que otros gigantes emergentes.
+            Pareciera seguir una curva de Lorenz.
+
+4.  ¿Cuáles son los países menos desiguales de la tabla? ¿Qué nivel de
+    PIB per cápita tienen?
+
+    1.  **Respuesta esperada:** Países como **Pakistán** (donde el 20%
+        más pobre tiene el 8.9%) o **India** (8.1%).
+
+        1.  **Hallazgo irónico:** Los estudiantes se sorprenderán al
+            notar que estos países tienen un **PIB per cápita mucho más
+            bajo** que México o Brasil. Esto demuestra que "ser más
+            rico" (crecimiento) no significa "ser más equitativo"
+            (desarrollo).
+
+5.  ¿Cuál es la relación entre el coeficiente de Gini y los demás
+    indicadores de la tabla?
+
+    1.  **Respuesta esperada:** Comprenderán que el Gini es un resumen
+        de la tabla.
+
+        1.  **Análisis:** Un Gini alto (como el de México, \~0.42-0.48)
+            correlaciona directamente con una mayor concentración en el
+            quintil más rico.
+
+6.  Comenten el caso de México.
+
+    1.  **Respuesta esperada:** Una mezcla de sorpresa y preocupación.
+
+        1.  **Punto de discusión:** A pesar de ser una economía de
+            "desarrollo humano alto" (IDH 0.781) y tener un PIB per
+            cápita superior a muchos otros en la tabla, su distribución
+            es de las más deficientes. Esto refuerza tu objetivo de que
+            el desarrollo requiere "ajustes" por desigualdad (IHDI).
+
+7.  ¿Qué implicaciones tienen los resultados obtenidos en esta actividad
+    con respecto a un indicador como el PIB per cápita?
+
+    1.  **Respuesta esperada:** Concluirán que el PIB per cápita es un
+        **promedio engañoso**.
+
+        1.  **Reflexión final:** Como dice Cypher, el PIB debe
+            interpretarse con "gran precaución" cuando la brecha es
+            amplia, ya que no refleja el bienestar de la mayoría, sino
+            el promedio de una sociedad muy fracturada.
+
+Sharing en plenaria (rotar portavoces). Facilita: Corrige con pizarra.
+
+# **11:10-11:40: Describir tasas de crecimiento per cápita (30 min)**
+
+Este ejercicio le brindará práctica para analizar la relación entre el
+crecimiento económico y el crecimiento de la población.
+
+a.    Durante el período de 1970 a 1980, el PIB total de Tanzania creció
+a una tasa anual del 3,0%, y entre 1980 y 1993, al 3,6% anual. En esos
+mismos períodos, la población aumentó a una tasa anual del 3,1% y del
+3,2%, respectivamente. ¿Cuál fue la tasa anual de crecimiento del PIB
+per cápita en cada período?
+
+**Respuesta**: 1970–80: -0.1%, 1980–93: 0.4%.
+
+b.   La población de Botswana creció un 3,5 % anual entre 1970 y 1980, y
+un 3,4 % anual entre 1980 y 1993. Al mismo tiempo, el PIB total aumentó
+un 14,5 % anual entre 1970 y 1980, y un 9,6 % anual entre 1980 y 1993.
+¿Cómo cambió el PIB per cápita de Botswana en cada período?
+
+**Respuesta**: 1970–80: 11%, 1980–93: 6.2%
+
+c.    ¿El crecimiento de la población "causa" un crecimiento lento o
+rápido del PIB? ¿Cuál es la conexión entre el crecimiento de la
+población y el aumento del ingreso por persona sugerido por estos dos
+ejemplos?
+
+**Respuesta:** El crecimiento de la población no necesariamente "causa"
+por sí solo un crecimiento lento o rápido del PIB. La conexión entre
+ambos depende de otros factores económicos y sociales.
+
+Un país como Botswana pudo tener un alto crecimiento poblacional y a la
+vez un alto crecimiento del PIB per cápita porque es considerado desde
+su independencia en los 60 como uno de los países más democráticos del
+África subsahariana y se benefició en el período considerado por el auge
+de la industria de los diamantes. El gobierno mantuvo disciplina fiscal
+y aumentó gasto social.
+
+Tanzania en ese período experimentó con un modelo socialista
+caracterizado por nacionalizaciones. El país se endeudó, fue a la guerra
+con su vecino Uganda (defensa a invasión parcial) y sufrió una crisis de
+la deuda que lo obligó a liberalizar la economía a partir de los
+ochenta.
+
+### Pregunta extra para grupos que terminen rápido: El poder del interés compuesto (La Regla del 70)
+
+Ideal para grupos que son rápidos con los números y necesitan ver la
+implicación a largo plazo.
+
+**La Pregunta:**
+
+> "Usando la 'Regla del 70' (dividir 70 entre la tasa de crecimiento
+> anual), calculen **cuántos años le tomaría a Tanzania y a Botswana
+> duplicar su ingreso per cápita** basándose en las tasas que acaban de
+> obtener para el periodo 1980-1993. ¿Qué nos dice esto sobre la
+> urgencia del desarrollo?"
+
+-   **Por qué funciona:** En la lectura (Focus 2.4 sobre China), Cypher
+    menciona la importancia del "compounding" (interés compuesto).
+
+-   **La "solución" rápida para ti:**
+
+    -   Tanzania (0.4%):
+
+        ```         
+        70/0.4=17570/0.4=175
+        ```
+
+        años para duplicar su nivel de vida.
+
+    -   Botswana (6.2%):
+
+        ```         
+        70/6.2≈11.370/6.2≈11.3
+        ```
+
+        años.
+
+    -   Lección: Pequeñas diferencias en tasas anuales crean abismos
+        enormes en una generación.
+
+# **11:40-11:50: Pausa (10 min)**
+
+# **11:50-12:50: Categorizar indicadores en el contexto mexicano (60 min)**
+
+Grupos:
+
+**Búsqueda Grupal (35 min):** busquen datos recientes de México para
+estos indicadores. Anoten fuente y año:
+
+1.  PIB per cápita: Busca valores desde el año 2020 hasta el año más
+    reciente; categoriza (crecimiento/desarrollo?); describe qué mide;
+    cómo ha evolucionado desde la pandemia del COVID?
+
+2.  IDH: Busca ranking y valor; categoriza; describe sus componentes;
+    ¿Cómo se compara el PIB per cápita de México con su IDH? ¿Por qué?
+
+3.  Gini: Busca coeficiente; categoriza; describe (desigualdad de
+    ingresos); ¿es alto o bajo? ¿Por qué?
+
+4.  Tasa de pobreza absoluta/multidimensional: Busca %; categoriza;
+    describe; ¿En cuáles regiones tienden a encontrarse los estados con
+    mayor/menor pobreza? ¿Por qué?
+
+5.  Esperanza de vida al nacer: Busca años; categoriza; describe; ¿es
+    alto o bajo? ¿Qué podemos comentar del sistema de salud mexicano en
+    base a ese indicador?
+
+6.  Tasa de alfabetización adulta: Busca %; categoriza; describe; ¿Cómo
+    ha evolucionado en los últimos años?
+
+7.  Índice de desigualdad de género: Busca; categoriza; describe; da un
+    ejemplo concreto de este tipo de desigualdad en México.
+
+**Sharing (25 min):** Presenta 2-3 por grupo en pizarra.
+
+-   PIB per cápita: \~14,158 USD (2023, Banco Mundial). \~13,197 €
+    (2024, Datosmacro).
+-   IDH: 0.781 (2022, alto desarrollo humano, pero rank 81 global).
+-   Gini: \~0.42 (alta desigualdad, Banco Mundial implícito).
+-   Tasa de pobreza: \~40% multidimensional (CONEVAL/INEGI, 2023).
+-   Esperanza de vida: \~75 años (CEPAL, 2023).
+-   Alfabetización adulta: \~95% (UNESCO/INEGI, pero gaps en indígenas).
+
+# **12:50-13:00: Cierre de Sesión (10 min – Reflexión y Enlace)**
+
+**One-Minute Essay (5 min)**
+
+**Enlace a Siguiente Sesión (5 min):** Próxima: Cambio estructural (ILO
+2)—verán cómo desarrollo va más allá de ingreso, ligando a hoy. Prep:
+Leer Capítulo 5 de Cypher y reporte de la UNCTAD. Videoconferencia
+invitada del Prof. Jan Priewe en inglés durante la primera hora y media.
+
+# **Comentarios después de la sesión**
+
+## 2026-2
+
+-   Como creo que la lectura obligatoria tiene 4 conceptos esenciales,
+    asegurarme de tener 4 preguntas (una por concepto) en el control de
+    lectura.
+
+-   Creo que la configuración del control de lectura permite hacer el
+    control más de una vez. Eliminar eso.
+
+-   Como ambas preguntas del control de lectura obtuvieron 100% de
+    respuestas correctas, comenzamos el resto de las actividades más
+    temprano(10:12 am).
+
+-   Me llevé 5 min en la introducción.
+
+-   Poner fórmula aquí de la respuesta a la actividad 2 y una pequeña
+    explicación.
+
+-   Colocar evolución del PIB per cápita mexicano en las respuestas
+    aquí.
+
+-   Al principio de la clase no estaba seguro si había un enchufe para
+    mi laptop. Sí lo hay, pero del lado contrario en donde está la
+    computadora del salón.
+
+-   En la actividad 2 comencé a comentar las respuestas antes de que
+    dieran todas las respuestas. Evitar hacer eso.
+
+## 2026-1
+
+-   Ajustar tiempos
+
+-   Pregunta 1 del control de lectura parece no estar tan relacionada
+    con lo que dice el texto.
+
+-   Eliminar actividad de aprendizaje 4 por falta de tiempo.
+
+-   Colocar preguntas y respuestas del control de lectura aquí.
+
+-   Preparar una pregunta extra para grupos que terminen antes actividad
+    de aprendizaje 2.
+
+-   No olvidar traer agua a la clase.
+
+-   Hacer más explícito en la actividad de aprendizaje 3 que quiero que
+    categoricen las variables como de crecimiento o de desarrollo.
+
+-   Traer laptop para ver resultado del control de lectura.
+
+-   Cuando modere, asegurarme de primero recoger las respuestas de los
+    estudiantes y luego ofrecer mis comentarios.
