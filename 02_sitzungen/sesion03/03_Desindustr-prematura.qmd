@@ -60,6 +60,16 @@ qr <- qr_code(enlace4)  # Crea el QR con el contenido exacto del enlace.
 # Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
 # Usamos SVG porque es escalable y se ve bien en presentaciones.
 generate_svg(qr, filename = "../assets/qrVot3.svg") 
+
+# Define el enlace que quieres en el QR.
+enlace5 <- "https://votingo.cedis.fu-berlin.de/ZSCC4E"
+
+# Genera el código QR como un objeto en R—simple, solo pasa el enlace.
+qr <- qr_code(enlace5)  # Crea el QR con el contenido exacto del enlace.
+
+# Guarda el QR como un archivo SVG en la carpeta ../assets/ (donde ya tienes otros QR).
+# Usamos SVG porque es escalable y se ve bien en presentaciones.
+generate_svg(qr, filename = "../assets/qrVot6.svg")
 ```
 
 ## Actividades de la Sesión {.smaller}
@@ -122,7 +132,7 @@ Tregenna (Figuras 38.1 y 38.2):
 
 <https://votingo.cedis.fu-berlin.de/9909FW>
 
-<img src="../assets/qrVot1.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
+<img src="../assets/qrVot1.svg" alt="Código QR para el quiz" fig-align="center" width="50%"/>
 
 ## Concepto 2: Causas divergentes {.smaller}
 
@@ -151,7 +161,7 @@ Tregenna (Figuras 38.1 y 38.2):
 
 <https://votingo.cedis.fu-berlin.de/PBCA1L>
 
-<img src="../assets/qrVot2.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
+<img src="../assets/qrVot2.svg" alt="Código QR para el quiz" fig-align="center" width="50%"/>
 
 ## Concepto 3: Retrogresión tecnológica {.smaller}
 
@@ -179,7 +189,7 @@ Al perder acceso a capital, mercados y tecnología, los productores vuelven a m�
 
 <https://votingo.cedis.fu-berlin.de/U9GEM9>
 
-<img src="../assets/qrVot3.svg" alt="Código QR para el foro" fig-align="center" width="50%"/>
+<img src="../assets/qrVot3.svg" alt="Código QR para el quiz" fig-align="center" width="50%"/>
 
 
 **¿Cuál interpretación explica mejor los datos?**
@@ -230,18 +240,18 @@ Responde individualmente:
 1.  ¿Cuál fue la idea más importante que aprendiste hoy?
 2.  ¿Cuál es tu duda más relevante?
 
-```{r}
-countdown(minutes = 3, start_immediately = FALSE, font_size = "2em", right = "10px", bottom = "10px", margin = "0.5em", play_sound = TRUE)
-```
+<https://votingo.cedis.fu-berlin.de/ZSCC4E>
+
+<img src="../assets/qrVot6.svg" alt="Código QR para el quiz" fig-align="center" width="50%"/>
 
 ## Enlace a Próxima Sesión
 
 ::: {.incremental .highlight-last}
 -   Sesión 4 — **Comercio exterior, política industrial y el debate del nearshoring.**
 
-    -   Ponente invitado: Benjamín (8 de abril).
+    -   Ponente: Benjamín (8 de abril).
 
--   Lectura recomendada para la siguiente sesión.
+-   Lectura recomendada para la siguiente sesión: cap. 14 Ros-Bosch (2013).
 
 -   ¿Preguntas?
 :::
