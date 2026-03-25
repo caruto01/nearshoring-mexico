@@ -525,7 +525,7 @@ ayuda a decidir entre diagnósticos rivales.
 
 ## 2026-2
 
--   No pude llevbar el control de la asistencia.
+-   No pude llevar el control de la asistencia en la clase.
 
     -   Solo puedo hacerlo para el caso de los que están presentes.
 
