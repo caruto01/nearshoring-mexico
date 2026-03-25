@@ -120,13 +120,17 @@ Ocurre cuando la manufactura cae a niveles de ingreso per cápita **mucho más b
 
 Países de bajos ingresos (especialmente África subsahariana) pierden capacidad industrial **antes de haberse industrializado** realmente. La manufactura no supera el 5% del empleo antes de declinar.
 
-## Concepto 1: Dato clave
+## Figura 38.1: Manufactura en el empleo, por cuartil de ingreso
 
-Tregenna (Figuras 38.1 y 38.2):
+![Tregenna (2016, pág. 712).](fig38_1_empleo.png){fig-align="center" width="85%"}
 
--   Los países del **cuartil 1 y 2** de ingreso están perdiendo manufactura *antes* de alcanzar los picos de participación del **cuartil 3 y 4**.
+Cuartil 1 nunca supera 5%. Cuartiles 3 y 4 caen **desde niveles mucho más altos**.
 
--   **Medición dual:** Debe medirse en empleo *y* PIB, porque no toda caída del empleo manufacturero es desindustrialización — la productividad puede crecer mientras el empleo cae.
+## Figura 38.2: Manufactura en el PIB, por cuartil de ingreso
+
+![Tregenna (2016, pág. 713).](fig38_2_pib.png){fig-align="center" width="85%"}
+
+**Medición dual:** empleo *y* PIB. No toda caída del empleo manufacturero es desindustrialización — la productividad puede crecer mientras el empleo cae.
 
 ## Responder el quiz 1 en Votingo
 
@@ -189,14 +193,6 @@ Al perder acceso a capital, mercados y tecnología, los productores vuelven a m�
 
 <img src="../assets/qrVot3.svg" alt="Código QR para el quiz" fig-align="center" width="50%"/>
 
-
-**¿Cuál interpretación explica mejor los datos?**
-
-a)  No hubo desindustrialización: los trabajadores simplemente cambiaron de modalidad.
-b)  La producción informal mantiene el empleo pero a productividad mucho menor — retrogresión tecnológica que coexiste con aparente estabilidad del empleo.
-c)  Re-industrialización exitosa desde abajo: unidades informales son flexibles y podrían escalar.
-d)  La manufactura no es realmente especial: si se puede producir sin maquinaria avanzada, los rendimientos crecientes son exagerados.
-
 ## Síntesis de la primera mitad
 
 ::: {.incremental .highlight-last}
@@ -245,7 +241,7 @@ Responde individualmente:
 ## Enlace a Próxima Sesión
 
 ::: {.incremental .highlight-last}
--   Sesión 4 — **Comercio exterior, política industrial y el debate del nearshoring.**
+-   Sesión 4: **Comercio exterior, política industrial y el debate del nearshoring.**
 
     -   Ponente: Benjamín (8 de abril).
 
