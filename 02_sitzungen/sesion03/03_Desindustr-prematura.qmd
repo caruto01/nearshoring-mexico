@@ -104,7 +104,7 @@ Para ello, van a:
 
 **¿Qué es la desindustrialización "clásica"?**
 
-En economías avanzadas, la manufactura cae como proporción del empleo y el PIB conforme el ingreso crece → transición hacia servicios de alto valor (finanzas, tecnología, consultoría).
+Países del Norte Global, la manufactura cae como proporción del empleo y el PIB conforme el ingreso crece → transición hacia servicios de alto valor (finanzas, tecnología, consultoría).
 
 Es parte de la **curva de U invertida de Rowthorn**: la manufactura primero crece con el ingreso, luego cae.
 
@@ -112,7 +112,7 @@ Es parte de la **curva de U invertida de Rowthorn**: la manufactura primero crec
 
 **¿Qué la hace "prematura"?**
 
-Ocurre cuando la manufactura cae a niveles de ingreso per cápita **mucho más bajos** que los de los países avanzados cuando estos comenzaron a desindustrializarse.
+Ocurre cuando la manufactura cae a niveles de ingreso per cápita **mucho más bajos** que los de los países del Norte Global cuando estos comenzaron a desindustrializarse.
 
 . . .
 
@@ -136,7 +136,7 @@ Tregenna (Figuras 38.1 y 38.2):
 
 ## Concepto 2: Causas divergentes {.smaller}
 
-**En el Norte (economías avanzadas):**
+**En el Norte Global:**
 
 -   Crecimiento de la productividad manufacturera → se produce más con menos trabajadores.
 -   Cambio en la demanda hacia servicios conforme el ingreso crece.
@@ -144,14 +144,12 @@ Tregenna (Figuras 38.1 y 38.2):
 
 . . .
 
-**En el Sur (economías en desarrollo):**
+**En el Sur Global:**
 
 -   Desindustrialización **inducida por políticas** (*policy-induced*).
 -   Liberalización comercial rápida, apertura de cuenta de capital, austeridad monetaria.
 
-. . .
-
-**Casos emblemáticos:**
+## Casos emblemáticos:
 
 -   **Chile (1973–1977):** Aranceles promedio de 94% → 16%. Manufactura colapsa.
 -   **Mongolia (post-1991):** Producción manufacturera cae a \<1% de su nivel previo.
