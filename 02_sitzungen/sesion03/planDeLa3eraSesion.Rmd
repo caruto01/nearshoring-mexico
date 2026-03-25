@@ -21,34 +21,34 @@ editor_options:
 ### Miércoles, 25 de marzo de 2026, 90:00-10:30, Salón 207
 
 # **9:00-9:03: Bienvenida y conexión con sesión anterior (3 min)**
- 
+
 -   Mostrar slide de actividades de la sesión.
- 
+
 -   Conexión: "La sesión pasada vimos la manufactura como motor de
-    desarrollo y si México puede reindustrializarse. Hoy vamos al
-    otro lado de esa moneda: ¿qué pasa cuando un país se
-    *des*industrializa antes de tiempo?"
- 
+    desarrollo y si México puede reindustrializarse. Hoy vamos al otro
+    lado de esa moneda: ¿qué pasa cuando un país se *des*industrializa
+    antes de tiempo?"
+
 -   Texto base: Tregenna (2016), "Deindustrialization and premature
     deindustrialization".
- 
+
 # **9:03-9:13: Concepto 1 — Desindustrialización prematura (10 min)**
- 
+
 -   **9:03-9:08 (5 min):** Mini-presentación.
- 
+
     -   Curva de U invertida de Rowthorn: la manufactura primero crece
         con el ingreso, luego cae.
-    -   Desindustrialización "clásica" (Norte): transición madura
-        hacia servicios avanzados.
-    -   Desindustrialización "prematura": la manufactura cae a
-        niveles de ingreso mucho más bajos.
+    -   Desindustrialización "clásica" (Norte): transición madura hacia
+        servicios avanzados.
+    -   Desindustrialización "prematura": la manufactura cae a niveles
+        de ingreso mucho más bajos.
     -   Caso extremo: "desindustrialización pre-industrialización"
-        (África subsahariana — manufactura no supera 5% del empleo
-        antes de declinar).
+        (África subsahariana — manufactura no supera 5% del empleo antes
+        de declinar).
     -   Medición dual: empleo *y* PIB.
 
 -   **9:08-9:13 (5 min):** Conceptest 1.
- 
+
     -   Mostrar slide del conceptest con timer de 2 min.
     -   Protocolo Mazur:
         -   \>80% → avanzar.
@@ -61,33 +61,35 @@ editor_options:
 
 **Situación:** Consideren dos países.
 
--    **País X** tiene un ingreso per cápita de \$4,000. En la última
+-   **País X** tiene un ingreso per cápita de \$4,000. En la última
     década, la participación de la manufactura en su empleo total cayó
     del 12% al 7%, y su participación en el PIB cayó del 15% al 10%.
 
--    **País Y** tiene un ingreso per cápita de \$35,000. En el mismo
+-   **País Y** tiene un ingreso per cápita de \$35,000. En el mismo
     período, la participación de la manufactura en su empleo cayó del
     22% al 15%, y su participación en el PIB cayó del 20% al 14%.
 
 **Pregunta:** ¿Cuál de las siguientes afirmaciones describe
 correctamente la diferencia entre estos dos procesos?
 
-a) Ambos países están experimentando desindustrialización prematura,
-porque en los dos casos la participación de la manufactura cae de manera
-sostenida tanto en empleo como en PIB durante el mismo período.
+a)  Ambos países están experimentando desindustrialización prematura,
+    porque en los dos casos la participación de la manufactura cae de
+    manera sostenida tanto en empleo como en PIB durante el mismo
+    período.
 
-b) Solo el País Y experimenta desindustrialización verdadera, porque su
-caída absoluta en puntos porcentuales es mayor (7 pp vs. 5 pp en empleo)
-y parte de un nivel de manufactura más alto.
+b)  Solo el País Y experimenta desindustrialización verdadera, porque su
+    caída absoluta en puntos porcentuales es mayor (7 pp vs. 5 pp en
+    empleo) y parte de un nivel de manufactura más alto.
 
-c) Ninguno de los dos experimenta desindustrialización prematura. Ambos
-reflejan la reasignación eficiente de recursos: el mercado desplaza
-factores productivos hacia los sectores de mayor rentabilidad.
+c)  Ninguno de los dos experimenta desindustrialización prematura. Ambos
+    reflejan la reasignación eficiente de recursos: el mercado desplaza
+    factores productivos hacia los sectores de mayor rentabilidad.
 
-d) **Solo el País X experimenta desindustrialización prematura, porque
-pierde manufactura a un nivel de ingreso mucho más bajo que el de los
-países avanzados cuando estos comenzaron a desindustrializarse. El País
-Y experimenta desindustrialización "clásica". (RESPUESTA CORRECTA)**
+d)  **Solo el País X experimenta desindustrialización prematura, porque
+    pierde manufactura a un nivel de ingreso mucho más bajo que el de
+    los países avanzados cuando estos comenzaron a desindustrializarse.
+    El País Y experimenta desindustrialización "clásica". (RESPUESTA
+    CORRECTA)**
 
 **Tu explicación (no compartir con estudiantes):**
 
@@ -109,17 +111,16 @@ Mostrar cómo los países del cuartil 1 y 2 están perdiendo manufactura
 *antes* de alcanzar los picos del cuartil 3 y 4.
 
 # **9:13-9:23: Concepto 2 — Causas divergentes (10 min)**
- 
+
 -   **9:13-9:18 (5 min):** Mini-presentación.
- 
-    -   Norte: productividad + cambio en demanda → maduración
-        natural.
+
+    -   Norte: productividad + cambio en demanda → maduración natural.
     -   Sur: liberalización comercial rápida, apertura de cuenta de
         capital, austeridad monetaria.
     -   Casos: Chile (1973–77: aranceles de 94% a 16%), Mongolia
         (post-1991: manufactura a \<1%), Europa del Este (post-1989).
     -   Diagnóstico correcto de la causa → política correcta.
- 
+
 -   **9:18-9:23 (5 min):** Conceptest 2.
 
 ## Conceptest 2 — Causas divergentes (funcional)
@@ -130,17 +131,17 @@ afirmaciones que consideres correctas."
 
 **Situación:** Analicen los siguientes tres escenarios reales:
 
--    **Escenario A:** Entre 1973 y 1977, un país latinoamericano reduce
+-   **Escenario A:** Entre 1973 y 1977, un país latinoamericano reduce
     sus aranceles promedio de 94% a 16%, privatiza rápidamente empresas
     estatales y abre su cuenta de capital. Su producción manufacturera
     se contrae drásticamente.
 
--    **Escenario B:** Entre 1970 y 2010, un país de la OCDE con ingreso
+-   **Escenario B:** Entre 1970 y 2010, un país de la OCDE con ingreso
     per cápita de \$40,000 ve caer la participación de la manufactura en
     el empleo del 25% al 15%. Al mismo tiempo, el sector servicios
     (incluyendo finanzas, tecnología y consultoría) crece rápidamente.
 
--    **Escenario C:** A partir de 1991, un país de Asia Central elimina
+-   **Escenario C:** A partir de 1991, un país de Asia Central elimina
     todos sus aranceles (excepto el alcohol), implementa liberalización
     financiera total y abre completamente la cuenta de capital. En menos
     de una década, la producción manufacturera cae a menos del 1% de su
@@ -148,7 +149,7 @@ afirmaciones que consideres correctas."
 
 **Pregunta:** ¿Cuáles de las siguientes afirmaciones son correctas?
 
-1.   En el escenario B, la desindustrialización se debe principalmente a
+1.  En el escenario B, la desindustrialización se debe principalmente a
     la competencia desleal de importaciones baratas del Sur Global, que
     desplazaron a los productores domésticos de los mercados internos y
     de exportación.
@@ -187,7 +188,7 @@ afirmaciones que consideres correctas."
 
 **Tu explicación (no compartir con estudiantes):**
 
--    **(1) Incorrecta.** Es un distractor tentador. El texto discute el
+-   **(1) Incorrecta.** Es un distractor tentador. El texto discute el
     debate sobre el comercio Norte-Sur, pero concluye que para el
     escenario B (países de la OCDE), los factores internos
     (productividad, cambio en la demanda) son más importantes que el
@@ -234,19 +235,18 @@ pizarra/slide: dos columnas (Norte vs. Sur), filas = causa principal,
 velocidad, qué reemplaza a la manufactura, efecto sobre el crecimiento.
 
 -   **9:23-9:28 (5 min):** Mini-presentación.
- 
-    -   Manufactura como "motor del crecimiento" (Kaldor):
-        rendimientos crecientes, learning-by-doing, linkages,
-        causación acumulativa.
-    -   Szirmai y Verspagen (2011): efecto positivo de manufactura
-        sobre crecimiento en 88 países — sin efecto equivalente para
+
+    -   Manufactura como "motor del crecimiento" (Kaldor): rendimientos
+        crecientes, learning-by-doing, linkages, causación acumulativa.
+    -   Szirmai y Verspagen (2011): efecto positivo de manufactura sobre
+        crecimiento en 88 países — sin efecto equivalente para
         servicios.
     -   Retrogresión tecnológica (Endresen, 1994): los productores
         vuelven a métodos más primitivos. Es un *lock-in*, no una
         transición.
     -   Reemplazo asimétrico: Norte → servicios avanzados; Sur →
         informalidad, baja productividad.
- 
+
 -   **9:28-9:33 (5 min):** Conceptest 3.
 
 ## Conceptest 3 — Retrogresión tecnológica y sus efectos ambivalentes (declarativo)
@@ -265,27 +265,29 @@ participación de la manufactura en el PIB sí cayó significativamente.
 **Pregunta:** ¿Cuál de las siguientes interpretaciones explica mejor
 tanto los datos como el fenómeno descrito?
 
-a) La manufactura informal demuestra que la desindustrialización no
-ocurrió realmente: lxs trabajadorxs simplemente cambiaron de modalidad
-de producción, manteniendo intactos los encadenamientos productivos y la
-capacidad tecnológica del sector a nivel nacional.
+a)  La manufactura informal demuestra que la desindustrialización no
+    ocurrió realmente: lxs trabajadorxs simplemente cambiaron de
+    modalidad de producción, manteniendo intactos los encadenamientos
+    productivos y la capacidad tecnológica del sector a nivel nacional.
 
-b) **La producción informal mantiene el empleo manufacturero, lo que
-mitiga la desindustrialización medida en empleo, pero a niveles de
-productividad mucho menores, lo que explica la caída de la manufactura
-en el PIB. Es una forma de retrogresión tecnológica que puede coexistir
-con una aparente estabilidad del empleo. (RESPUESTA CORRECTA)**
+b)  **La producción informal mantiene el empleo manufacturero, lo que
+    mitiga la desindustrialización medida en empleo, pero a niveles de
+    productividad mucho menores, lo que explica la caída de la
+    manufactura en el PIB. Es una forma de retrogresión tecnológica que
+    puede coexistir con una aparente estabilidad del empleo. (RESPUESTA
+    CORRECTA)**
 
-c) Se trata de una re-industrialización exitosa desde abajo: las
-unidades pequeñas e informales son más flexibles y adaptadas al mercado
-local, y con el tiempo podrían escalar hasta recuperar los niveles de
-productividad y valor agregado anteriores a la liberalización.
+c)  Se trata de una re-industrialización exitosa desde abajo: las
+    unidades pequeñas e informales son más flexibles y adaptadas al
+    mercado local, y con el tiempo podrían escalar hasta recuperar los
+    niveles de productividad y valor agregado anteriores a la
+    liberalización.
 
-d) El fenómeno demuestra que la manufactura no es realmente especial
-como motor de crecimiento: si lxs trabajadorxs pueden seguir produciendo
-sin maquinaria avanzada ni economías de escala, entonces los
-rendimientos crecientes y los encadenamientos atribuidos al sector son
-exagerados.
+d)  El fenómeno demuestra que la manufactura no es realmente especial
+    como motor de crecimiento: si lxs trabajadorxs pueden seguir
+    produciendo sin maquinaria avanzada ni economías de escala, entonces
+    los rendimientos crecientes y los encadenamientos atribuidos al
+    sector son exagerados.
 
 **Tu explicación (no compartir con estudiantes):**
 
@@ -300,12 +302,12 @@ activities to manufacturing employment will be higher than the
 contribution to manufacturing value added, given below-average
 productivity."
 
--    **(a) Incorrecta.** Niega la retrogresión. El hecho de que haya
+-   **(a) Incorrecta.** Niega la retrogresión. El hecho de que haya
     empleo manufacturero no significa que los encadenamientos y la
     capacidad tecnológica estén intactos: producir con máquinas de coser
     básicas no genera los mismos linkages que una fábrica integrada.
 
--    **(c) Incorrecta, pero tentadora.** Tregenna reconoce que esta
+-   **(c) Incorrecta, pero tentadora.** Tregenna reconoce que esta
     producción informal "could constitute a form of
     re-industrialization, or at least mitigate the extent of
     de-industrialization", así que tiene un grano de verdad. Pero la
@@ -320,7 +322,7 @@ productivity."
     Latina de los 80s y 90s, donde la desindustrialización informal sí
     fue patológica.
 
--    **(d) Incorrecta.** Invierte el argumento: usa el caso de
+-   **(d) Incorrecta.** Invierte el argumento: usa el caso de
     retrogresión para negar que la manufactura sea especial, cuando en
     realidad lo que el caso demuestra es justamente *por qué* es
     especial: porque cuando se pierde la escala y la tecnología, la
@@ -343,19 +345,18 @@ desarrollo a largo plazo? Conectar con la definición dual de Tregenna
 del concepto 1.
 
 # **9:33-9:38: Síntesis de primera mitad + transición a actividad (5 min)**
- 
+
 -   Recapitular los 3 conceptos en una slide de síntesis.
--   Transición: "Ahora vamos a aplicar estos tres conceptos al caso
-    de México."
- 
+-   Transición: "Ahora vamos a aplicar estos tres conceptos al caso de
+    México."
+
 # **9:38-9:43: Instrucciones de la actividad grupal (5 min)**
- 
+
 -   Formar equipos mixtos presenciales + virtuales.
 -   Abrir breakout rooms en Webex.
--   **Recordar:** dar la palabra primero a participantes virtuales
-    para compensar la ventaja de presencialidad.
+-   **Recordar:** dar la palabra primero a participantes virtuales para
+    compensar la ventaja de presencialidad.
 
- 
 # **9:43-10:10: Trabajo grupal (27 min)**
 
 ## **Actividad en grupo: ¿Cómo debe interpretarse el cambio estructural de México?**
@@ -372,7 +373,7 @@ automático, como se muestra en la tabla de abajo.
 ### Datos para discutir
 
 | Año | Peso de la manufactura en el PIB (%) | Peso de la industria en el empleo (%) |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | 1970 | 22.0 | — |
 | 1980 | 18.3 | — |
 | 1990 | 19.1 | 22.06 (1991) |
@@ -445,7 +446,7 @@ sostenida de la manufactura tanto en empleo como en PIB, mientras que
 para México la propia UNCTAD habla más bien de **stalled
 industrialization**, con participaciones manufactureras que “barely
 changed”, junto con bajo dinamismo de productividad, inversión y
-encadenamientos. \
+encadenamientos.\
 **Error frecuente:** responder “a) desindustrialización prematura” solo
 porque hubo apertura o porque el país no convergió, sin demostrar la
 caída sostenida en ambas dimensiones; o responder “d)” como si México
@@ -459,7 +460,7 @@ hacia subestimar** la hipótesis de desindustrialización prematura,
 porque una caída del empleo manufacturero puede quedar tapada si otros
 rubros industriales sostienen la participación total de “industria” en
 el empleo; la serie adicional clave sería una serie larga de **empleo
-manufacturero como % del empleo total**. \
+manufacturero como % del empleo total**.\
 **Error frecuente:** decir simplemente “no pasa nada, industria y
 manufactura son casi lo mismo” o ignorar que la serie de ILO es
 modelada/imputada y requiere cautela para conclusiones fuertes.
@@ -472,7 +473,7 @@ encadenamientos domésticos, alto contenido importado, inversión débil y
 productividad muy lenta**, es decir, una manufactura más ensambladora
 que articuladora. Eso coincide casi literalmente con el diagnóstico de
 UNCTAD sobre México como maquila exporter con limited domestic
-production linkages y weak investment growth. \
+production linkages y weak investment growth.\
 **Error frecuente:** reducir todo a “el TLCAN destruyó la industria” o,
 al revés, “como crecieron las exportaciones manufactureras, entonces fue
 un éxito industrial completo”.
@@ -485,7 +486,7 @@ la **productividad/capacidades tecnológicas**. Tres indicadores
 razonables serían, por ejemplo, **contenido nacional o valor agregado
 doméstico en las exportaciones manufactureras**, **productividad laboral
 manufacturera**, y **tasa de inversión manufacturera** o participación
-de insumos intermedios nacionales en la producción/exportación. \
+de insumos intermedios nacionales en la producción/exportación.\
 **Error frecuente:** proponer indicadores meramente cuantitativos como
 exportaciones brutas, número de plantas o monto de IED, que pueden
 crecer sin profundización industrial real.
@@ -497,31 +498,100 @@ exportaciones manufactureras**, porque esas series permiten arbitrar
 entre “éxito exportador” y “industrialización profunda”. Una buena
 justificación diría que la tabla actual muestra peso sectorial, pero no
 si la manufactura está actuando realmente como motor de aprendizaje,
-inversión y cambio estructural. \
+inversión y cambio estructural.\
 **Error frecuente:** elegir una gráfica redundante con la tabla ya dada,
 o una demasiado agregada (por ejemplo, crecimiento del PIB total) que no
 ayuda a decidir entre diagnósticos rivales.
 
 # **10:10-10:25: Sharing en plenaria (15 min)**
- 
+
 -   2–3 min por grupo.
--   Preguntar: ¿Qué etiqueta eligieron? ¿Qué indicadores proponen
-    para evaluar el nearshoring?
+-   Preguntar: ¿Qué etiqueta eligieron? ¿Qué indicadores proponen para
+    evaluar el nearshoring?
 -   Ir anotando en la pizarra los diagnósticos y los indicadores
     propuestos.
-    
+
 # **10:25-10:30: Cierre (5 min)**
- 
+
 -   **10:25-10:28 (3 min):** Ensayo de un minuto. Dos preguntas:
     (1) ¿Cuál fue la idea más importante que aprendiste hoy?
     (2) ¿Cuál es tu duda más relevante?
- 
 -   **10:28-10:30 (2 min):** Enlace a sesión 4: "Comercio exterior,
-    política industrial y el debate del nearshoring" — ponente
-    Benjamín (8 de abril, luego de Semana Santa). Recordar lectura recomendada, cap. 14 de Ros-Bosch (2013).
+    política industrial y el debate del nearshoring" — ponente Benjamín
+    (8 de abril, luego de Semana Santa). Recordar lectura recomendada,
+    cap. 14 de Ros-Bosch (2013).
 
 # **Comentarios después de la sesión**
 
 ## 2026-2
 
--   
+-   No pude llevbar el control de la asistencia.
+
+    -   Solo puedo hacerlo para el caso de los que están presentes.
+
+    -   Para el caso de los virtuales, tendré que ver el video de la
+        clase para anotarlos.
+
+-   Hubo necesidad de hacer peer-instruction en todos los conceptests.
+
+    -   Eso desbordó los tiempos planificados.
+
+        En el 1ero, pasó de 57% a 77% el porcentaje de respuestas
+        correctas.
+
+-   La presentación del concepto esencial 2 comenzó a las 9:27
+
+    -   Su Conceptest tuvo esta tendencia:
+
+        -   Respuesta correcta 2: 50% a 54%.
+
+        -   Respuesta correcta 3: 21% a 46%
+
+        -   Respuesta correcta 4: 64% a 61%
+
+        -   Respuesta correcta 7: 79% a 69%.
+
+-   No estoy seguro de qué tanto discutieron las personas en línea
+    durante las rondas de peer-instruction.
+
+    -   No les comenté que les iba a enviar la respuesta a sus
+        dispositivos.
+
+        -   Solo se lo comenté a los 2 que asistieron de manera
+            presencial.
+
+        -   Debo aprender cómo explicarle a los asistentes de Webex cómo
+            entrar en las sesiones de grupo.
+
+-   La explicación del concepto esencial 3 comenzó a las 9:51.
+
+    -   El comentario sobre el reemplazo asimétrico de la manufactura en
+        el Norte vs. Sur en la lámina 11 me parece que está demás por
+        repetitivo.
+
+    -   En este Conceptest fue el único en el que se logró consenso
+        luego de la ronda de peer-instruction. La respuesta correcta
+        pasó del 73 a más del 90%.
+
+-   Por el desborde de los tiempos me salté la síntesis de la primera
+    mitad.
+
+-   Creo que comenzó la actividad grupal como a las 10:05 más o menos
+    (no lo anoté).
+
+    -   Dije que trataran de contestar las preguntas que pudieran en 10
+        min.
+
+    -   Al final solo dejé espacio de 2-3 min en total para que los
+        grupos comentaran sus conclusiones.
+
+        -   Solo dos lo hicieron y los dos seleccionaron la etiqueta C.
+
+            -   Me recuerdo que un grupo se enfocó en la falta de
+                encadenamientos del sector exportador.
+
+            -   Otro mencionó a México como una potencia exportadora
+                pero que eso no se iguala con desarrollo.
+
+    -   Hice un comentario breve de 4 min de esas preguntas que comenzó
+        a las 10:21
