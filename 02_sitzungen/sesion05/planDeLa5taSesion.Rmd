@@ -243,6 +243,19 @@ explicación demasiado estrecha.
     petrolíferos y el uso de instrumentos como el Impuesto Especial
     sobre Producción y Servicios (IEPS).
 
+-   Fuentes:
+
+    Costilla-Reyes, E., & Vergara González, R. (2026). *Renta petrolera
+    y valorización fiscal en México (1990–2023): evidencia estructural
+    mediante VECM*. *Revista de Economía, 43*(106),
+    5–34. <https://doi.org/10.33937/reveco.2026.524>
+
+    Venables (2016)
+
+    Wattnem, T. A. (2023). *Neoliberal resource nationalism: The
+    scramble for Mexico’s hydrocarbons*. *Latin American Perspectives,
+    50*(2), 48–68. <https://doi.org/10.1177/0094582X231155857>
+
     "Elijan un diagnóstico principal y construyan una propuesta breve
     para México: ¿cuál es hoy el principal riesgo (falla en la
     conversión de riqueza, mala captura y manejo de rentas, o activación
@@ -253,9 +266,7 @@ explicación demasiado estrecha.
 -   **Entregable por equipo:** tres líneas o bullets con:
 
     -   un diagnóstico central;
-    -   tres acciones de política;
-    -   dos indicadores para distinguir entre más extracción y más
-        desarrollo.
+    -   tres acciones de política.
 
 ## Preguntas para discutir
 
