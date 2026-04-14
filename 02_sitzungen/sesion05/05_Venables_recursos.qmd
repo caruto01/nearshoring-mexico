@@ -12,6 +12,7 @@ format:
     footer: "Semestre 2026-2"
     transition: slide
     embed-resources: true
+css: ../assets/styles.css
 transition: slide
 background-transition: fade
 editor: visual
