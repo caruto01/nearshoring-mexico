@@ -3,10 +3,10 @@ title: "Plan de la Quinta Sesión: Recursos naturales y desarrollo"
 author: "Alejandro Márquez"
 date: "`r format(Sys.Date(), '%d/%m/%Y')`"
 output:
-  html_document:
-    df_print: paged
   pdf_document:
     latex_engine: xelatex
+  html_document:
+    df_print: paged
 semester: "2026-2"
 documentclass: extarticle
 fontsize: 17pt
@@ -375,13 +375,7 @@ IED o número de plantas.
 
 # **Checklist antes de entrar a clase**
 
--   Abrir con anticipación encuesta o Votingo de los tres conceptests.
-
--   Preparar slide inicial con instrucciones para Webex: votación
-    individual, breakout rooms y plan B por chat.
-
--   Tener ya creadas las breakout rooms o decidir desde antes que se
-    usará chat, para no improvisarlo en vivo.
+-   Abrir con anticipación encuesta de los tres conceptests.
 
 -   Anotar en papel o en la misma diapositiva la hora de inicio real de:
 
