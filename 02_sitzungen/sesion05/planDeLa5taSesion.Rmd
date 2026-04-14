@@ -164,8 +164,7 @@ fiscal con mejor manejo intertemporal de la renta.
     -   La maldición de los recursos no debe entenderse como una sola
         ley automática.
     -   Venables agrupa varios mecanismos: volatilidad, Dutch disease,
-        bajo ahorro genuino, débil diversificación y fallas de
-        gobernanza.
+        bajo ahorro, débil diversificación y fallas de gobernanza.
     -   El problema es cómo esos mecanismos se refuerzan.
     -   Por eso no existe una única política correctiva.
 
@@ -177,23 +176,28 @@ fiscal con mejor manejo intertemporal de la renta.
 
 **Situación:** Un país exportador de petróleo vive un auge. La moneda se
 aprecia, caen actividades transables no extractivas, sube el gasto
-público, baja el ahorro genuino y la política se vuelve más dependiente
-de la renta.
+público, baja el ahorro y la política se vuelve más dependiente de la
+renta.
 
-**Pregunta:** ¿Cuál diagnóstico refleja mejor el argumento de Venables?
+**Pregunta:** ¿Qué diagnóstico describe mejor el tipo de problema de
+desarrollo que muestra este caso?
 
-a)  El caso muestra una única falla principal, así que basta corregir un
-    solo problema técnico para eliminar la maldición de los recursos.
+a)  El principal problema parece ser macroeconómico, por lo que una
+    corrección cambiaria probablemente bastaría para revertir el resto
+    de los efectos.
 
-b)  **El caso ilustra que la maldición de los recursos debe entenderse
-    como un conjunto de mecanismos vinculados que se refuerzan entre sí.
-    (RESPUESTA CORRECTA)**
+b)  **El caso sugiere un conjunto de mecanismos económicos y políticos
+    vinculados entre sí, donde los efectos del auge pueden reforzarse
+    mutuamente y volver más difícil la corrección posterior. Respuesta
+    correcta.**
 
-c)  El caso prueba que todos los países ricos en recursos están
-    condenados al fracaso sin excepción.
+c)  El caso sugiere que la abundancia de petróleo genera casi siempre
+    los mismos resultados, independientemente de cómo responda el
+    Estado.
 
-d)  El caso muestra que la abundancia de recursos daña el desarrollo
-    solo si el país tiene poco comercio exterior.
+d)  El principal problema parece provenir del comercio exterior, de modo
+    que una mayor apertura bastaría para neutralizar los efectos del
+    auge.
 
 **Tu explicación (no compartir con estudiantes):**
 

@@ -60,7 +60,7 @@ Para ello, van a:
 
 :::
 
-## Conceptest 1 {.smaller}
+## Quiz 1 {.smaller}
 
 Un país de ingreso medio descubre un gran yacimiento de cobre. Durante los primeros cinco años de explotación, el gobierno usa casi toda la renta extraordinaria para subsidiar gasolina, ampliar gasto corriente y reducir impuestos al consumo. La inversión pública en infraestructura, formación técnica y diversificación productiva apenas cambia.
 
@@ -97,7 +97,7 @@ También se puede entrar en slido.com
 -   En países con necesidades urgentes, esta tensión es especialmente fuerte.
 :::
 
-## Conceptest 2 {.smaller}
+## Quiz 2 {.smaller}
 
 Dos países pobres descubren gas natural.
 
@@ -131,30 +131,37 @@ También se puede entrar en slido.com
 ::: {.incremental .highlight-last}
 -   La "maldición de los recursos" no es una ley automática.
 
--   Es una forma de nombrar varios problemas que pueden reforzarse: volatilidad, Dutch disease, baja diversificación, bajo ahorro genuino y fallas de gobernanza.
+-   Es una forma de nombrar varios problemas que pueden reforzarse: volatilidad, Dutch disease, baja diversificación, bajo ahorro y fallas de gobernanza.
 
 -   El punto es entender cómo esos mecanismos se encadenan.
 
--   Por eso no existe una sola política milagro.
+-   Por eso no existe una sola política tipo bala de plata.
 :::
 
-## Conceptest 3 {.smaller}
+## Quiz 3 {.smaller}
 
-Un país exportador de petróleo vive un auge. La moneda se aprecia, caen actividades transables no extractivas, sube el gasto público, baja el ahorro genuino y la política se vuelve más dependiente de la renta.
+Un país exportador de petróleo vive un auge. La moneda se aprecia, caen actividades transables no extractivas, sube el gasto público, baja el ahorro y la política se vuelve más dependiente de la renta.
 
-¿Qué lectura encaja mejor con Venables?
+¿Qué diagnóstico describe mejor el tipo de problema de desarrollo que muestra este caso?
 
-A. El caso muestra una única falla principal, así que basta corregir un solo problema técnico para eliminar la maldición de los recursos.
+::: {.incremental .highlight-last}
+1. El principal problema parece ser macroeconómico, por lo que una corrección cambiaria probablemente bastaría para revertir el resto de los efectos.
 
-B. El caso ilustra que la maldición de los recursos debe entenderse como un conjunto de mecanismos vinculados que se refuerzan entre sí.
+2. El caso sugiere un conjunto de mecanismos económicos y políticos vinculados entre sí, donde los efectos del auge pueden reforzarse mutuamente y volver más difícil la corrección posterior. 
 
-C. El caso prueba que todos los países ricos en recursos están condenados al fracaso sin excepción.
+3. El caso sugiere que la abundancia de petróleo genera casi siempre los mismos resultados, independientemente de cómo responda el Estado.
 
-D. El caso muestra que la abundancia de recursos daña el desarrollo solo si el país tiene poco comercio exterior.
+4. El principal problema parece provenir del comercio exterior, de modo que una mayor apertura bastaría para neutralizar los efectos del auge.
+
+:::
 
 ## Responder el quiz 3
 
-`[Pegar aquí el link de Votingo o Webex Poll]`
+<https://app.sli.do/event/n56CvPMGUYfNqZNHSuqsSc>
+
+También se puede entrar en slido.com
+
+- Quiz 1979276
 
 ## Síntesis de la primera mitad
 
