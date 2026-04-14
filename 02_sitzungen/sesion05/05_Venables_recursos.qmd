@@ -1,0 +1,215 @@
+---
+title: "Recursos naturales y desarrollo: por qué es tan difícil"
+author: "Alejandro Márquez Velázquez"
+institute: "Nearshoring, Desindustrialización y la Trampa del Ingreso Medio<br>DEPFE-UNAM"
+date: "2026-04-15"
+date-format: "D [de] MMMM [de] YYYY"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    footer: "Semestre 2026-2"
+    transition: slide
+    embed-resources: true
+transition: slide
+background-transition: fade
+editor: visual
+---
+
+## Actividades de la sesión {.smaller}
+
+Hoy vamos a trabajar el objetivo de aprendizaje:
+
+*Analizar* las causas de la trampa del ingreso medio y la desindustrialización prematura, conectándolas con la coyuntura económica actual de México.
+
+::: {.incremental .highlight-last}
+Para ello, van a:
+
+1.  *Distinguir* entre extraer recursos y transformar rentas de recursos en otros activos productivos.
+
+2.  *Explicar* por qué capturar renta y administrarla bien es un problema fiscal e institucional central.
+
+3.  *Diagnosticar* la maldición de los recursos como un conjunto de mecanismos conectados, no como una sola falla.
+
+4.  *Aplicar* estas ideas al caso de México en el contexto de nearshoring, energía y minerales estratégicos.
+:::
+
+## Conexión con la sesión anterior
+
+::: {.incremental .highlight-last}
+-   En la sesión 4 discutimos comercio exterior, política industrial y el debate del nearshoring.
+
+-   Hoy cambiamos un poco el ángulo:
+
+    ¿Tener petróleo, gas, cobre o litio ayuda por sí mismo al desarrollo?
+
+-   Texto base: Venables (2016), "Using natural resources for development: why has it proven so difficult?"
+:::
+
+## Antes de empezar: protocolo híbrido
+
+::: {.incremental .highlight-last}
+-   Todas las personas responden primero de manera individual.
+
+-   Si no hay consenso, haremos una discusión breve: presenciales en parejas y virtuales en breakout rooms o en chat, según el tiempo.
+
+-   La meta no es "acertar rápido", sino comparar razonamientos.
+
+-   Cada conceptest tiene tiempo tope.
+:::
+
+## Concepto 1: La renta de recursos no es ingreso ordinario {.smaller}
+
+::: {.incremental .highlight-last}
+-   Un recurso no renovable es un activo del país.
+
+-   Extraerlo genera una renta, pero también reduce el stock de riqueza natural.
+
+-   La pregunta central no es solo cuánto se extrae, sino en qué se convierte esa renta.
+
+-   Desarrollo implica transformar riqueza natural en otros activos: infraestructura, capacidades productivas, capital humano e instituciones.
+:::
+
+## Conceptest 1 {.smaller}
+
+Un país de ingreso medio descubre un gran yacimiento de cobre. Durante los primeros cinco años de explotación, el gobierno usa casi toda la renta extraordinaria para subsidiar gasolina, ampliar gasto corriente y reducir impuestos al consumo. La inversión pública en infraestructura, formación técnica y diversificación productiva apenas cambia.
+
+¿Cuál interpretación es más consistente con Venables?
+
+A. La estrategia es adecuada porque las rentas de recursos cuentan como ingreso corriente y deben gastarse tan pronto como ingresan.
+
+B. El principal problema es que la minería crea demasiado empleo directo, lo que distorsiona la estructura ocupacional.
+
+C. La estrategia es riesgosa porque consume renta de un activo agotable sin transformarla en otros activos que sostengan el desarrollo futuro.
+
+D. La estrategia funcionará siempre que el país mantenga apertura comercial.
+
+## Responder el quiz 1
+
+`[Pegar aquí el link de Votingo o Webex Poll]`
+
+## Concepto 2: Captura de renta y manejo de ingresos {.smaller}
+
+::: {.incremental .highlight-last}
+-   Tener recursos no basta: importa cuánto de la renta captura el Estado.
+
+-   Esa captura depende de contratos, regalías, impuestos y capacidad de negociación.
+
+-   Después viene otra decisión difícil: cuánto ahorrar, cuánto gastar y cómo manejar volatilidad y agotamiento.
+
+-   En países con necesidades urgentes, esta tensión es especialmente fuerte.
+:::
+
+## Conceptest 2 {.smaller}
+
+Dos países pobres descubren gas natural.
+
+-   País A firma contratos débiles, captura poca renta y gasta casi todo lo que ingresa en subsidios y nómina pública.
+
+-   País B negocia mejor la captura fiscal, crea una regla para suavizar volatilidad y dirige parte de la renta a inversión pública y ahorro.
+
+Según Venables, ¿cuál afirmación es más consistente con el texto?
+
+A. El País A tiene una estrategia superior porque atiende necesidades inmediatas y por eso el ahorro de largo plazo deja de ser importante.
+
+B. Ambos países enfrentarán el mismo resultado porque la captura fiscal es secundaria frente al volumen físico extraído.
+
+C. El País B tiene más probabilidades de convertir el recurso en desarrollo porque logra captar y administrar mejor la renta a lo largo del tiempo.
+
+D. La diferencia principal entre ambos países dependerá solo del precio internacional del gas, no de sus instituciones fiscales.
+
+## Responder el quiz 2
+
+`[Pegar aquí el link de Votingo o Webex Poll]`
+
+## Concepto 3: La maldición de los recursos como fallas conectadas {.smaller}
+
+::: {.incremental .highlight-last}
+-   La "maldición de los recursos" no es una ley automática.
+
+-   Es una forma de nombrar varios problemas que pueden reforzarse: volatilidad, Dutch disease, baja diversificación, bajo ahorro genuino y fallas de gobernanza.
+
+-   El punto es entender cómo esos mecanismos se encadenan.
+
+-   Por eso no existe una sola política milagro.
+:::
+
+## Conceptest 3 {.smaller}
+
+Un país exportador de petróleo vive un auge. La moneda se aprecia, caen actividades transables no extractivas, sube el gasto público, baja el ahorro genuino y la política se vuelve más dependiente de la renta.
+
+¿Qué lectura encaja mejor con Venables?
+
+A. El caso muestra una única falla principal, así que basta corregir un solo problema técnico para eliminar la maldición de los recursos.
+
+B. El caso ilustra que la maldición de los recursos debe entenderse como un conjunto de mecanismos vinculados que se refuerzan entre sí.
+
+C. El caso prueba que todos los países ricos en recursos están condenados al fracaso sin excepción.
+
+D. El caso muestra que la abundancia de recursos daña el desarrollo solo si el país tiene poco comercio exterior.
+
+## Responder el quiz 3
+
+`[Pegar aquí el link de Votingo o Webex Poll]`
+
+## Síntesis de la primera mitad
+
+::: {.incremental .highlight-last}
+1.  Tener recursos naturales no equivale automáticamente a tener una estrategia de desarrollo.
+
+2.  La renta debe convertirse en otros activos productivos, no solo en gasto corriente.
+
+3.  Capturar renta y administrarla bien es un problema fiscal e institucional central.
+
+4.  La maldición de los recursos reúne fallas conectadas, no una sola causa.
+:::
+
+## Actividad grupal: México entre recursos y nearshoring {.smaller}
+
+Imaginen que asesoran a una comisión que quiere aprovechar la combinación de:
+
+-   minerales estratégicos;
+-   energía;
+-   y relocalización industrial ligada a electromovilidad y manufactura.
+
+Su tarea es responder:
+
+1.  ¿Cuál es hoy el principal riesgo: falla en la conversión de riqueza, mala captura y manejo de rentas, o activación de mecanismos de maldición de los recursos?
+
+2.  ¿Qué tres acciones concretas permitirían convertir esa oportunidad en desarrollo de largo plazo?
+
+3.  ¿Qué dos indicadores usarían para distinguir entre "más extracción" y "más desarrollo"?
+
+## Producto de la actividad
+
+Cada equipo debe entregar una respuesta breve con:
+
+1.  un diagnóstico principal;
+2.  tres acciones de política;
+3.  dos indicadores de seguimiento.
+
+## Sharing en plenaria {.smaller}
+
+Cada equipo comparte en 2 minutos:
+
+1.  su diagnóstico central;
+2.  una política prioritaria;
+3.  un indicador de alerta temprana.
+
+## Ensayo de un minuto
+
+Responde individualmente:
+
+1.  ¿Qué idea de Venables te parece más útil para pensar el caso mexicano?
+2.  ¿Qué duda te queda sobre recursos naturales y desarrollo?
+
+## Cierre
+
+::: {.incremental .highlight-last}
+-   Los recursos pueden financiar desarrollo, pero no lo reemplazan.
+
+-   La clave está en convertir rentas agotables y volátiles en activos duraderos.
+
+-   Para México, la pregunta no es solo si habrá más inversión, sino si habrá mejor captura, mejor manejo y menos mecanismos de maldición.
+:::
