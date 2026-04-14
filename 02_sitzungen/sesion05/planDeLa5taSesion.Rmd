@@ -10,6 +10,7 @@ output:
 semester: "2026-2"
 documentclass: extarticle
 fontsize: 17pt
+mainfont: Comic Sans MS
 editor_options:
   markdown:
     wrap: 72
@@ -37,7 +38,8 @@ editor_options:
     -   Si no hay consenso, la discusión será de **90 segundos**:
         presenciales en parejas y virtuales en breakout rooms.
     -   Si Webex complica los breakout rooms, las personas virtuales
-        escriben en el chat: **opción elegida + una razón en una frase**.
+        escriben en el chat: **opción elegida + una razón en una
+        frase**.
     -   Avisar desde el inicio que también verán la respuesta en sus
         dispositivos.
 
@@ -103,8 +105,8 @@ la transformación de activos.
 
     -   Tener recursos no basta: importa cuánto de la renta captura el
         Estado.
-    -   La captura depende de contratos, regalías, impuestos y
-        capacidad institucional.
+    -   La captura depende de contratos, regalías, impuestos y capacidad
+        institucional.
     -   Luego viene otra tensión: cuánto ahorrar, cuánto gastar y cómo
         manejar volatilidad y agotamiento.
     -   Venables convierte la abundancia de recursos en un problema de
@@ -209,9 +211,9 @@ explicación demasiado estrecha.
     -   la maldición de los recursos agrupa fallas conectadas;
     -   el reto es pensar qué implican estas ideas para México.
 
--   Pregunta-puente hacia la actividad: "Si mañana México recibe una
-    ola de inversión ligada a minerales críticos y manufactura verde,
-    ¿qué tendría que pasar para que eso sea desarrollo y no solo otro
+-   Pregunta-puente hacia la actividad: "Si mañana México recibe una ola
+    de inversión ligada a minerales críticos y manufactura verde, ¿qué
+    tendría que pasar para que eso sea desarrollo y no solo otro
     enclave?"
 
 # **9:47-10:04: Actividad grupal (17 min)**
@@ -271,9 +273,9 @@ desarrollo o suponer que cualquier expansión exportadora ya equivale a
 cambio estructural.
 
 **2. Tres acciones concretas**\
-Las mejores respuestas suelen incluir combinaciones como:
-mecanismos sólidos de captura fiscal, reglas de estabilización y ahorro,
-inversión en infraestructura y capacidades, y políticas que reduzcan la
+Las mejores respuestas suelen incluir combinaciones como: mecanismos
+sólidos de captura fiscal, reglas de estabilización y ahorro, inversión
+en infraestructura y capacidades, y políticas que reduzcan la
 dependencia de una sola actividad exportadora.\
 **Error frecuente:** proponer solo exenciones fiscales o solo atraer más
 IED, sin explicar cómo eso generaría capacidades domésticas.
@@ -353,8 +355,8 @@ políticas de largo plazo cuando cambian precios o gobiernos.\
 
 -   Abrir con anticipación encuesta o Votingo de los tres conceptests.
 
--   Preparar slide inicial con instrucciones para Webex:
-    votación individual, breakout rooms y plan B por chat.
+-   Preparar slide inicial con instrucciones para Webex: votación
+    individual, breakout rooms y plan B por chat.
 
 -   Tener ya creadas las breakout rooms o decidir desde antes que se
     usará chat, para no improvisarlo en vivo.
