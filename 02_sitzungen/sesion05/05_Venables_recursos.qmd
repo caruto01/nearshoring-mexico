@@ -63,15 +63,18 @@ Para ello, van a:
 
 Un país de ingreso medio descubre un gran yacimiento de cobre. Durante los primeros cinco años de explotación, el gobierno usa casi toda la renta extraordinaria para subsidiar gasolina, ampliar gasto corriente y reducir impuestos al consumo. La inversión pública en infraestructura, formación técnica y diversificación productiva apenas cambia.
 
-¿Cuál interpretación es más consistente con Venables?
+¿Cuál es el principal problema de desarrollo de largo plazo en esta estrategia?
 
-A. La estrategia es adecuada porque las rentas de recursos cuentan como ingreso corriente y deben gastarse tan pronto como ingresan.
+::: {.incremental .highlight-last}
+1. La estrategia es adecuada porque las rentas de recursos naturales deben tratarse como ingreso público ordinario mientras duren los altos precios.
 
-B. El principal problema es que la minería crea demasiado empleo directo, lo que distorsiona la estructura ocupacional.
+2. El principal riesgo es que la minería suele generar demasiado empleo directo, lo que distorsiona la estructura ocupacional del país.
 
-C. La estrategia es riesgosa porque consume renta de un activo agotable sin transformarla en otros activos que sostengan el desarrollo futuro.
+3. La estrategia es riesgosa porque usa renta de un recurso agotable para financiar consumo presente sin transformarla suficientemente en activos que sostengan ingresos futuros.
 
-D. La estrategia funcionará siempre que el país mantenga apertura comercial.
+4. La estrategia funcionará siempre que el país mantenga apertura comercial y estabilidad macroeconómica.
+
+:::
 
 ## Responder el quiz 1
 
