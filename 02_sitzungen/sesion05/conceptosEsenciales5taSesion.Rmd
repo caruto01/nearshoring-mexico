@@ -19,10 +19,7 @@ editor_options:
 
 **Curso:** Nearshoring, Desindustrialización y la Trampa del Ingreso
 Medio: El Futuro del Desarrollo en México **Sesión:** 5 \| Miércoles 15
-de abril de 2026 **Objetivo de aprendizaje:** *Evaluar* por qué la
-abundancia de recursos naturales no se traduce automáticamente en
-desarrollo, y qué tendría que ocurrir para que sí contribuya al cambio
-estructural en México.
+de abril de 2026.
 
 **Basado en:** Venables, A. J. (2016). "Using natural resources for
 development: why has it proven so difficult?" *Journal of Economic
@@ -47,11 +44,11 @@ boom:
 -   capital humano;
 -   ahorro público e instituciones más sólidas.
 
-Si la renta se consume principalmente en gasto corriente o transferencias
-de corto plazo, el país puede experimentar un auge sin acumulación
-duradera. En ese sentido, la abundancia de recursos no garantiza
-desarrollo; solo crea una oportunidad condicionada por cómo se gestiona
-la renta.
+Si la renta se consume principalmente en gasto corriente o
+transferencias de corto plazo, el país puede experimentar un auge sin
+acumulación duradera. En ese sentido, la abundancia de recursos no
+garantiza desarrollo; solo crea una oportunidad condicionada por cómo se
+gestiona la renta.
 
 **Conexión con el curso:** Esto dialoga bien con la pregunta transversal
 del seminario: cómo salir de la trampa del ingreso medio. Para México,
@@ -66,8 +63,9 @@ nearshoring se traduce en nuevas capacidades productivas.
 **Tipo de conocimiento (Biggs y Tang, 2011):** Funcional.
 
 Venables subraya que la extracción de recursos abre inmediatamente un
-problema de finanzas públicas. El recurso genera una renta extraordinaria,
-pero esa renta no entra automáticamente al proceso de desarrollo:
+problema de finanzas públicas. El recurso genera una renta
+extraordinaria, pero esa renta no entra automáticamente al proceso de
+desarrollo:
 
 -   primero debe ser capturada por el Estado mediante contratos,
     regalías, impuestos y capacidad de negociación;
@@ -87,8 +85,7 @@ extraordinaria de forma compatible con una estrategia de desarrollo".
 
 ------------------------------------------------------------------------
 
-## Concepto 3: La maldición de los recursos como conjunto de fallas
-## conectadas
+## Concepto 3: La maldición de los recursos como conjunto de fallas conectadas
 
 **Tipo de conocimiento (Biggs y Tang, 2011):** Declarativo.
 
