@@ -48,7 +48,7 @@ Para ello, van a:
 4.  *Aplicar* estas ideas al caso de México en el contexto del petróleo y minerales estratégicos.
 :::
 
-## Concepto 1: La renta de recursos no es ingreso ordinario {.smaller}
+## La renta de recursos no es ingreso ordinario
 
 ::: {.incremental .highlight-last}
 -   Un recurso no renovable es un activo del país.
@@ -86,7 +86,7 @@ También se puede entrar en slido.com
 
 - Quiz 1854980
 
-## Concepto 2: Captura de renta y manejo de ingresos {.smaller}
+## Captura de renta y manejo de ingresos
 
 ::: {.incremental .highlight-last}
 -   Tener recursos no basta: importa cuánto de la renta captura el Estado.
@@ -98,13 +98,15 @@ También se puede entrar en slido.com
 -   En países con necesidades urgentes, esta tensión es especialmente fuerte.
 :::
 
-## Quiz 2 {.smaller}
+## Quiz 2: Situación
 
 Dos países pobres descubren gas natural.
 
 -   País A firma contratos débiles, captura poca renta y gasta casi todo lo que ingresa en subsidios y nómina pública.
 
 -   País B negocia mejor la captura fiscal, crea una regla para suavizar volatilidad y dirige parte de la renta a inversión pública y ahorro.
+
+## Quiz 2: Pregunta {.smaller}
 
 ¿Qué diagnóstico describe mejor la diferencia esperable entre ambos países en términos de desarrollo de largo plazo?
 
@@ -127,7 +129,7 @@ También se puede entrar en slido.com
 
 - Quiz 1854981
 
-## Concepto 3: La maldición de los recursos como fallas conectadas {.smaller}
+## La maldición de los recursos como fallas conectadas
 
 ::: {.incremental .highlight-last}
 -   La "maldición de los recursos" no es una ley automática.
@@ -178,7 +180,7 @@ También se puede entrar en slido.com
 
 ## Actividad grupal: México y sus recursos {.smaller}
 
-Imaginen que asesoran a una comisión que quiere aprovechar:minerales estratégicos y petróleo.
+Imaginen que asesoran a una comisión que quiere aprovechar minerales estratégicos y petróleo.
 
 Su tarea es responder:
 
@@ -186,7 +188,7 @@ Su tarea es responder:
 
 2.  ¿Qué tres acciones concretas permitirían convertir esa oportunidad en desarrollo de largo plazo?
 
-3.  ¿Qué dos indicadores usarían para distinguir entre "más extracción" y "más desarrollo"?
+3.  ¿Qué problema de gobernanza podría echar a perder la estrategia?
 
 ## Producto de la actividad
 
@@ -195,7 +197,7 @@ Cada equipo debe entregar una respuesta breve con:
 1.  un diagnóstico principal;
 2.  tres acciones de política.
 
-## Actividad en Moodle {.smaller}
+## Actividad en Moodle
 
 Leer breve texto y preguntas en Moodle. Compartir una respuesta por grupo allí:
 
@@ -222,5 +224,7 @@ También se puede entrar en slido.com
 
 -   La clave está en convertir rentas agotables y volátiles en activos duraderos.
 
--   Para México, la pregunta no es solo si habrá más inversión, sino si habrá mejor captura, mejor manejo y menos mecanismos que activen la maldición de los recursos.
+-   La pregunta no es solo si habrá más inversión, sino si habrá mejor captura, mejor manejo y menos mecanismos que activen la maldición de los recursos.
+
+- Semana que viene: primera sesión del COIL con la Freie Universität Berlin.
 :::
