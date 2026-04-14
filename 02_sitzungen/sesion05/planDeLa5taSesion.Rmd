@@ -214,26 +214,39 @@ explicación demasiado estrecha.
 
 -   Recuperar cuatro ideas:
 
-    -   la renta de recursos debe convertirse en otros activos;
-    -   capturar renta y administrarla bien es un problema central;
-    -   la maldición de los recursos agrupa fallas conectadas;
-    -   el reto es pensar qué implican estas ideas para México.
+    -   La renta de recursos debe convertirse en otros activos;
+    -   Capturar renta y administrarla bien es un problema central;
+    -   La maldición de los recursos agrupa fallas conectadas;
+    -   El reto es pensar qué implican estas ideas para México.
 
 -   Pregunta-puente hacia la actividad: "Si mañana México recibe una ola
-    de inversión ligada a minerales críticos y manufactura verde, ¿qué
-    tendría que pasar para que eso sea desarrollo y no solo otro
-    enclave?"
+    de inversión ligada a minerales críticos y petróleo, ¿qué tendría
+    que pasar para que eso sea desarrollo y no solo otro enclave?"
 
 # **9:47-10:04: Actividad grupal (17 min)**
 
 -   Formar equipos de 3-4 personas.
 
--   **Instrucción única y visible en slide/Moodle/Webex chat:**
+-   **Instrucción única y visible en slide/Moodle:**
+
+    **La dependencia fiscal de los hidrocarburos en México**
+
+-   En México, los hidrocarburos han tenido un peso importante como
+    fuente de ingresos públicos (36% del total en promedio entre 2006 y
+    2010) y como parte de una arquitectura político-fiscal más amplia.
+    En años recientes, además, el vínculo entre el sector energético y
+    finanzas públicas ha cambiado, con una reconfiguración de los
+    canales mediante los cuales la renta llega al presupuesto. Por
+    ejemplo, tras la reforma energética de 2014 y la caída de la
+    producción, el peso fiscal del sector se desplazó parcialmente desde
+    las exportaciones de crudo hacia el consumo interno de productos
+    petrolíferos y el uso de instrumentos como el Impuesto Especial
+    sobre Producción y Servicios (IEPS).
 
     "Elijan un diagnóstico principal y construyan una propuesta breve
-    para México: ¿cuál es hoy el principal riesgo — falla en la
+    para México: ¿cuál es hoy el principal riesgo (falla en la
     conversión de riqueza, mala captura y manejo de rentas, o activación
-    de mecanismos de maldición de los recursos — y qué tres acciones
+    de mecanismos de maldición de los recursos) y qué tres acciones
     concretas permitirían convertir la oportunidad en desarrollo de
     largo plazo?"
 
@@ -257,16 +270,16 @@ una alternativa rival**.
 
 **2. Tres acciones concretas**\
 ¿Qué tres políticas o inversiones públicas serían prioritarias para que
-una expansión ligada a recursos naturales y nearshoring genere
-aprendizaje, encadenamientos y capacidades productivas duraderas?
+una expansión ligada a recursos naturales genere aprendizaje,
+encadenamientos y capacidades productivas duraderas?
 
-**3. Indicadores de seguimiento**\
-¿Qué dos indicadores permitirían distinguir entre un auge extractivo o
-exportador y un verdadero proceso de transformación productiva?
-
-**4. Riesgo político-institucional**\
+**3. Riesgo político-institucional** \
 ¿Qué problema de gobernanza o de corto plazo podría echar a perder la
 estrategia, incluso si el diagnóstico económico fuera correcto?
+
+4.   **Indicadores de seguimiento (pregunta extra)**\
+    ¿Qué dos indicadores permitirían distinguir entre un auge extractivo
+    o exportador y un verdadero proceso de transformación productiva?
 
 ## Respuestas esperadas
 
@@ -288,19 +301,20 @@ dependencia de una sola actividad exportadora.\
 **Error frecuente:** proponer solo exenciones fiscales o solo atraer más
 IED, sin explicar cómo eso generaría capacidades domésticas.
 
-**3. Indicadores de seguimiento**\
-Buenas respuestas: adjusted net saving o una medida equivalente de
-ahorro genuino, contenido nacional o valor agregado doméstico,
-productividad, composición de exportaciones, inversión pública
-complementaria o alguna métrica de diversificación.\
-**Error frecuente:** quedarse solo con exportaciones brutas, monto de
-IED o número de plantas.
-
-**4. Riesgo político-institucional**\
+**3. Riesgo político-institucional**\
 La respuesta más sólida señalará gasto procíclico, captura política de
 la renta, debilidad de reglas de inversión, o incapacidad para sostener
 políticas de largo plazo cuando cambian precios o gobiernos.\
 **Error frecuente:** tratar la gobernanza como un asunto secundario.
+
+**4. Indicadores de seguimiento (pregunta extra)**\
+Buenas respuestas: adjusted net saving (ahorro más gasto en educación
+menos agotamiento de los recursos naturales) o una medida equivalente de
+ahorro, contenido nacional o valor agregado doméstico, productividad,
+composición de exportaciones, inversión pública complementaria o alguna
+métrica de diversificación.\
+**Error frecuente:** quedarse solo con exportaciones brutas, monto de
+IED o número de plantas.
 
 # **10:04-10:18: Sharing en plenaria (14 min)**
 
@@ -310,19 +324,19 @@ políticas de largo plazo cuando cambian precios o gobiernos.\
 
     -   1 minuto para diagnóstico;
     -   30 segundos para política prioritaria;
-    -   30 segundos para indicador de alerta.
+    -   30 segundos para riesgo político-institucional.
 
 -   Ir anotando en pizarra o diapositiva compartida:
 
     -   diagnóstico elegido;
     -   política prioritaria;
-    -   indicador de seguimiento.
+    -   riesgo político-institucional.
 
 # **10:18-10:23: Ensayo de un minuto (5 min)**
 
 -   Dos preguntas:
 
-    -   ¿Qué idea de Venables te parece más útil para pensar el caso
+    -   ¿Qué idea aprendida hoy te parece más útil para pensar el caso
         mexicano?
     -   ¿Qué duda te queda sobre recursos naturales y desarrollo?
 
