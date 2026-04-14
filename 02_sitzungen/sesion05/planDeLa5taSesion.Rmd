@@ -1,0 +1,390 @@
+---
+title: "Plan de la Quinta Sesión: Recursos naturales y desarrollo"
+author: "Alejandro Márquez"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    latex_engine: xelatex
+semester: "2026-2"
+documentclass: extarticle
+fontsize: 17pt
+editor_options:
+  markdown:
+    wrap: 72
+---
+
+**Semestre:** `r rmarkdown::metadata$semester`
+
+### Miércoles, 15 de abril de 2026, 9:00-10:30, formato híbrido
+
+# **9:00-9:05: Bienvenida, encuadre y protocolo híbrido (5 min)**
+
+-   Mostrar slide de actividades de la sesión.
+
+-   Conexión con la sesión 4: "La sesión pasada discutimos comercio,
+    política industrial y nearshoring. Hoy vamos a una pregunta previa:
+    ¿por qué la riqueza en recursos naturales no se convierte
+    automáticamente en desarrollo?"
+
+-   Texto base: Venables (2016), "Using natural resources for
+    development: why has it proven so difficult?"
+
+-   **Protocolo explícito para modalidad híbrida:**
+
+    -   Todas las personas responden primero de forma individual.
+    -   Si no hay consenso, la discusión será de **90 segundos**:
+        presenciales en parejas y virtuales en breakout rooms.
+    -   Si Webex complica los breakout rooms, las personas virtuales
+        escriben en el chat: **opción elegida + una razón en una frase**.
+    -   Avisar desde el inicio que también verán la respuesta en sus
+        dispositivos.
+
+# **9:05-9:17: Concepto 1 — La renta de recursos no es ingreso ordinario (12 min)**
+
+-   **9:05-9:09 (4 min):** Mini-presentación.
+
+    -   Un recurso no renovable es un activo nacional.
+    -   La extracción genera renta, pero también agota riqueza natural.
+    -   La clave del desarrollo es transformar esa renta en otros
+        activos: infraestructura, capital humano, capacidades
+        productivas e instituciones.
+    -   Consumir toda la renta en gasto corriente puede dejar al país
+        con boom sin transformación.
+
+-   **9:09-9:17 (8 min):** Conceptest 1 con estructura fija.
+
+    -   90 segundos: voto individual.
+    -   90 segundos: discusión breve, solo si el resultado cae en el
+        rango de 30-80%.
+    -   45 segundos: segunda votación.
+    -   3-4 minutos: explicación y cierre.
+
+## Conceptest 1 — Renta de recursos y transformación de activos
+
+**Formato:** Opción múltiple, una sola respuesta correcta.
+
+**Situación:** Un país de ingreso medio descubre un gran yacimiento de
+cobre. Durante los primeros cinco años de explotación, el gobierno usa
+casi toda la renta extraordinaria para subsidiar gasolina, ampliar gasto
+corriente y reducir impuestos al consumo. La inversión pública en
+infraestructura, formación técnica y diversificación productiva apenas
+cambia.
+
+**Pregunta:** ¿Cuál interpretación es más consistente con Venables?
+
+a)  La estrategia es adecuada porque las rentas de recursos cuentan como
+    ingreso corriente y deben gastarse tan pronto como ingresan.
+
+b)  El principal problema es que la minería crea demasiado empleo
+    directo, lo que distorsiona la estructura ocupacional.
+
+c)  **La estrategia es riesgosa porque consume renta de un activo
+    agotable sin transformarla en otros activos que sostengan el
+    desarrollo futuro. (RESPUESTA CORRECTA)**
+
+d)  La estrategia funcionará siempre que el país mantenga apertura
+    comercial.
+
+**Tu explicación (no compartir con estudiantes):**
+
+La idea central es que el recurso bajo tierra es una forma de riqueza.
+Si la renta se usa principalmente para gasto corriente, el país puede
+consumir hoy una riqueza que no está reemplazando con otros activos
+productivos. El distractor (a) trata la renta como si fuera ingreso
+ordinario. El distractor (b) identifica mal el mecanismo. El distractor
+(d) desplaza la discusión hacia comercio, cuando el problema central es
+la transformación de activos.
+
+# **9:17-9:29: Concepto 2 — Captura de renta y manejo de ingresos (12 min)**
+
+-   **9:17-9:21 (4 min):** Mini-presentación.
+
+    -   Tener recursos no basta: importa cuánto de la renta captura el
+        Estado.
+    -   La captura depende de contratos, regalías, impuestos y
+        capacidad institucional.
+    -   Luego viene otra tensión: cuánto ahorrar, cuánto gastar y cómo
+        manejar volatilidad y agotamiento.
+    -   Venables convierte la abundancia de recursos en un problema de
+        finanzas públicas y de horizonte temporal.
+
+-   **9:21-9:29 (8 min):** Conceptest 2 con la misma estructura.
+
+## Conceptest 2 — Captura fiscal y manejo intertemporal
+
+**Formato:** Opción múltiple, una sola respuesta correcta.
+
+**Situación:** Dos países pobres descubren gas natural.
+
+-   **País A:** firma contratos débiles, captura poca renta y gasta casi
+    todo lo que ingresa en subsidios y nómina pública.
+
+-   **País B:** negocia mejor la captura fiscal, crea una regla para
+    suavizar volatilidad y dirige parte de la renta a inversión pública
+    y ahorro.
+
+**Pregunta:** Según Venables, ¿qué resultado es más probable?
+
+a)  El País A tiene una estrategia superior porque atiende necesidades
+    inmediatas y por eso el ahorro de largo plazo deja de ser
+    importante.
+
+b)  Ambos países enfrentarán el mismo resultado porque la captura fiscal
+    es secundaria frente al volumen físico extraído.
+
+c)  **El País B tiene más probabilidades de convertir el recurso en
+    desarrollo porque logra captar y administrar mejor la renta a lo
+    largo del tiempo. (RESPUESTA CORRECTA)**
+
+d)  La diferencia principal entre ambos países dependerá solo del precio
+    internacional del gas, no de sus instituciones fiscales.
+
+**Tu explicación (no compartir con estudiantes):**
+
+La clave del concepto es que "tener gas" o "tener petróleo" no resuelve
+por sí mismo el problema del desarrollo. Primero importa la capacidad
+para capturar la renta, y luego la capacidad para distribuirla entre
+consumo presente, inversión y ahorro, manejando además la volatilidad.
+El distractor (a) toma las urgencias actuales como si anularan el
+problema intertemporal. El distractor (b) minimiza la política fiscal.
+El distractor (d) borra el papel de las instituciones.
+
+# **9:29-9:41: Concepto 3 — La maldición de los recursos como conjunto de fallas (12 min)**
+
+-   **9:29-9:33 (4 min):** Mini-presentación.
+
+    -   La maldición de los recursos no debe entenderse como una sola
+        ley automática.
+    -   Venables agrupa varios mecanismos: volatilidad, Dutch disease,
+        bajo ahorro genuino, débil diversificación y fallas de
+        gobernanza.
+    -   El problema es cómo esos mecanismos se refuerzan.
+    -   Por eso no existe una única política correctiva.
+
+-   **9:33-9:41 (8 min):** Conceptest 3 con la misma estructura.
+
+## Conceptest 3 — La maldición de los recursos como mecanismo compuesto
+
+**Formato:** Opción múltiple, una sola respuesta correcta.
+
+**Situación:** Un país exportador de petróleo vive un auge. La moneda se
+aprecia, caen actividades transables no extractivas, sube el gasto
+público, baja el ahorro genuino y la política se vuelve más dependiente
+de la renta.
+
+**Pregunta:** ¿Cuál diagnóstico refleja mejor el argumento de Venables?
+
+a)  El caso muestra una única falla principal, así que basta corregir un
+    solo problema técnico para eliminar la maldición de los recursos.
+
+b)  **El caso ilustra que la maldición de los recursos debe entenderse
+    como un conjunto de mecanismos vinculados que se refuerzan entre sí.
+    (RESPUESTA CORRECTA)**
+
+c)  El caso prueba que todos los países ricos en recursos están
+    condenados al fracaso sin excepción.
+
+d)  El caso muestra que la abundancia de recursos daña el desarrollo
+    solo si el país tiene poco comercio exterior.
+
+**Tu explicación (no compartir con estudiantes):**
+
+La respuesta correcta recoge la forma en que Venables usa la idea de
+maldición de los recursos: no como una ley única ni como destino
+inevitable, sino como etiqueta para varias fallas que se acumulan y
+refuerzan. El distractor (a) reduce el problema a un solo mecanismo. El
+distractor (c) lo vuelve determinista. El distractor (d) introduce una
+explicación demasiado estrecha.
+
+# **9:41-9:47: Síntesis protegida de la primera mitad (6 min)**
+
+-   **Esta parte no debe recortarse.**
+
+-   Recuperar cuatro ideas:
+
+    -   la renta de recursos debe convertirse en otros activos;
+    -   capturar renta y administrarla bien es un problema central;
+    -   la maldición de los recursos agrupa fallas conectadas;
+    -   el reto es pensar qué implican estas ideas para México.
+
+-   Pregunta-puente hacia la actividad: "Si mañana México recibe una
+    ola de inversión ligada a minerales críticos y manufactura verde,
+    ¿qué tendría que pasar para que eso sea desarrollo y no solo otro
+    enclave?"
+
+# **9:47-10:04: Actividad grupal (17 min)**
+
+-   Formar equipos de 3-4 personas.
+
+-   **Instrucción única y visible en slide/Moodle/Webex chat:**
+
+    "Elijan un diagnóstico principal y construyan una propuesta breve
+    para México: ¿cuál es hoy el principal riesgo — falla en la
+    conversión de riqueza, mala captura y manejo de rentas, o activación
+    de mecanismos de maldición de los recursos — y qué tres acciones
+    concretas permitirían convertir la oportunidad en desarrollo de
+    largo plazo?"
+
+-   **Entregable por equipo:** tres líneas o bullets con:
+
+    -   un diagnóstico central;
+    -   tres acciones de política;
+    -   dos indicadores para distinguir entre más extracción y más
+        desarrollo.
+
+## Preguntas para discutir
+
+**1. Diagnóstico principal**\
+¿Cuál de estos tres riesgos es hoy el más importante para México y por
+qué:\
+a) falla en la conversión de riqueza subterránea en otros activos,\
+b) mala captura y manejo intertemporal de rentas, o\
+c) activación de mecanismos de maldición de los recursos?\
+La respuesta debe **elegir uno** y **descartar explícitamente al menos
+una alternativa rival**.
+
+**2. Tres acciones concretas**\
+¿Qué tres políticas o inversiones públicas serían prioritarias para que
+una expansión ligada a recursos naturales y nearshoring genere
+aprendizaje, encadenamientos y capacidades productivas duraderas?
+
+**3. Indicadores de seguimiento**\
+¿Qué dos indicadores permitirían distinguir entre un auge extractivo o
+exportador y un verdadero proceso de transformación productiva?
+
+**4. Riesgo político-institucional**\
+¿Qué problema de gobernanza o de corto plazo podría echar a perder la
+estrategia, incluso si el diagnóstico económico fuera correcto?
+
+## Respuestas esperadas
+
+**1. Diagnóstico principal**\
+La respuesta más fuerte puede inclinarse por **b)** o **c)**, según el
+énfasis que el equipo quiera dar al caso mexicano. Una respuesta sólida
+debe mostrar que no basta con tener recursos o inversión, sino que hace
+falta capturar y administrar renta, y además evitar que se acumulen
+fallas macroeconómicas, fiscales y políticas.\
+**Error frecuente:** asumir que la inversión por sí sola garantiza
+desarrollo o suponer que cualquier expansión exportadora ya equivale a
+cambio estructural.
+
+**2. Tres acciones concretas**\
+Las mejores respuestas suelen incluir combinaciones como:
+mecanismos sólidos de captura fiscal, reglas de estabilización y ahorro,
+inversión en infraestructura y capacidades, y políticas que reduzcan la
+dependencia de una sola actividad exportadora.\
+**Error frecuente:** proponer solo exenciones fiscales o solo atraer más
+IED, sin explicar cómo eso generaría capacidades domésticas.
+
+**3. Indicadores de seguimiento**\
+Buenas respuestas: adjusted net saving o una medida equivalente de
+ahorro genuino, contenido nacional o valor agregado doméstico,
+productividad, composición de exportaciones, inversión pública
+complementaria o alguna métrica de diversificación.\
+**Error frecuente:** quedarse solo con exportaciones brutas, monto de
+IED o número de plantas.
+
+**4. Riesgo político-institucional**\
+La respuesta más sólida señalará gasto procíclico, captura política de
+la renta, debilidad de reglas de inversión, o incapacidad para sostener
+políticas de largo plazo cuando cambian precios o gobiernos.\
+**Error frecuente:** tratar la gobernanza como un asunto secundario.
+
+# **10:04-10:18: Sharing en plenaria (14 min)**
+
+-   Pedir intervenciones de **2 minutos máximo por equipo**.
+
+-   Orden sugerido:
+
+    -   1 minuto para diagnóstico;
+    -   30 segundos para política prioritaria;
+    -   30 segundos para indicador de alerta.
+
+-   Ir anotando en pizarra o diapositiva compartida:
+
+    -   diagnóstico elegido;
+    -   política prioritaria;
+    -   indicador de seguimiento.
+
+# **10:18-10:23: Ensayo de un minuto (5 min)**
+
+-   Dos preguntas:
+
+    -   ¿Qué idea de Venables te parece más útil para pensar el caso
+        mexicano?
+    -   ¿Qué duda te queda sobre recursos naturales y desarrollo?
+
+# **10:23-10:30: Cierre y colchón de tiempo (7 min)**
+
+-   Recuperar el hilo central:
+
+    -   recursos naturales pueden financiar desarrollo, pero no lo
+        reemplazan;
+    -   el punto crítico es si la renta se transforma en capacidades y
+        activos;
+    -   México necesita algo más que inversión: necesita mejor captura,
+        mejor manejo y menos fallas acumuladas.
+
+-   Usar estos 7 minutos como **colchón real** si alguna sección previa
+    se alarga.
+
+# **Ajustes incorporados a partir de la sesión 3**
+
+-   Los tres conceptests se rediseñaron con **una sola respuesta
+    correcta** para evitar el costo de coordinación que tuvo el formato
+    multirrespuesta.
+
+-   La discusión entre pares queda limitada a **90 segundos** y con
+    **plan B en chat** para participantes en línea.
+
+-   La síntesis de la primera mitad quedó protegida con tiempo propio.
+
+-   La actividad grupal tiene ahora **un entregable único y visible**,
+    para evitar dispersión.
+
+-   La plenaria tiene tiempo preasignado por equipo.
+
+-   Se incorpora un **colchón final de 7 minutos** para absorber
+    desviaciones.
+
+# **Checklist antes de entrar a clase**
+
+-   Abrir con anticipación encuesta o Votingo de los tres conceptests.
+
+-   Preparar slide inicial con instrucciones para Webex:
+    votación individual, breakout rooms y plan B por chat.
+
+-   Tener ya creadas las breakout rooms o decidir desde antes que se
+    usará chat, para no improvisarlo en vivo.
+
+-   Anotar en papel o en la misma diapositiva la hora de inicio real de:
+
+    -   conceptest 1;
+    -   conceptest 2;
+    -   conceptest 3;
+    -   actividad grupal;
+    -   plenaria.
+
+# **Comentarios después de la sesión**
+
+## 2026-2
+
+-   Registrar aquí porcentaje de respuestas correctas de cada
+    conceptest:
+
+    -   Conceptest 1:
+    -   Conceptest 2:
+    -   Conceptest 3:
+
+-   Registrar aquí si funcionó el protocolo híbrido:
+
+    -   ¿Hubo discusión real en línea?
+    -   ¿Funcionaron mejor breakout rooms o chat?
+
+-   Registrar aquí si se sostuvo la síntesis de la primera mitad.
+
+-   Registrar hora real de inicio de la actividad grupal.
+
+-   Registrar si el colchón final alcanzó o no.
