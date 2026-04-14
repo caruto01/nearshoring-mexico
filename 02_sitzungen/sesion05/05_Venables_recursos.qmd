@@ -79,7 +79,7 @@ Un país de ingreso medio descubre un gran yacimiento de cobre. Durante los prim
 
 ## Responder el quiz 1
 
-https://app.sli.do/event/rMeCfi5ZYj4dstpEKFaA7k
+<https://app.sli.do/event/rMeCfi5ZYj4dstpEKFaA7k>
 
 También se puede entrar en slido.com
 
@@ -105,19 +105,26 @@ Dos países pobres descubren gas natural.
 
 -   País B negocia mejor la captura fiscal, crea una regla para suavizar volatilidad y dirige parte de la renta a inversión pública y ahorro.
 
-Según Venables, ¿cuál afirmación es más consistente con el texto?
+¿Qué diagnóstico describe mejor la diferencia esperable entre ambos países en términos de desarrollo de largo plazo?
 
-A. El País A tiene una estrategia superior porque atiende necesidades inmediatas y por eso el ahorro de largo plazo deja de ser importante.
+::: {.incremental .highlight-last}
+1. Las diferencias serán pequeñas, porque cuando existe un recurso valioso, el factor decisivo suele ser la magnitud del yacimiento, no las reglas fiscales.
 
-B. Ambos países enfrentarán el mismo resultado porque la captura fiscal es secundaria frente al volumen físico extraído.
+2. El País A podría crecer más rápido al principio porque destina más recursos al gasto inmediato, y esa ventaja inicial normalmente compensa una menor capacidad de ahorro.
 
-C. El País B tiene más probabilidades de convertir el recurso en desarrollo porque logra captar y administrar mejor la renta a lo largo del tiempo.
+3. El País B tiene mejores perspectivas porque no solo obtiene una mayor proporción de la renta, sino que además reduce la volatilidad y transforma una parte de esa renta en inversión y ahorro. 
 
-D. La diferencia principal entre ambos países dependerá solo del precio internacional del gas, no de sus instituciones fiscales.
+4. Ambos países dependen principalmente de la evolución del precio internacional del gas, de modo que la calidad de los contratos y del manejo fiscal probablemente sea secundaria.
+
+:::
 
 ## Responder el quiz 2
 
-`[Pegar aquí el link de Votingo o Webex Poll]`
+<https://app.sli.do/event/286gM65GJU1YVXjDy5nbSN>
+
+También se puede entrar en slido.com
+
+- Quiz 1854981
 
 ## Concepto 3: La maldición de los recursos como fallas conectadas {.smaller}
 

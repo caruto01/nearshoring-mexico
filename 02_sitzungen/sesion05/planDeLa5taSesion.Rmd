@@ -126,34 +126,36 @@ la transformación de activos.
     todo lo que ingresa en subsidios y nómina pública.
 
 -   **País B:** negocia mejor la captura fiscal, crea una regla para
-    suavizar volatilidad y dirige parte de la renta a inversión pública
-    y ahorro.
+    suavizar la volatilidad y dirige parte de la renta a inversión
+    pública y ahorro.
 
-**Pregunta:** Según Venables, ¿qué resultado es más probable?
+**Pregunta:** ¿Qué diagnóstico describe mejor la diferencia esperable
+entre ambos países en términos de desarrollo de largo plazo?
 
-a)  El País A tiene una estrategia superior porque atiende necesidades
-    inmediatas y por eso el ahorro de largo plazo deja de ser
-    importante.
+a)  Las diferencias serán pequeñas, porque cuando existe un recurso
+    valioso el factor decisivo suele ser la magnitud del yacimiento, no
+    las reglas fiscales.
 
-b)  Ambos países enfrentarán el mismo resultado porque la captura fiscal
-    es secundaria frente al volumen físico extraído.
+b)  El País A podría crecer más rápido al principio porque destina más
+    recursos al gasto inmediato, y esa ventaja inicial normalmente
+    compensa una menor capacidad de ahorro.
 
-c)  **El País B tiene más probabilidades de convertir el recurso en
-    desarrollo porque logra captar y administrar mejor la renta a lo
-    largo del tiempo. (RESPUESTA CORRECTA)**
+c)  **El País B tiene mejores perspectivas porque no solo obtiene una
+    mayor proporción de la renta, sino que además reduce la volatilidad
+    y transforma una parte de esa renta en inversión y ahorro. Respuesta
+    correcta.**
 
-d)  La diferencia principal entre ambos países dependerá solo del precio
-    internacional del gas, no de sus instituciones fiscales.
+d)  Ambos países dependen principalmente de la evolución del precio
+    internacional del gas, de modo que la calidad de los contratos y del
+    manejo fiscal probablemente sea secundaria.
 
 **Tu explicación (no compartir con estudiantes):**
 
-La clave del concepto es que "tener gas" o "tener petróleo" no resuelve
-por sí mismo el problema del desarrollo. Primero importa la capacidad
-para capturar la renta, y luego la capacidad para distribuirla entre
-consumo presente, inversión y ahorro, manejando además la volatilidad.
-El distractor (a) toma las urgencias actuales como si anularan el
-problema intertemporal. El distractor (b) minimiza la política fiscal.
-El distractor (d) borra el papel de las instituciones.
+La posesión del recurso no basta. Lo decisivo es cuánto de la renta
+logra captar el Estado y cómo la administra entre consumo, inversión,
+ahorro y estabilización frente a la volatilidad. Por eso el País B tiene
+mejores perspectivas de desarrollo sostenido: combina mejor captura
+fiscal con mejor manejo intertemporal de la renta.
 
 # **9:29-9:41: Concepto 3 — La maldición de los recursos como conjunto de fallas (12 min)**
 
