@@ -1,0 +1,115 @@
+---
+title: "Conceptos Esenciales de la Quinta Sesión"
+semester: "2026-2"
+author: "Alejandro Márquez"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+documentclass: extarticle
+fontsize: 17pt
+editor_options:
+  markdown:
+    wrap: 72
+---
+
+**Semestre:** `r rmarkdown::metadata$semester`
+
+# Conceptos esenciales de la Sesión 5: Recursos naturales y desarrollo
+
+**Curso:** Nearshoring, Desindustrialización y la Trampa del Ingreso
+Medio: El Futuro del Desarrollo en México **Sesión:** 5 \| Miércoles 15
+de abril de 2026 **Objetivo de aprendizaje:** *Evaluar* por qué la
+abundancia de recursos naturales no se traduce automáticamente en
+desarrollo, y qué tendría que ocurrir para que sí contribuya al cambio
+estructural en México.
+
+**Basado en:** Venables, A. J. (2016). "Using natural resources for
+development: why has it proven so difficult?" *Journal of Economic
+Perspectives*, 30(1), 161-184.
+
+------------------------------------------------------------------------
+
+## Concepto 1: La renta de recursos debe transformarse en otros activos
+
+**Tipo de conocimiento (Biggs y Tang, 2011):** Declarativo.
+
+El primer punto clave de Venables es que la extracción de un recurso no
+renovable no debe pensarse como una simple fuente de ingreso corriente.
+Más bien, la sociedad está transformando una forma de riqueza
+patrimonial, el recurso bajo tierra, en otra forma de riqueza. Por eso,
+la pregunta decisiva no es solo cuánto dinero entra, sino si esa renta
+se convierte en activos que sostengan el desarrollo una vez agotado el
+boom:
+
+-   infraestructura económica;
+-   capacidades productivas;
+-   capital humano;
+-   ahorro público e instituciones más sólidas.
+
+Si la renta se consume principalmente en gasto corriente o transferencias
+de corto plazo, el país puede experimentar un auge sin acumulación
+duradera. En ese sentido, la abundancia de recursos no garantiza
+desarrollo; solo crea una oportunidad condicionada por cómo se gestiona
+la renta.
+
+**Conexión con el curso:** Esto dialoga bien con la pregunta transversal
+del seminario: cómo salir de la trampa del ingreso medio. Para México,
+el problema no es solo atraer inversión o aumentar exportaciones, sino
+si cualquier renta extraordinaria ligada a energía, minerales o
+nearshoring se traduce en nuevas capacidades productivas.
+
+------------------------------------------------------------------------
+
+## Concepto 2: Captura de renta y manejo de ingresos
+
+**Tipo de conocimiento (Biggs y Tang, 2011):** Funcional.
+
+Venables subraya que la extracción de recursos abre inmediatamente un
+problema de finanzas públicas. El recurso genera una renta extraordinaria,
+pero esa renta no entra automáticamente al proceso de desarrollo:
+
+-   primero debe ser capturada por el Estado mediante contratos,
+    regalías, impuestos y capacidad de negociación;
+-   luego debe administrarse entre ahorro, gasto e inversión;
+-   además debe manejarse la volatilidad de precios y la naturaleza
+    agotable del recurso.
+
+Este concepto es funcional porque permite evaluar arreglos
+institucionales concretos. Dos países con un recurso similar pueden
+divergir mucho si uno captura poca renta o la gasta de forma procíclica,
+mientras otro logra estabilizarla e invertirla.
+
+**Conexión con el curso:** Para México, esta idea ayuda a desplazar la
+discusión desde "tenemos o no tenemos recursos" hacia "qué capacidad
+existe para capturar, estabilizar e invertir cualquier renta
+extraordinaria de forma compatible con una estrategia de desarrollo".
+
+------------------------------------------------------------------------
+
+## Concepto 3: La maldición de los recursos como conjunto de fallas
+## conectadas
+
+**Tipo de conocimiento (Biggs y Tang, 2011):** Declarativo.
+
+Venables usa la idea de maldición de los recursos no como una ley
+determinista, sino como un diagnóstico de varios mecanismos que pueden
+reforzarse entre sí:
+
+-   dependencia excesiva de exportaciones basadas en recursos;
+-   bajo ahorro genuino o adjusted net saving;
+-   volatilidad macroeconómica;
+-   Dutch disease y debilitamiento de otros sectores transables;
+-   débil diversificación;
+-   fallas de gobernanza y manejo político de la renta.
+
+La relevancia del concepto es que obliga a ver la dificultad del
+desarrollo basado en recursos como una cadena de problemas entrelazados.
+No hay una sola palanca suficiente para corregirlo todo, porque las
+fallas fiscales, productivas, macroeconómicas e institucionales se
+alimentan mutuamente.
+
+**Conexión con el curso:** Esto permite enlazar Venables con la trampa
+del ingreso medio: un país puede atraer inversión y aun así quedarse con
+poca diversificación, baja productividad y capacidades limitadas si no
+rompe ese conjunto de fallas conectadas.
