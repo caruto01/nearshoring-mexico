@@ -17,6 +17,18 @@ background-transition: fade
 editor: visual
 ---
 
+## Conexión con la sesión anterior
+
+::: {.incremental .highlight-last}
+-   En la sesión 4 discutimos comercio exterior, política industrial y el debate del nearshoring.
+
+-   Hoy cambiamos un poco el ángulo:
+
+    ¿Tener petróleo, gas, cobre o litio ayuda por sí mismo al desarrollo?
+
+-   Texto base: Venables (2016), "Using natural resources for development: why has it proven so difficult?"
+:::
+
 ## Actividades de la sesión {.smaller}
 
 Hoy vamos a trabajar el objetivo de aprendizaje:
@@ -33,30 +45,6 @@ Para ello, van a:
 3.  *Diagnosticar* la maldición de los recursos como un conjunto de mecanismos conectados, no como una sola falla.
 
 4.  *Aplicar* estas ideas al caso de México en el contexto de nearshoring, energía y minerales estratégicos.
-:::
-
-## Conexión con la sesión anterior
-
-::: {.incremental .highlight-last}
--   En la sesión 4 discutimos comercio exterior, política industrial y el debate del nearshoring.
-
--   Hoy cambiamos un poco el ángulo:
-
-    ¿Tener petróleo, gas, cobre o litio ayuda por sí mismo al desarrollo?
-
--   Texto base: Venables (2016), "Using natural resources for development: why has it proven so difficult?"
-:::
-
-## Antes de empezar: protocolo híbrido
-
-::: {.incremental .highlight-last}
--   Todas las personas responden primero de manera individual.
-
--   Si no hay consenso, haremos una discusión breve: presenciales en parejas y virtuales en breakout rooms o en chat, según el tiempo.
-
--   La meta no es "acertar rápido", sino comparar razonamientos.
-
--   Cada conceptest tiene tiempo tope.
 :::
 
 ## Concepto 1: La renta de recursos no es ingreso ordinario {.smaller}
