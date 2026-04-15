@@ -405,17 +405,18 @@ IED o número de plantas.
 -   Registrar aquí porcentaje de respuestas correctas de cada
     conceptest:
 
-    -   Conceptest 1:
-    -   Conceptest 2:
-    -   Conceptest 3:
+    -   Conceptest 1: 100 %
+    -   Conceptest 2: 83 %
+    -   Conceptest 3: 63%, peer instruction, 82%
 
--   Registrar aquí si funcionó el protocolo híbrido:
+-   El sharing en plenaria comenzó a la hora y se extendió hasta las
+    10:25.
 
-    -   ¿Hubo discusión real en línea?
-    -   ¿Funcionaron mejor breakout rooms o chat?
+-   El ensayo de un minuto, entonces, comenzó a las 10:25 y terminó a
+    las 10:29.
 
--   Registrar aquí si se sostuvo la síntesis de la primera mitad.
-
--   Registrar hora real de inicio de la actividad grupal.
-
--   Registrar si el colchón final alcanzó o no.
+-   El cierre fue muy rápido y empezó a las 10:29. Solamente se me
+    olvidó comentar que, a pesar que sí avisé lo del inicio del COIL y
+    que Christian iba a estar a cargo de la sesión, pero se me olvidó
+    comentar el cambio de la temática de la sesión (Colonial legacies
+    ahora).
