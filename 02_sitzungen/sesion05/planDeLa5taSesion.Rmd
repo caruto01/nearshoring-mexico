@@ -229,39 +229,41 @@ explicación demasiado estrecha.
 
 -   **Instrucción única y visible en slide/Moodle:**
 
-    **La dependencia fiscal de los hidrocarburos en México**
+**La dependencia fiscal de los hidrocarburos en México**
 
--   En México, los hidrocarburos han tenido un peso importante como
-    fuente de ingresos públicos (36% del total en promedio entre 2006 y
-    2010) y como parte de una arquitectura político-fiscal más amplia.
-    En años recientes, además, el vínculo entre el sector energético y
-    finanzas públicas ha cambiado, con una reconfiguración de los
-    canales mediante los cuales la renta llega al presupuesto. Por
-    ejemplo, tras la reforma energética de 2014 y la caída de la
-    producción, el peso fiscal del sector se desplazó parcialmente desde
-    las exportaciones de crudo hacia el consumo interno de productos
-    petrolíferos y el uso de instrumentos como el Impuesto Especial
-    sobre Producción y Servicios (IEPS).
+En México, los hidrocarburos y, en particular, Pemex, ocuparon durante
+décadas un lugar central en las finanzas públicas y en la arquitectura
+político-fiscal del Estado. Como muestra Wattnem (2023), la importancia
+fiscal de Pemex fue tal que contribuyó a sostener la estrategia fiscal
+del gobierno y a posponer una reforma tributaria más profunda. Sin
+embargo, esa dependencia se redujo en los años posteriores a la reforma
+energética de 2013-2014: de acuerdo con Costilla-Reyes y
+Vergara-González (2026), los ingresos petroleros representaron
+aproximadamente entre 30% y 40% de los ingresos federales entre 2003 y
+2014, pero cayeron a menos de 15% hacia 2022. Los autores sostienen,
+además, que el cambio no fue solo de magnitud, sino de mecanismo: el
+vínculo entre hidrocarburos y finanzas públicas dejó de descansar
+principalmente en las exportaciones de crudo y pasó a depender más de
+las ventas internas de productos petrolíferos y de instrumentos fiscales
+como el Impuesto Especial sobre Producción y Servicios (IEPS) desde
+2016.
 
--   Fuentes:
+Fuentes:
 
-    Costilla-Reyes, E., & Vergara González, R. (2026). *Renta petrolera
-    y valorización fiscal en México (1990–2023): evidencia estructural
-    mediante VECM*. *Revista de Economía, 43*(106),
-    5–34. <https://doi.org/10.33937/reveco.2026.524>
+Costilla-Reyes, E., & Vergara González, R. (2026). *Renta petrolera y
+valorización fiscal en México (1990–2023): evidencia estructural
+mediante VECM*. *Revista de Economía, 43*(106),
+5–34. <https://doi.org/10.33937/reveco.2026.524>
 
-    Venables (2016)
+Wattnem, T. A. (2023). *Neoliberal resource nationalism: The scramble
+for Mexico’s hydrocarbons*. *Latin American Perspectives, 50*(2), 48–68.
+<https://doi.org/10.1177/0094582X231155857>
 
-    Wattnem, T. A. (2023). *Neoliberal resource nationalism: The
-    scramble for Mexico’s hydrocarbons*. *Latin American Perspectives,
-    50*(2), 48–68. <https://doi.org/10.1177/0094582X231155857>
-
-    "Elijan un diagnóstico principal y construyan una propuesta breve
-    para México: ¿cuál es hoy el principal riesgo (falla en la
-    conversión de riqueza, mala captura y manejo de rentas, o activación
-    de mecanismos de maldición de los recursos) y qué tres acciones
-    concretas permitirían convertir la oportunidad en desarrollo de
-    largo plazo?"
+"Elijan un diagnóstico principal y construyan una propuesta breve para
+México: ¿cuál es hoy el principal riesgo (falla en la conversión de
+riqueza, mala captura y manejo de rentas, o activación de mecanismos de
+maldición de los recursos) y qué tres acciones concretas permitirían
+convertir la oportunidad en desarrollo de largo plazo?"
 
 -   **Entregable por equipo:** tres líneas o bullets con:
 
