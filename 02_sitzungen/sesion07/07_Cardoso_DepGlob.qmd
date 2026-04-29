@@ -1,6 +1,5 @@
 ---
 title: "Structuralist and Dependency Views from Latin America"
-subtitle: "Cardoso (2009): Globalization in Historical Perspective"
 author: "Alejandro Márquez Velázquez"
 institute: "Nearshoring, Deindustrialization and the Middle-Income Trap<br>DEPFE-UNAM &mdash; COIL with FU Berlin (Global South History of Economic Thought)"
 date: "2026-04-29"
@@ -40,16 +39,16 @@ We are working on the course's 2nd Intended Learning Outcome:
 ::: {.incremental .highlight-last}
 You will:
 
-1.  *Distinguish* globalization-as-rupture from globalization-as-a-new-phase-of-capitalism.
+1.  *Distinguish* globalization-as-rupture from globalization-as-a-new-phase-of-capitalism. . .
 
-2.  *Apply* Cardoso's idea of a *margin of political autonomy* to a concrete case.
+2.  *Apply* Cardoso's idea of a *margin of political autonomy* to a concrete case. . .
 
-3.  *Use* the diversified-vs-enclave typology to explain why Latin American countries respond differently to globalization.
+3.  *Use* the diversified-vs-enclave typology to explain why Latin American countries respond differently to globalization. . .
 
 4.  *Read* Mexico's nearshoring moment through Cardoso's framework.
 :::
 
-## Globalization is a new phase, not a rupture
+## Globalization is a new phase, not a rupture {.smaller}
 
 ::: {.incremental .highlight-last}
 - Cardoso (with Faletto, 1967) already saw the "new form of dependency" forming: what would later be called globalization. . .
@@ -68,11 +67,11 @@ A TV commentator argues that globalization is *"an unprecedented break with the 
 From Cardoso's perspective, what is wrong with this characterization?
 
 ::: {.incremental .highlight-last}
-1.  The commentator is essentially correct: Cardoso also treats globalization as a clean rupture, since Cold War conditions no longer apply.
+1.  The commentator is essentially correct: Cardoso also treats globalization as a clean rupture, since Cold War conditions no longer apply. . .
 
-2.  The main error is chronological: globalization actually started much earlier, in the late 1960s.
+2.  The main error is chronological: globalization actually started much earlier, in the late 1960s. . .
 
-3.  Globalization is a new phase of an unfolding capitalist process whose roots reach back at least to commercial capitalism.
+3.  Globalization is a new phase of an unfolding capitalist process whose roots reach back at least to commercial capitalism. . .
 
 4.  The commentator is wrong because globalization, in Cardoso's view, has fully eliminated peripheral states' autonomy.
 :::
@@ -89,16 +88,16 @@ Open Slido at the link below:
 ## Margin of political autonomy
 
 ::: {.incremental .highlight-last}
-- Cardoso: *"strategies and political decisions count considerably"* (p. 299).
+- Cardoso: *"strategies and political decisions count considerably"* (p. 299). . .
 
-- Structural conditions **condition** but do not **determine** development paths.
+- Structural conditions **condition** but do not **determine** development paths. . .
 
-- The margin of autonomy depends on: local capacity for income accumulation, mix of national vs multinational production, public sector role, leadership, prevailing ideologies.
+- The margin of autonomy depends on: local capacity for income accumulation, mix of national vs multinational production, public sector role, leadership, prevailing ideologies. . .
 
 - This is what separates Cardoso from naïve voluntarism *and* from the radical view of dependency.
 :::
 
-## Quiz 2 — The setup
+## Quiz 2: The setup
 
 Two peripheral economies face the same wave of global financial integration in the 1990s.
 
@@ -106,16 +105,16 @@ Two peripheral economies face the same wave of global financial integration in t
 
 - **Country B:** opens unilaterally under the assumption that *"there is no alternative."*
 
-## Quiz 2 — The question {.smaller}
+## Quiz 2: The question {.smaller}
 
 Which diagnosis is closest to Cardoso's framework?
 
 ::: {.incremental .highlight-last}
-1.  Both countries are essentially forced into the same trajectory; the differences in their decisions will not significantly affect long-run outcomes.
+1.  Both countries are essentially forced into the same trajectory; the differences in their decisions will not significantly affect long-run outcomes. . .
 
-2.  Structural conditions condition both countries but do not determine them; political decisions, institutional capacity and prevailing ideologies generate alternative paths.
+2.  Structural conditions condition both countries but do not determine them; political decisions, institutional capacity and prevailing ideologies generate alternative paths. . .
 
-3.  The decisive factor is geography: countries closer to global financial centers will outperform the rest, regardless of policy choices.
+3.  The decisive factor is geography: countries closer to global financial centers will outperform the rest, regardless of policy choices. . .
 
 4.  Cardoso would argue that Country B is the more realistic case, since attempts to negotiate FDI under globalization necessarily fail.
 :::
@@ -129,14 +128,14 @@ Open Slido at the link below:
 - or at slido.com
 - cardoso2
 
-## Diversified vs. enclave economies
+## Diversified vs. enclave economies {.smaller}
 
 ::: {.incremental .highlight-last}
-- Not all peripheral economies behave the same way under globalization.
+- Not all peripheral economies behave the same way under globalization. . .
 
-- **Enclave economies:** single commodity, foreign-owned production, marginal local middle class, weak bargaining capacity (e.g., 19th-c. Bolivia, parts of Central America).
+- **Enclave economies:** single commodity, foreign-owned production, marginal local middle class, weak bargaining capacity (e.g., 19th-c. Bolivia, parts of Central America). . .
 
-- **Diversified economies:** domestic capitalist class, broader industrial base, more room to convert FDI into learning (Argentina, Brazil; Mexico's industrial belt).
+- **Diversified economies:** domestic capitalist class, broader industrial base, more room to convert FDI into learning (Argentina, Brazil; Mexico's industrial belt). . .
 
 - Predicts **different responses** to globalization: enclave → submission or anti-globalization populism; diversified → bargained insertion ("globalized social democracy").
 :::
@@ -222,13 +221,13 @@ Answer individually in Slido:
 ## Closing
 
 ::: {.incremental .highlight-last}
-- Globalization is a new phase of capitalism, not a rupture.
+- Globalization is a new phase of capitalism, not a rupture. . .
 
-- Structure conditions but does not determine; politics matters.
+- Structure conditions but does not determine; politics matters. . .
 
-- Diversified and enclave economies meet globalization with very different margins of autonomy.
+- Diversified and enclave economies meet globalization with very different margins of autonomy. . .
 
 - For Mexico, **nearshoring is a real test**: will it widen autonomy, or quietly surrender it?
 
-- Next week (Session 8, Christian): Amsden, *Industrializing Late* — from the *room* for autonomy to the *content* of late-industrialization strategies.
+- Next week (Session 8, Christian): Amsden, *Industrializing Late*: from the *room* for autonomy to the *content* of late-industrialization strategies.
 :::
