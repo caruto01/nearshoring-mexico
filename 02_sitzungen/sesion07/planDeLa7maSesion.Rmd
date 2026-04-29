@@ -44,7 +44,8 @@ editor_options:
 
   - Cardoso explicitly frames globalization as the unfolding of a
     process he and Faletto already saw forming in the late 1960s under
-    the label "new form of dependency."
+    the label "new form of dependency". (1967, Dependency and
+    Development in Latin America).
   - The structural analysis from the *Dependency and Development*
     tradition still applies: the question is *how* peripheral economies
     integrate into world capitalism, not whether the old rules
@@ -57,10 +58,10 @@ editor_options:
 
 - **9:09–9:17 (8 min):** Conceptest 1, fixed structure.
 
-  - 90 seconds: individual vote.
-  - 90 seconds: short discussion only if results fall in the 30–80%
-    correct range.
-  - 45 seconds: re-vote.
+  - 1 min: individual vote.
+  - 2 min: short discussion only if results fall in the 30–80% correct
+    range.
+  - 1 min: re-vote.
   - 3–4 minutes: explanation and closing.
 
 ## Conceptest 1 — Globalization as historical extension
@@ -86,7 +87,7 @@ b)  The main error is chronological: globalization actually started only
 c)  **The commentator misses that globalization is, for Cardoso, a new
     phase of an unfolding capitalist process whose roots reach back at
     least to commercial capitalism, so historical–structural analysis is
-    still useful — provided it avoids reductionism. Correct.**
+    still useful. Correct.**
 
 d)  The commentator is wrong because globalization, in Cardoso's view,
     has fully eliminated the autonomy of peripheral states, making the
@@ -99,7 +100,8 @@ globalization is *not* a rupture, but neither is it a deterministic
 script. (a) inverts his position. (b) is a date trap. (d) repeats the
 "globalization eliminates autonomy" cliché Cardoso explicitly rejects in
 the essay's abstract. Anchor passages: pp. 296 (abstract), 298–299 ("new
-form of dependency… would later be known as globalization").
+form of dependency… would later be known as globalization"). Provided it
+avoids reductionism.
 
 # **9:17–9:29: Concept 2 — Structural conditions vs. political autonomy (12 min)**
 
