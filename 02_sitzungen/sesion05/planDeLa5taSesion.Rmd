@@ -22,46 +22,45 @@ editor_options:
 
 # **9:00-9:05: Bienvenida, encuadre y protocolo híbrido (5 min)**
 
--   Mostrar slide de actividades de la sesión.
+- Mostrar slide de actividades de la sesión.
 
--   Conexión con la sesión 4: "La sesión pasada discutimos comercio,
-    política industrial y nearshoring. Hoy vamos a una pregunta previa:
-    ¿por qué la riqueza en recursos naturales no se convierte
-    automáticamente en desarrollo?"
+- Conexión con la sesión 4: "La sesión pasada discutimos comercio,
+  política industrial y nearshoring. Hoy vamos a una pregunta previa:
+  ¿por qué la riqueza en recursos naturales no se convierte
+  automáticamente en desarrollo?"
 
--   Texto base: Venables (2016), "Using natural resources for
-    development: why has it proven so difficult?"
+- Texto base: Venables (2016), "Using natural resources for development:
+  why has it proven so difficult?"
 
--   **Protocolo explícito para modalidad híbrida:**
+- **Protocolo explícito para modalidad híbrida:**
 
-    -   Todas las personas responden primero de forma individual.
-    -   Si no hay consenso, la discusión será de **90 segundos**:
-        presenciales en parejas y virtuales en breakout rooms.
-    -   Si Webex complica los breakout rooms, las personas virtuales
-        escriben en el chat: **opción elegida + una razón en una
-        frase**.
-    -   Avisar desde el inicio que también verán la respuesta en sus
-        dispositivos.
+  - Todas las personas responden primero de forma individual.
+  - Si no hay consenso, la discusión será de **90 segundos**:
+    presenciales en parejas y virtuales en breakout rooms.
+  - Si Webex complica los breakout rooms, las personas virtuales
+    escriben en el chat: **opción elegida + una razón en una frase**.
+  - Avisar desde el inicio que también verán la respuesta en sus
+    dispositivos.
 
 # **9:05-9:17: Concepto 1 — La renta de recursos no es ingreso ordinario (12 min)**
 
--   **9:05-9:09 (4 min):** Mini-presentación.
+- **9:05-9:09 (4 min):** Mini-presentación.
 
-    -   Un recurso no renovable es un activo nacional.
-    -   La extracción genera renta, pero también agota riqueza natural.
-    -   La clave del desarrollo es transformar esa renta en otros
-        activos: infraestructura, capital humano, capacidades
-        productivas e instituciones.
-    -   Consumir toda la renta en gasto corriente puede dejar al país
-        con boom sin transformación.
+  - Un recurso no renovable es un activo nacional.
+  - La extracción genera renta, pero también agota riqueza natural.
+  - La clave del desarrollo es transformar esa renta en otros activos:
+    infraestructura, capital humano, capacidades productivas e
+    instituciones.
+  - Consumir toda la renta en gasto corriente puede dejar al país con
+    boom sin transformación.
 
--   **9:09-9:17 (8 min):** Conceptest 1 con estructura fija.
+- **9:09-9:17 (8 min):** Conceptest 1 con estructura fija.
 
-    -   90 segundos: voto individual.
-    -   90 segundos: discusión breve, solo si el resultado cae en el
-        rango de 30-80%.
-    -   45 segundos: segunda votación.
-    -   3-4 minutos: explicación y cierre.
+  - 90 segundos: voto individual.
+  - 90 segundos: discusión breve, solo si el resultado cae en el rango
+    de 30-80%.
+  - 45 segundos: segunda votación.
+  - 3-4 minutos: explicación y cierre.
 
 ## Conceptest 1 — Renta de recursos y transformación de activos
 
@@ -103,18 +102,18 @@ la transformación de activos.
 
 # **9:17-9:29: Concepto 2 — Captura de renta y manejo de ingresos (12 min)**
 
--   **9:17-9:21 (4 min):** Mini-presentación.
+- **9:17-9:21 (4 min):** Mini-presentación.
 
-    -   Tener recursos no basta: importa cuánto de la renta captura el
-        Estado.
-    -   La captura depende de contratos, regalías, impuestos y capacidad
-        institucional.
-    -   Luego viene otra tensión: cuánto ahorrar, cuánto gastar y cómo
-        manejar volatilidad y agotamiento.
-    -   Venables convierte la abundancia de recursos en un problema de
-        finanzas públicas y de horizonte temporal.
+  - Tener recursos no basta: importa cuánto de la renta captura el
+    Estado.
+  - La captura depende de contratos, regalías, impuestos y capacidad
+    institucional.
+  - Luego viene otra tensión: cuánto ahorrar, cuánto gastar y cómo
+    manejar volatilidad y agotamiento.
+  - Venables convierte la abundancia de recursos en un problema de
+    finanzas públicas y de horizonte temporal.
 
--   **9:21-9:29 (8 min):** Conceptest 2 con la misma estructura.
+- **9:21-9:29 (8 min):** Conceptest 2 con la misma estructura.
 
 ## Conceptest 2 — Captura fiscal y manejo intertemporal
 
@@ -122,12 +121,12 @@ la transformación de activos.
 
 **Situación:** Dos países pobres descubren gas natural.
 
--   **País A:** firma contratos débiles, captura poca renta y gasta casi
-    todo lo que ingresa en subsidios y nómina pública.
+- **País A:** firma contratos débiles, captura poca renta y gasta casi
+  todo lo que ingresa en subsidios y nómina pública.
 
--   **País B:** negocia mejor la captura fiscal, crea una regla para
-    suavizar la volatilidad y dirige parte de la renta a inversión
-    pública y ahorro.
+- **País B:** negocia mejor la captura fiscal, crea una regla para
+  suavizar la volatilidad y dirige parte de la renta a inversión pública
+  y ahorro.
 
 **Pregunta:** ¿Qué diagnóstico describe mejor la diferencia esperable
 entre ambos países en términos de desarrollo de largo plazo?
@@ -159,16 +158,16 @@ fiscal con mejor manejo intertemporal de la renta.
 
 # **9:29-9:41: Concepto 3 — La maldición de los recursos como conjunto de fallas (12 min)**
 
--   **9:29-9:33 (4 min):** Mini-presentación.
+- **9:29-9:33 (4 min):** Mini-presentación.
 
-    -   La maldición de los recursos no debe entenderse como una sola
-        ley automática.
-    -   Venables agrupa varios mecanismos: volatilidad, Dutch disease,
-        bajo ahorro, débil diversificación y fallas de gobernanza.
-    -   El problema es cómo esos mecanismos se refuerzan.
-    -   Por eso no existe una única política correctiva.
+  - La maldición de los recursos no debe entenderse como una sola ley
+    automática.
+  - Venables agrupa varios mecanismos: volatilidad, Dutch disease, bajo
+    ahorro, débil diversificación y fallas de gobernanza.
+  - El problema es cómo esos mecanismos se refuerzan.
+  - Por eso no existe una única política correctiva.
 
--   **9:33-9:41 (8 min):** Conceptest 3 con la misma estructura.
+- **9:33-9:41 (8 min):** Conceptest 3 con la misma estructura.
 
 ## Conceptest 3 — La maldición de los recursos como mecanismo compuesto
 
@@ -210,24 +209,24 @@ explicación demasiado estrecha.
 
 # **9:41-9:47: Síntesis protegida de la primera mitad (6 min)**
 
--   **Esta parte no debe recortarse.**
+- **Esta parte no debe recortarse.**
 
--   Recuperar cuatro ideas:
+- Recuperar cuatro ideas:
 
-    -   La renta de recursos debe convertirse en otros activos;
-    -   Capturar renta y administrarla bien es un problema central;
-    -   La maldición de los recursos agrupa fallas conectadas;
-    -   El reto es pensar qué implican estas ideas para México.
+  - La renta de recursos debe convertirse en otros activos;
+  - Capturar renta y administrarla bien es un problema central;
+  - La maldición de los recursos agrupa fallas conectadas;
+  - El reto es pensar qué implican estas ideas para México.
 
--   Pregunta-puente hacia la actividad: "Si mañana México recibe una ola
-    de inversión ligada a minerales críticos y petróleo, ¿qué tendría
-    que pasar para que eso sea desarrollo y no solo otro enclave?"
+- Pregunta-puente hacia la actividad: "Si mañana México recibe una ola
+  de inversión ligada a minerales críticos y petróleo, ¿qué tendría que
+  pasar para que eso sea desarrollo y no solo otro enclave?"
 
 # **9:47-10:04: Actividad grupal (17 min)**
 
--   Formar equipos de 3-4 personas.
+- Formar equipos de 3-4 personas.
 
--   **Instrucción única y visible en slide/Moodle:**
+- **Instrucción única y visible en slide/Moodle:**
 
 **La dependencia fiscal de los hidrocarburos en México**
 
@@ -265,10 +264,10 @@ riqueza, mala captura y manejo de rentas, o activación de mecanismos de
 maldición de los recursos) y qué tres acciones concretas permitirían
 convertir la oportunidad en desarrollo de largo plazo?"
 
--   **Entregable por equipo:** tres líneas o bullets con:
+- **Entregable por equipo:** tres líneas o bullets con:
 
-    -   un diagnóstico central;
-    -   tres acciones de política.
+  - un diagnóstico central;
+  - tres acciones de política.
 
 ## Preguntas para discutir
 
@@ -331,92 +330,90 @@ IED o número de plantas.
 
 # **10:04-10:18: Sharing en plenaria (14 min)**
 
--   Pedir intervenciones de **2 minutos máximo por equipo**.
+- Pedir intervenciones de **2 minutos máximo por equipo**.
 
--   Orden sugerido:
+- Orden sugerido:
 
-    -   1 minuto para diagnóstico;
-    -   30 segundos para política prioritaria;
-    -   30 segundos para riesgo político-institucional.
+  - 1 minuto para diagnóstico;
+  - 30 segundos para política prioritaria;
+  - 30 segundos para riesgo político-institucional.
 
--   Ir anotando en pizarra o diapositiva compartida:
+- Ir anotando en pizarra o diapositiva compartida:
 
-    -   diagnóstico elegido;
-    -   política prioritaria;
-    -   riesgo político-institucional.
+  - diagnóstico elegido;
+  - política prioritaria;
+  - riesgo político-institucional.
 
 # **10:18-10:23: Ensayo de un minuto (5 min)**
 
--   Dos preguntas:
+- Dos preguntas:
 
-    -   ¿Qué idea aprendida hoy te parece más útil para pensar el caso
-        mexicano?
-    -   ¿Qué duda te queda sobre recursos naturales y desarrollo?
+  - ¿Qué idea aprendida hoy te parece más útil para pensar el caso
+    mexicano?
+  - ¿Qué duda te queda sobre recursos naturales y desarrollo?
 
 # **10:23-10:30: Cierre y colchón de tiempo (7 min)**
 
--   Recuperar el hilo central:
+- Recuperar el hilo central:
 
-    -   recursos naturales pueden financiar desarrollo, pero no lo
-        reemplazan;
-    -   el punto crítico es si la renta se transforma en capacidades y
-        activos;
-    -   México necesita algo más que inversión: necesita mejor captura,
-        mejor manejo y menos fallas acumuladas.
+  - recursos naturales pueden financiar desarrollo, pero no lo
+    reemplazan;
+  - el punto crítico es si la renta se transforma en capacidades y
+    activos;
+  - México necesita algo más que inversión: necesita mejor captura,
+    mejor manejo y menos fallas acumuladas.
 
--   Usar estos 7 minutos como **colchón real** si alguna sección previa
-    se alarga.
+- Usar estos 7 minutos como **colchón real** si alguna sección previa se
+  alarga.
 
 # **Ajustes incorporados a partir de la sesión 3**
 
--   Los tres conceptests se rediseñaron con **una sola respuesta
-    correcta** para evitar el costo de coordinación que tuvo el formato
-    multirrespuesta.
+- Los tres conceptests se rediseñaron con **una sola respuesta
+  correcta** para evitar el costo de coordinación que tuvo el formato
+  multirrespuesta.
 
--   La discusión entre pares queda limitada a **90 segundos** y con
-    **plan B en chat** para participantes en línea.
+- La discusión entre pares queda limitada a **90 segundos** y con **plan
+  B en chat** para participantes en línea.
 
--   La síntesis de la primera mitad quedó protegida con tiempo propio.
+- La síntesis de la primera mitad quedó protegida con tiempo propio.
 
--   La actividad grupal tiene ahora **un entregable único y visible**,
-    para evitar dispersión.
+- La actividad grupal tiene ahora **un entregable único y visible**,
+  para evitar dispersión.
 
--   La plenaria tiene tiempo preasignado por equipo.
+- La plenaria tiene tiempo preasignado por equipo.
 
--   Se incorpora un **colchón final de 7 minutos** para absorber
-    desviaciones.
+- Se incorpora un **colchón final de 7 minutos** para absorber
+  desviaciones.
 
 # **Checklist antes de entrar a clase**
 
--   Abrir con anticipación encuesta de los tres conceptests.
+- Abrir con anticipación encuesta de los tres conceptests.
 
--   Anotar en papel o en la misma diapositiva la hora de inicio real de:
+- Anotar en papel o en la misma diapositiva la hora de inicio real de:
 
-    -   conceptest 1;
-    -   conceptest 2;
-    -   conceptest 3;
-    -   actividad grupal;
-    -   plenaria.
+  - conceptest 1;
+  - conceptest 2;
+  - conceptest 3;
+  - actividad grupal;
+  - plenaria.
 
 # **Comentarios después de la sesión**
 
 ## 2026-2
 
--   Registrar aquí porcentaje de respuestas correctas de cada
-    conceptest:
+- Registrar aquí porcentaje de respuestas correctas de cada conceptest:
 
-    -   Conceptest 1: 100 %
-    -   Conceptest 2: 83 %
-    -   Conceptest 3: 63%, peer instruction, 82%
+  - Conceptest 1: 100 %
+  - Conceptest 2: 83 %
+  - Conceptest 3: 63%, peer instruction, 82%
 
--   El sharing en plenaria comenzó a la hora y se extendió hasta las
-    10:25.
+- El sharing en plenaria comenzó a la hora y se extendió hasta las
+  10:25.
 
--   El ensayo de un minuto, entonces, comenzó a las 10:25 y terminó a
-    las 10:29.
+- El ensayo de un minuto, entonces, comenzó a las 10:25 y terminó a las
+  10:29.
 
--   El cierre fue muy rápido y empezó a las 10:29. Solamente se me
-    olvidó comentar que, a pesar que sí avisé lo del inicio del COIL y
-    que Christian iba a estar a cargo de la sesión, pero se me olvidó
-    comentar el cambio de la temática de la sesión (Colonial legacies
-    ahora).
+- El cierre fue muy rápido y empezó a las 10:29. Solamente se me olvidó
+  comentar que, a pesar que sí avisé lo del inicio del COIL y que
+  Christian iba a estar a cargo de la sesión, pero se me olvidó comentar
+  el cambio de la temática de la sesión (Colonial legacies ahora).
