@@ -1,0 +1,231 @@
+---
+title: "Structuralist and Dependency Views from Latin America"
+subtitle: "Cardoso (2009): Globalization in Historical Perspective"
+author: "Alejandro Márquez Velázquez"
+institute: "Nearshoring, Deindustrialization and the Middle-Income Trap<br>DEPFE-UNAM &mdash; COIL with FU Berlin"
+date: "2026-04-29"
+date-format: "D MMMM YYYY"
+lang: en
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    footer: "Semester 2026-2 &mdash; Session 7 (COIL)"
+    transition: slide
+    embed-resources: true
+css: ../assets/styles.css
+background-transition: fade
+editor: visual
+---
+
+## Link to last week
+
+::: {.incremental .highlight-last}
+-   In Session 6 (Ake) we asked how **colonial legacies** still shape development paths in Africa and Latin America.
+
+-   Today we ask a sharper question:
+
+    Does **globalization** rewrite those paths from scratch, or do the old structural pressures just reappear in new clothing?
+
+-   Base text: Cardoso (2009), *New Paths: Globalization in Historical Perspective*.
+:::
+
+## Today's session {.smaller}
+
+We are working on Learning Outcome 2 of the course:
+
+*Contrast* the dominant theoretical approaches to development with structuralist, dependency and new-developmentalist alternatives.
+
+::: {.incremental .highlight-last}
+You will:
+
+1.  *Distinguish* globalization-as-rupture from globalization-as-new-phase-of-capitalism.
+
+2.  *Apply* Cardoso's idea of a *margin of political autonomy* to a concrete case.
+
+3.  *Use* the diversified-vs-enclave typology to explain why Latin American countries respond differently to globalization.
+
+4.  *Read* Mexico's nearshoring moment through Cardoso's framework.
+:::
+
+## Concept 1 &mdash; Globalization is a new phase, not a rupture
+
+::: {.incremental .highlight-last}
+-   Cardoso (with Faletto, 1969) already saw the "new form of dependency" forming &mdash; what would later be called globalization.
+
+-   What is **new**: planetary distribution of production, financial capital mobility, weaker national mechanisms of control.
+
+-   What is **not new**: structural asymmetry between center and periphery; the centrality of political and institutional decisions.
+
+-   Method: a **historical–structural** framework that resists reductionism.
+:::
+
+## Quiz 1 {.smaller}
+
+A TV commentator argues that globalization is *"an unprecedented break with the past"* that has rendered earlier center–periphery analysis obsolete and that began with the fall of the Berlin Wall.
+
+From Cardoso's perspective, what is wrong with this characterization?
+
+::: {.incremental .highlight-last}
+1.  The commentator is essentially correct: Cardoso also treats globalization as a clean rupture, since Cold War conditions no longer apply.
+
+2.  The main error is chronological: globalization actually started only with the 2008 financial crisis.
+
+3.  The commentator misses that, for Cardoso, globalization is a new phase of an unfolding capitalist process whose roots reach back at least to commercial capitalism — historical–structural analysis is still useful, provided it avoids reductionism.
+
+4.  The commentator is wrong because globalization, in Cardoso's view, has fully eliminated peripheral states' autonomy.
+:::
+
+## Answer Quiz 1
+
+Open Slido at the link below or at slido.com.
+
+<https://app.sli.do/event/SLIDO_EVENT_Q1>
+
+-   Quiz code: **TBD-Q1**
+
+## Concept 2 &mdash; Margin of political autonomy
+
+::: {.incremental .highlight-last}
+-   Cardoso's most-cited line in this essay: *"strategies and political decisions count considerably."*
+
+-   Structural conditions **condition** but do not **determine** development paths.
+
+-   The margin of autonomy depends on: local capacity for income accumulation, mix of national vs multinational production, public sector role, leadership, prevailing ideologies.
+
+-   This is what separates Cardoso from naïve voluntarism *and* from a vulgar imperialism-only view of dependency.
+:::
+
+## Quiz 2 &mdash; The setup
+
+Two peripheral economies face the same wave of global financial integration in the 1990s.
+
+-   **Country A:** negotiates aggressively, strengthens domestic financial institutions, conditions FDI on technology transfer.
+
+-   **Country B:** opens unilaterally under the assumption that *"there is no alternative."*
+
+## Quiz 2 &mdash; The question {.smaller}
+
+Which diagnosis is closest to Cardoso's framework?
+
+::: {.incremental .highlight-last}
+1.  Both countries are essentially forced into the same trajectory; the differences in their decisions will not significantly affect long-run outcomes.
+
+2.  Structural conditions condition both countries but do not determine them; political decisions, institutional capacity and prevailing ideologies generate alternative paths even under shared external pressures.
+
+3.  The decisive factor is geography: countries closer to global financial centers will outperform the rest, regardless of policy choices.
+
+4.  Cardoso would argue that Country B is the more realistic case, since attempts to negotiate FDI under globalization necessarily fail.
+:::
+
+## Answer Quiz 2
+
+Open Slido at the link below or at slido.com.
+
+<https://app.sli.do/event/SLIDO_EVENT_Q2>
+
+-   Quiz code: **TBD-Q2**
+
+## Concept 3 &mdash; Diversified vs. enclave economies
+
+::: {.incremental .highlight-last}
+-   Not all peripheral economies behave the same way under globalization.
+
+-   **Enclave economies:** single commodity, foreign-owned production, marginal local middle class, weak bargaining capacity (e.g., 19th-c. Bolivia, parts of Central America).
+
+-   **Diversified economies:** domestic capitalist class, broader industrial base, more room to convert FDI into learning (Argentina, Brazil; Mexico's industrial belt).
+
+-   Predicts **different responses** to globalization: enclave → submission or anti-globalization populism; diversified → bargained insertion ("globalized social democracy").
+:::
+
+## Quiz 3 {.smaller}
+
+**Country X** exports a single mineral, mostly extracted by foreign-owned firms; thin industrial base; the state collects royalties but has weak bargaining capacity.
+
+**Country Y** has a diversified industrial base, a domestic capitalist class, and public institutions experienced in negotiating with multinationals.
+
+::: {.incremental .highlight-last}
+1.  Both face the same external constraints, so their responses to globalization should be substantially similar.
+
+2.  Country X will systematically outperform Country Y because specialization in a single commodity attracts more concentrated foreign investment.
+
+3.  Country Y is better positioned to negotiate the terms of insertion — pushing for technology transfer, local linkages, domestic financial capacity — while Country X is more exposed to polarized political responses (submission or anti-globalization populism) because of its narrower productive base.
+
+4.  The decisive variable is regime type: democracies handle globalization well, authoritarian regimes do not.
+:::
+
+## Answer Quiz 3
+
+Open Slido at the link below or at slido.com.
+
+<https://app.sli.do/event/SLIDO_EVENT_Q3>
+
+-   Quiz code: **TBD-Q3**
+
+## Synthesis of the first half
+
+::: {.incremental .highlight-last}
+1.  Globalization is a **new phase** of an unfolding capitalist process, not a rupture.
+
+2.  Structural conditions **condition** but do not **determine**: politics counts.
+
+3.  **Diversified** and **enclave** economies face globalization with very unequal margins.
+
+4.  So: would Cardoso see **nearshoring** in Mexico as a chance to **widen autonomy**, or as a quiet return to the **enclave logic**?
+:::
+
+## Group activity &mdash; Mexico, nearshoring and Cardoso {.smaller}
+
+You will work in mixed UNAM–FU Berlin teams of **3–4 people** in Webex breakout rooms.
+
+Each team has its **own Google Doc** (link will appear in your breakout chat).
+
+Using Cardoso's distinction between **diversified** and **enclave** economies and his concept of **margin of political autonomy**:
+
+1.  Is nearshoring more likely to **reproduce a low-value-added pattern of dependency**, or to **enable upgrading**? Justify with reference to Cardoso.
+
+2.  Identify **one institutional capacity** Mexico would need to strengthen to widen its margin of autonomy.
+
+3.  State **one risk** that — in Cardoso's terms — could turn nearshoring into a new form of subordinated insertion.
+
+## Deliverable
+
+In your team's Google Doc, write **4–6 bullets** answering all three questions.
+
+We will pull each team's doc on screen during plenary &mdash; **2 minutes per team max**.
+
+## Plenary share-out
+
+For each team, in turn:
+
+-   60 s &mdash; upgrading vs. dependency (Q1);
+-   30 s &mdash; institutional capacity (Q2);
+-   30 s &mdash; Cardoso-style risk (Q3).
+
+The instructor will collect each team's diagnosis, capacity and risk in a shared "team map" slide.
+
+## One-minute essay
+
+Answer individually in Slido:
+
+1.  Which idea from today is most useful for thinking about Mexico?
+
+2.  What doubt about Cardoso, dependency or globalization do you still carry?
+
+<https://app.sli.do/event/SLIDO_EVENT_OME>
+
+-   Quiz code: **TBD-OME**
+
+## Closing
+
+::: {.incremental .highlight-last}
+-   Globalization is a new phase of capitalism, not a rupture.
+
+-   Structure conditions but does not determine; politics matters.
+
+-   Diversified and enclave economies meet globalization with very different margins of autonomy.
+
+-   For Mexico, **nearshoring is a real test**: will it widen autonomy, or quietly surrender it?
+
+-   Next week (Session 8, Christian): Amsden, *Industrializing Late* &mdash; from the *room* for autonomy to the *content* of late-industrialization strategies.
+:::
