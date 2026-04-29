@@ -33,14 +33,14 @@ include-after-body: ../assets/clock.html
 
 ## Today's session {.smaller}
 
-We are working on Learning Outcome 2 of the course:
+We are working on the course's 2nd Intended Learning Outcome:
 
 *Contrast* the dominant theoretical approaches to development with structuralist, dependency and new-developmentalist alternatives.
 
 ::: {.incremental .highlight-last}
 You will:
 
-1.  *Distinguish* globalization-as-rupture from globalization-as-new-phase-of-capitalism.
+1.  *Distinguish* globalization-as-rupture from globalization-as-a-new-phase-of-capitalism.
 
 2.  *Apply* Cardoso's idea of a *margin of political autonomy* to a concrete case.
 
