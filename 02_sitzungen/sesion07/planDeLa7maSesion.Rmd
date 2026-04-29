@@ -244,9 +244,8 @@ deepened.
   (≈7 rooms for \~25 students; adjust on the fly to actual attendance).
 
 - Each team has its **own pre-created Google Doc** (Team 1, Team 2, …).
-  The instructor pastes that team's link in the breakout chat at the
-  moment of assigning the rooms. Comment-open permissions; no shared
-  mega-doc.
+  The instructor pastes the links in the chat before starting the
+  breakout sessions. Comment-open permissions.
 
 - **Single visible brief (also pinned to the slide):**
 
