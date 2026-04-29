@@ -393,23 +393,6 @@ Group 7:
   late-industrialization strategies — what successful late developers
   actually did with that room."
 
-# **Adjustments inherited from Session 5**
-
-- Three conceptests with **a single correct answer** (the multi-answer
-  format from earlier sessions cost too much coordination time online).
-
-- Peer discussion is capped at **90 seconds**, with a **chat fallback**
-  if breakouts are slow.
-
-- Synthesis of the first half is time-protected.
-
-- Group activity has **a single visible deliverable** to avoid
-  dispersion.
-
-- Plenary has pre-allocated time per team.
-
-- A **7-minute end-of-session buffer** absorbs slippage.
-
 # **Pre-class checklist**
 
 - Create the **4 Slido events** (Q1, Q2, Q3, one-minute essay) and paste
@@ -421,9 +404,6 @@ Group 7:
 
 - Open the Webex breakout-room layout before class so room assignment is
   one click.
-
-- Have the **"team links" plenary slide** ready (a table with empty
-  rows: Team / Diagnosis / Capacity / Risk).
 
 - Note real start time of:
 
