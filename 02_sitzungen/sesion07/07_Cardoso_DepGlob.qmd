@@ -49,14 +49,14 @@ You will:
 4.  *Read* Mexico's nearshoring moment through Cardoso's framework.
 :::
 
-## Concept 1 — Globalization is a new phase, not a rupture
+## Globalization is a new phase, not a rupture
 
 ::: {.incremental .highlight-last}
-- Cardoso (with Faletto, 1969) already saw the "new form of dependency" forming — what would later be called globalization.
+- Cardoso (with Faletto, 1967) already saw the "new form of dependency" forming: what would later be called globalization. . .
 
-- What is **new**: planetary distribution of production, financial capital mobility, weaker national mechanisms of control.
+- What is **new**: planetary distribution of production, financial capital mobility, weaker national mechanisms of control. . .
 
-- What is **not new**: structural asymmetry between center and periphery; the centrality of political and institutional decisions.
+- What is **not new**: structural asymmetry between center and periphery; the centrality of political and institutional decisions. . .
 
 - Method: a **historical–structural** framework that resists reductionism.
 :::
@@ -70,31 +70,32 @@ From Cardoso's perspective, what is wrong with this characterization?
 ::: {.incremental .highlight-last}
 1.  The commentator is essentially correct: Cardoso also treats globalization as a clean rupture, since Cold War conditions no longer apply.
 
-2.  The main error is chronological: globalization actually started only with the 2008 financial crisis.
+2.  The main error is chronological: globalization actually started much earlier, in the late 1960s.
 
-3.  The commentator misses that, for Cardoso, globalization is a new phase of an unfolding capitalist process whose roots reach back at least to commercial capitalism — historical–structural analysis is still useful, provided it avoids reductionism.
+3.  Globalization is a new phase of an unfolding capitalist process whose roots reach back at least to commercial capitalism.
 
 4.  The commentator is wrong because globalization, in Cardoso's view, has fully eliminated peripheral states' autonomy.
 :::
 
 ## Answer Quiz 1
 
-Open Slido at the link below or at slido.com.
+Open Slido at the link below:
 
-<https://app.sli.do/event/SLIDO_EVENT_Q1>
+<https://app.sli.do/event/tNS8PcnmXTY2maMzKs4F3q>
 
-- Quiz code: **TBD-Q1**
+- Or at slido.com
+- cardoso1
 
-## Concept 2 — Margin of political autonomy
+## Margin of political autonomy
 
 ::: {.incremental .highlight-last}
-- Cardoso's most-cited line in this essay: *"strategies and political decisions count considerably."*
+- Cardoso: *"strategies and political decisions count considerably"* (p. 299).
 
 - Structural conditions **condition** but do not **determine** development paths.
 
 - The margin of autonomy depends on: local capacity for income accumulation, mix of national vs multinational production, public sector role, leadership, prevailing ideologies.
 
-- This is what separates Cardoso from naïve voluntarism *and* from a vulgar imperialism-only view of dependency.
+- This is what separates Cardoso from naïve voluntarism *and* from the radical view of dependency.
 :::
 
 ## Quiz 2 — The setup
@@ -112,7 +113,7 @@ Which diagnosis is closest to Cardoso's framework?
 ::: {.incremental .highlight-last}
 1.  Both countries are essentially forced into the same trajectory; the differences in their decisions will not significantly affect long-run outcomes.
 
-2.  Structural conditions condition both countries but do not determine them; political decisions, institutional capacity and prevailing ideologies generate alternative paths even under shared external pressures.
+2.  Structural conditions condition both countries but do not determine them; political decisions, institutional capacity and prevailing ideologies generate alternative paths.
 
 3.  The decisive factor is geography: countries closer to global financial centers will outperform the rest, regardless of policy choices.
 
@@ -121,11 +122,12 @@ Which diagnosis is closest to Cardoso's framework?
 
 ## Answer Quiz 2
 
-Open Slido at the link below or at slido.com.
+Open Slido at the link below:
 
-<https://app.sli.do/event/SLIDO_EVENT_Q2>
+<https://app.sli.do/event/rAK7XE9pNtT16hG3mf1XML>
 
-- Quiz code: **TBD-Q2**
+- or at slido.com
+- cardoso2
 
 ## Concept 3 — Diversified vs. enclave economies
 
